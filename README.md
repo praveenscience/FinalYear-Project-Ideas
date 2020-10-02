@@ -24,6 +24,8 @@ We'll organise into different streams here.
 * Tic Tac Toe Game
 * JS Quiz App
 * Covid CheckUp Test
+* Calculator
+* Animation in Web Design
 * Flappy Bird Game
 * Snake Game
 
@@ -32,6 +34,7 @@ We'll organise into different streams here.
 * ToDo App
 * Weather App
 * Recipe search App
+* E-commerce app
 
 ## Full Stack Ideas
 
