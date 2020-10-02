@@ -11,11 +11,14 @@ We'll organise into different streams here.
 ### HTML & CSS
 
 * Responsive Portfolio
+* Photography site
+* Technical Documentation Page
 
 ### JavaScript
 
 * ToDo App
 * Tic Tac Toe Game
+* JS Quiz App
 
 ### React JS
 
