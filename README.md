@@ -4,6 +4,8 @@
 
 We'll organise into different streams here.
 
+![Hacktoberfest Logo](./hacktoberfest.webp)
+
 ## Front End Ideas
 
 ### HTML & CSS
