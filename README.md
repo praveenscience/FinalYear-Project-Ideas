@@ -38,6 +38,8 @@ We'll organise into different streams here.
 * Weather App
 * Recipe search App
 * E-commerce app
+* Tinder Clone
+* AirBnB Clone
 
 ## Full Stack Ideas
 
@@ -65,6 +67,11 @@ We'll organise into different streams here.
 ### C++
 
 * Tic-Tac-Toe Game
+* Chess Game
+
+### Android Studio
+
+* Women Safety App
 
 ## Contribution
 
