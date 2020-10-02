@@ -11,17 +11,23 @@ We'll organise into different streams here.
 ### HTML & CSS
 
 * Responsive Portfolio
+* survey forms
 
 ### JavaScript
 
 * ToDo App
 * Tic Tac Toe Game
+* Covid CheckUp Test
 
 ### React JS
 
 * ToDo App
+* Weather App
+* Recipe search App
 
 ## Full Stack Ideas
+
+* Amazon Clone
 
 ### LAMP Stack
 
