@@ -55,7 +55,7 @@ We'll organise into different streams here.
 * Password Generator
 * Personal Portfolio
 
-### Python-Django
+### C++
 
 * Tic-Tac-Toe Game
 
