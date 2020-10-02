@@ -11,12 +11,15 @@ We'll organise into different streams here.
 ### HTML & CSS
 
 * Responsive Portfolio
-* survey forms
+* Photography Site
+* Technical Documentation Page
+* Survey Forms
 
 ### JavaScript
 
 * ToDo App
 * Tic Tac Toe Game
+* JS Quiz App
 * Covid CheckUp Test
 
 ### React JS
