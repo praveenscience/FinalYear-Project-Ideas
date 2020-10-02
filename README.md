@@ -23,6 +23,8 @@ We'll organise into different streams here.
 * Tic Tac Toe Game
 * JS Quiz App
 * Covid CheckUp Test
+* Flappy Bird Game
+* Snake Game
 
 ### React JS
 
@@ -52,6 +54,10 @@ We'll organise into different streams here.
 * Todo App
 * Password Generator
 * Personal Portfolio
+
+### Python-Django
+
+* Tic-Tac-Toe Game
 
 ## Contribution
 
