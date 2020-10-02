@@ -6,6 +6,8 @@ We'll organise into different streams here.
 
 ![Hacktoberfest Logo](./hacktoberfest.webp)
 
+![I have an idea](https://i.imgur.com/rEXOauT.png)
+
 ## Front End Ideas
 
 ### HTML & CSS
