@@ -17,6 +17,7 @@ We'll organise into different streams here.
 * Technical Documentation Page
 * Survey Forms
 * Comic Reading Site
+* Product Landing Page
 
 ### JavaScript
 
@@ -28,6 +29,8 @@ We'll organise into different streams here.
 * Animation in Web Design
 * Flappy Bird Game
 * Snake Game
+* Maze Game
+* JavaScript Map
 
 ### React JS
 
