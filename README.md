@@ -2,7 +2,7 @@
 
 > ### *Instead of just adding your name and email, why not create a list of project ideas?*
 
-We'll organise into different streams here.
+We'll organise into different streams here. One kind request for motivation: Please [Subscribe to my **YouTube Channel**](https://www.youtube.com/praveenscience?sub_confirmation=1) and also tell your friends too.
 
 ![Hacktoberfest Logo](./hacktoberfest.webp)
 
