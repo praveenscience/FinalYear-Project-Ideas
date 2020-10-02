@@ -16,6 +16,7 @@ We'll organise into different streams here.
 * Photography Site
 * Technical Documentation Page
 * Survey Forms
+* Comic Reading Site
 
 ### JavaScript
 
