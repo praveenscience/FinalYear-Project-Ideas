@@ -35,3 +35,5 @@ We'll organise into different streams here.
 2. Update your Readme in your Repo.
 3. Send a Pull Request.
 4. Optional Request: [Subscribe to my **YouTube Channel**](https://www.youtube.com/praveenscience?sub_confirmation=1).
+
+For a detailed guidance with pictures, see [Contributing to Open Source](https://github.com/CatsInTech/Rezume/blob/master/CONTRIBUTING.md).
