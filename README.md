@@ -42,6 +42,17 @@ We'll organise into different streams here.
 
 * User Management System
 
+### Blockchain
+
+* Simple Voting Dapp
+* Digital Land Registry System
+
+### Python-Django
+
+* Todo App
+* Password Generator
+* Personal Portfolio
+
 ## Contribution
 
 1. Star this Repo and Fork this Repo.
