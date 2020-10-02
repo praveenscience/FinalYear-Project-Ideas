@@ -78,6 +78,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### Android Studio
 
 * Women Safety App
+* Notes App
+* Snake Game
+* Shopping App(with backend)
+* Flappy Bird
 
 ## Contribution
 
