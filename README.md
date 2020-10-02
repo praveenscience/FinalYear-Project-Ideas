@@ -43,6 +43,8 @@ We'll organise into different streams here.
 
 ## Full Stack Ideas
 
+### Generic Stack
+
 * Amazon Clone
 
 ### LAMP Stack
@@ -64,10 +66,14 @@ We'll organise into different streams here.
 * Password Generator
 * Personal Portfolio
 
+## Programming Ideas
+
 ### C++
 
 * Tic-Tac-Toe Game
 * Chess Game
+
+## Mobile Applications
 
 ### Android Studio
 
