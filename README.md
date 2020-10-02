@@ -16,6 +16,7 @@ We'll organise into different streams here.
 * Photography Site
 * Technical Documentation Page
 * Survey Forms
+* Comic Reading Site
 
 ### JavaScript
 
@@ -25,6 +26,8 @@ We'll organise into different streams here.
 * Covid CheckUp Test
 * Calculator
 * Animation in Web Design
+* Flappy Bird Game
+* Snake Game
 
 ### React JS
 
@@ -44,6 +47,21 @@ We'll organise into different streams here.
 ### MERN Stack
 
 * User Management System
+
+### Blockchain
+
+* Simple Voting Dapp
+* Digital Land Registry System
+
+### Python-Django
+
+* Todo App
+* Password Generator
+* Personal Portfolio
+
+### C++
+
+* Tic-Tac-Toe Game
 
 ## Contribution
 
