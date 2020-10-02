@@ -1,6 +1,6 @@
 # Hacktoberfest-Project-Ideas
 
-> ## *Instead of just adding your name and email, why not create a list of project ideas?*
+> ### *Instead of just adding your name and email, why not create a list of project ideas?*
 
 We'll organise into different streams here.
 
