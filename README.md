@@ -23,12 +23,15 @@ We'll organise into different streams here.
 * Tic Tac Toe Game
 * JS Quiz App
 * Covid CheckUp Test
+* Calculator
+* Animation in Web Design
 
 ### React JS
 
 * ToDo App
 * Weather App
 * Recipe search App
+* E-commerce app
 
 ## Full Stack Ideas
 
