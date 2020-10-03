@@ -42,7 +42,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * AirBnB Clone
 * Music Streaming Application
 * Crypto Currency Price Info
-* Skribbl.io clone using sockets.io
+* Skribbl.io clone using socket.io
 
 ## Full Stack Ideas
 
