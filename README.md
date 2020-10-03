@@ -86,6 +86,16 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Shopping App (+Backend)
 * Flappy Bird
 
+## Desktop Applications
+
+### Electron JS
+
+* MS-Excel Clone
+* VS Code Clone
+* Zoom Clone
+
+
+
 ## Contribution
 
 1. Star this Repo and Fork this Repo.
