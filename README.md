@@ -11,15 +11,18 @@ We'll organise into different streams here.
 ### HTML & CSS
 
 * Responsive Portfolio
+* Weather Suggestions a simple web page
 
 ### JavaScript
 
 * ToDo App
 * Tic Tac Toe Game
+* Random Quotes Project
 
 ### React JS
 
 * ToDo App
+* An Entertainment App simillar to Spotify
 
 ## Full Stack Ideas
 
@@ -30,6 +33,8 @@ We'll organise into different streams here.
 ### MERN Stack
 
 * User Management System
+* Farmering Maintaince App
+
 
 ## Contribution
 
