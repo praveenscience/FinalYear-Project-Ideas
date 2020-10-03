@@ -18,7 +18,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
-* Movie ticket booking website
+* Fashion E-Commerce Website
+* movie ticket booking system
+
 
 ### JavaScript
 
