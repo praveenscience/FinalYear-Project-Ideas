@@ -76,6 +76,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Chess Game
 * Magic 8 Ball
+* Ping Pong Game
 
 ## Mobile Applications
 
