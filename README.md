@@ -19,8 +19,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Comic Reading Site
 * Product Landing Page
 * Fashion E-Commerce Website
-* movie ticket booking system
-
+* Movie Ticket Booking System
 
 ### JavaScript
 
