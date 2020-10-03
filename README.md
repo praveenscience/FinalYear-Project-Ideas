@@ -40,6 +40,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* Music Streaming Application
+* Crypto Currency Price Info
+* Skribbl.io clone using sockets.io
 
 ## Full Stack Ideas
 
@@ -67,6 +70,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Web Scrapper
 
 ## Programming Ideas
 
@@ -85,6 +89,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Digital Signing Platform
+* Image Annotation App
 
 ## Contribution
 
