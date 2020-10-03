@@ -7,6 +7,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ![Hacktoberfest Logo](./hacktoberfest.webp)
 
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
+## Python Projects
+
+ * TEXT to SPEECH conversion
+ * SPEECH to TEXT conversion
+ 
+## Machine learning Ideas
+
+* Handwritten digit classifier
+* Smile Detector using opencv
 
 ## Front End Ideas
 
@@ -18,6 +27,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+*
 
 ### JavaScript
 
