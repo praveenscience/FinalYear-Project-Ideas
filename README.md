@@ -31,6 +31,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Banking System
+* Space Invaders Game
 
 ### React JS
 
@@ -42,6 +44,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * AirBnB Clone
 
 ## Full Stack Ideas
+*Payment Gateway Integration
 
 ### Generic Stack
 
