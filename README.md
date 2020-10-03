@@ -40,6 +40,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* GitHub User Finding by name
 
 ## Full Stack Ideas
 
@@ -55,6 +56,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * User Management System
 * Virtual Queue Management System
+* Contact Keeping
 
 ### Blockchain
 
@@ -75,6 +77,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Chess Game
 * Magic 8 Ball
+* Sudoku
 
 ## Mobile Applications
 
@@ -85,6 +88,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Reading book application
 
 ## Contribution
 
