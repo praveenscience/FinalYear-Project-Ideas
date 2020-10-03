@@ -54,7 +54,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### MERN Stack
 
 * User Management System
-* Virtual queue management system
+* Virtual Queue Management System
 
 ### Blockchain
 
