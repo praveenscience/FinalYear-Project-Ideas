@@ -40,6 +40,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* Github Finder
+* Movie Listener
 
 ## Full Stack Ideas
 
