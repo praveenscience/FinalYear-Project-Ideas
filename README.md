@@ -24,6 +24,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * ToDo App
 * Tic Tac Toe Game
 * JS Quiz App
+* Expense Manager
 * Covid CheckUp Test
 * Calculator
 * Animation in Web Design
@@ -54,7 +55,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### MERN Stack
 
 * User Management System
-* Virtual Queue Management System
 
 ### Blockchain
 
