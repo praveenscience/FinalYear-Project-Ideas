@@ -68,6 +68,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Personal Portfolio
 * Stone Paper Scissor
 
+
+
+
 ## Programming Ideas
 
 ### C++
@@ -75,6 +78,16 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Chess Game
 * Magic 8 Ball
+
+### Python
+
+* Virtual Assistant
+* Automatic Quote Generator(use API to fetch quotes)
+* Guessing Game
+
+### Java
+* Hotel Management System
+* Attendance System(with database)
 
 ## Mobile Applications
 
@@ -85,6 +98,21 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Document Scanner
+* Whatsapp Clone
+
+## Unity Applications
+
+### Game Development
+
+* Endless Runner
+* Car Racing Game
+
+### Augmented Reality
+
+* AR Chemistry(Markerbased)
+* AR Book(Markerbased)
+* AR Bottle Shooter(Markerless)
 
 ## Contribution
 
