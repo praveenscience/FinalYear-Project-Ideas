@@ -19,7 +19,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Comic Reading Site
 * Product Landing Page
 * Fashion E-Commerce Website
-* Movie Ticket Booking System
+
 
 ### JavaScript
 
@@ -69,6 +69,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Movie Ticket Booking System
 
 ## Programming Ideas
 
