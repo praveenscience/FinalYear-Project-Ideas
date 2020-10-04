@@ -18,6 +18,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Music and lyrics site
+* E-book reading site
+* Restaurant website
 
 ### JavaScript
 
