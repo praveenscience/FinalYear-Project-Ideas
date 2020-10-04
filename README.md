@@ -21,7 +21,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fashion E-Commerce Website
 * Restaurant management system
 * Event management website 
-
 ### JavaScript
 
 * ToDo App
