@@ -17,10 +17,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Technical Documentation Page
 * Survey Forms
 * Comic Reading Site
-* Product Landing Page
+* Product Landing Pag
 * Fashion E-Commerce Website
 * Restaurant management system
 * Event management website 
+
 ### JavaScript
 
 * ToDo App
@@ -48,6 +49,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### Generic Stack
 
 * Amazon Clone
+* Fashion E-Commerce Website
 
 ### LAMP Stack
 
@@ -78,6 +80,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Chess Game
 * Magic 8 Ball
+* Ping Pong Game
 
 ## Mobile Applications
 
