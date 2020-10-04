@@ -87,6 +87,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Resume Builder App
+* News Reader App 
+* Voice Notes App
 
 ## Contribution
 
