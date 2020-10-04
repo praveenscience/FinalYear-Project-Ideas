@@ -47,7 +47,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Amazon Clone
 * Fashion E-Commerce Website
-
+* Food Delivery App
 ### LAMP Stack
 
 * GuestBook App
@@ -68,6 +68,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Reminder System
+* Automatic mail sender on birthdays or before events
 
 ## Programming Ideas
 
