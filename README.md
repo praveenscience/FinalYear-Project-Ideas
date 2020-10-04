@@ -20,8 +20,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Product Landing Page
 * Fashion E-Commerce Website
 * Restaurant management system
-* Event management website
-
+* Event management website 
 
 ### JavaScript
 
