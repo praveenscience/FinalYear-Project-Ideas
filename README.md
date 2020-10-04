@@ -22,7 +22,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Restaurant management system
 * Event management website
 
-
 ### JavaScript
 
 * ToDo App
