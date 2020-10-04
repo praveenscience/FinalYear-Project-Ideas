@@ -47,6 +47,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Amazon Clone
 * Fashion E-Commerce Website
+* Content Management System for a blog
 
 ### LAMP Stack
 
@@ -56,6 +57,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * User Management System
 * Virtual Queue Management System
+* Online Distance Education System
 
 ### Blockchain
 
@@ -68,6 +70,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Billing System 
 
 ## Programming Ideas
 
