@@ -31,6 +31,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Memory (Card game)
 
 ### React JS
 
@@ -40,6 +41,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* Instagram Clone
 
 ## Full Stack Ideas
 
