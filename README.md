@@ -70,7 +70,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Personal Portfolio
 * Stone Paper Scissor
 * Reminder System
-* Automatic mail sender on birthdays or before events
+* Automatic Birthdays Mailer
 
 ## Programming Ideas
 
@@ -90,6 +90,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Daily Expenses App (+Backend)
+* Shop App
 * Resume Builder App
 * News Reader App 
 * Voice Notes App
