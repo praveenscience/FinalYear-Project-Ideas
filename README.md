@@ -93,6 +93,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Menstrual Cycle Tracker (similar to CLUE App)
   > The app which accurately predicts your period,helps women to understand their symptoms, giving enough knowledge about cancer related problems.
 * Creating your own music App like Spotify.
+* Awesome Cook App
+  > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them.  
 
 ## AI/ML
 
