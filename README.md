@@ -45,6 +45,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Github Finder
 * Movie Listener
 * Instagram Clone
+* Random Quote Generator
 
 ## Full Stack Ideas
 
