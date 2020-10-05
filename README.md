@@ -90,6 +90,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Facial recognition using Python OpenCV library
 * Magic 8 Ball
 * Ping Pong Game
+* Invisibility Cloak, like of Harry Potter to make you invisible when you put a red cloth infront of you with Python OpenCV Library
 
 ## Mobile Applications
 
@@ -105,6 +106,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Resume Builder App
 * News Reader App 
 * Voice Notes App
+* Chatbot App for Mental Health ( +Backend with AI/ML )
 
 ### Flutter
 
