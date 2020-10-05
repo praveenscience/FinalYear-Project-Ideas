@@ -83,6 +83,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Tic-Tac-Toe Game
 * Chess Game
+* Library Management System
+
+### Python
+
+* Facial recognition using Python OpenCV library
 * Magic 8 Ball
 * Ping Pong Game
 
