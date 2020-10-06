@@ -18,6 +18,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Basic Travel Agency site
 
 ### JavaScript
 
@@ -33,6 +34,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Maze Game
 * JavaScript Map
 * Memory (Card game)
+
 
 ### React JS
 
@@ -53,6 +55,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Amazon Clone
 * Fashion E-Commerce Website
 * Food Delivery App
+* Poll App
+* Social media clone
 
 ### LAMP Stack
 
