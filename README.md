@@ -118,7 +118,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ## AI/ML
 
 * Chatbot for Healthcare Management
-* Spam Email detection system
+* Spam Email Detection System
  
 ## Contribution
 
