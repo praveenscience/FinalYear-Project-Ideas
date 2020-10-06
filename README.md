@@ -33,6 +33,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Maze Game
 * JavaScript Map
 * Memory (Card game)
+* Drum Kit 
+* The RGB Color Game
+* Dice Game
 
 ### React JS
 
@@ -105,6 +108,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Resume Builder App
 * News Reader App 
 * Voice Notes App
+* Meme share app
 
 ### Flutter
 
