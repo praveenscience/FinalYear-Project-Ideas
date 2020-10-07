@@ -24,6 +24,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * ToDo App
 * Tic Tac Toe Game
 * JS Quiz App
+* Expense Manager
 * Covid CheckUp Test
 * Calculator
 * Animation in Web Design
@@ -31,8 +32,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+
 * Banking System
 * Space Invaders Game
+* Memory (Card game)
+
 
 ### React JS
 
@@ -42,6 +46,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* Github Finder
+* Movie Listener
+* Instagram Clone
+* Netflix Clone
 
 ## Full Stack Ideas
 *Payment Gateway Integration
@@ -49,6 +57,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### Generic Stack
 
 * Amazon Clone
+* Fashion E-Commerce Website
+* Food Delivery App
 
 ### LAMP Stack
 
@@ -57,6 +67,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### MERN Stack
 
 * User Management System
+* Virtual Queue Management System
 
 ### Blockchain
 
@@ -68,6 +79,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Todo App
 * Password Generator
 * Personal Portfolio
+* Stone Paper Scissor
+* Reminder System
+* Automatic Birthdays Mailer
 
 ## Programming Ideas
 
@@ -75,6 +89,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Tic-Tac-Toe Game
 * Chess Game
+* Library Management System
+
+### Python
+
+* Facial recognition using Python OpenCV library
+* Magic 8 Ball
+* Ping Pong Game
 
 ## Mobile Applications
 
@@ -85,7 +106,25 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Daily Expenses App (+Backend)
+* Shop App
+* Resume Builder App
+* News Reader App 
+* Voice Notes App
 
+### Flutter
+
+* Menstrual Cycle Tracker (similar to CLUE App)
+  > The app which accurately predicts your period,helps women to understand their symptoms, giving enough knowledge about cancer related problems.
+* Creating your own music App like Spotify.
+* Awesome Cook App
+  > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them.  
+
+## AI/ML
+
+* Chatbot for Healthcare Management
+* Spam Email Detection System
+ 
 ## Contribution
 
 1. Star this Repo and Fork this Repo.
