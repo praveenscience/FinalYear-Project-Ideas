@@ -96,6 +96,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Android Studio
 
+* Book library app
+* Novel library app
 * Women Safety App (+Backend)
 * Notes App
 * Snake Game
