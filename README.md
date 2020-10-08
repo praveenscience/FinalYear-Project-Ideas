@@ -91,6 +91,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Facial recognition using Python OpenCV library
 * Magic 8 Ball
 * Ping Pong Game
+* 3D AR Draw with Python (OpenCV and numpy)
 
 ## Mobile Applications
 
