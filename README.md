@@ -32,7 +32,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
-* Memory (Card game)
+* Memory (Card Game)
 * Transaction Limiter (Splitwise App Clone)
 
 ### React JS
@@ -92,6 +92,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Facial recognition using Python OpenCV library
 * Magic 8 Ball
 * Ping Pong Game
+* 3D AR Draw with Python (OpenCV and NumPy)
 
 ## Mobile Applications
 
