@@ -54,15 +54,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Library Managemnet App
 * Authorization Server
 * Chatting App
-* E-Wallet App
-* Online store App
+* eWallet App
+* Online Store App
 
 ## Full Stack Ideas
 
 ### Generic Stack
 
 * Amazon Clone
-* Fashion E-Commerce Website
+* Fashion eCommerce Website
 * Food Delivery App
 
 ### LAMP Stack
