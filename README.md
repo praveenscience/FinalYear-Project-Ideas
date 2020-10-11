@@ -48,12 +48,22 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Instagram Clone
 * Netflix Clone
 
+## Back End Ideas
+
+### Spring Stack
+
+* Library Managemnet App
+* Authorization Server
+* Chatting App
+* eWallet App
+* Online Store App
+
 ## Full Stack Ideas
 
 ### Generic Stack
 
 * Amazon Clone
-* Fashion E-Commerce Website
+* Fashion eCommerce Website
 * Food Delivery App
 
 ### LAMP Stack
