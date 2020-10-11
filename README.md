@@ -33,7 +33,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Maze Game
 * JavaScript Map
 * Memory (Card game)
-* Transaction Limiter(like Splitwise app)
+* Transaction Limiter (Splitwise App Clone)
 
 ### React JS
 
