@@ -32,6 +32,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Tip Calculator
+* Color Palette App
+* Virtual Drums App
+* Dice Roll
+* Weather App 
+* Hangman Game
 * Memory (Card Game)
 * Transaction Limiter (Splitwise App Clone)
 
@@ -43,6 +49,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* Instagram Clone
 * Github Finder
 * Movie Listener
 * Instagram Clone
@@ -75,10 +82,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * User Management System
 * Virtual Queue Management System
 
+
 ### Blockchain
 
 * Simple Voting Dapp
 * Digital Land Registry System
+* Personal Identity System
+* Supply Chain Management System
+* Cryptocurrency 
+* Medical use case - Storing sensitive medical data 
 
 ### Python-Django
 
@@ -86,6 +98,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Palindrome Checker
+* Sorting Visualizer
 * Reminder System
 * Automatic Birthdays Mailer
 
@@ -105,6 +119,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * 3D AR Draw with Python (OpenCV and NumPy)
 
 ## Mobile Applications
+* Weather App
+* Restaurant App using API
+* Expense Tracker App
 
 ### Android Studio
 
@@ -113,6 +130,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Service App (Hospital, Business, etc.)
+* COVID-19 Tracker
 * Daily Expenses App (+Backend)
 * Shop App
 * Resume Builder App
