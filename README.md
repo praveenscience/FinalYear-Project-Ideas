@@ -51,11 +51,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Spring Stack
 
-* Library Managemnet App
+* Library Management App
 * Authorization Server
 * Chatting App
 * eWallet App
 * Online Store App
+* Employee Manager App
 
 ## Full Stack Ideas
 
