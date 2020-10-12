@@ -33,9 +33,20 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Maze Game
 * JavaScript Map
 
+
 * Banking System
 * Space Invaders Game
 * Memory (Card game)
+
+* Tip Calculator
+* Color Palette App
+* Virtual Drums App
+* Dice Roll
+* Weather App 
+* Hangman Game
+* Memory (Card Game)
+* Transaction Limiter (Splitwise App Clone)
+
 
 
 ### React JS
@@ -46,10 +57,21 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* Instagram Clone
 * Github Finder
 * Movie Listener
 * Instagram Clone
 * Netflix Clone
+
+## Back End Ideas
+
+### Spring Stack
+
+* Library Managemnet App
+* Authorization Server
+* Chatting App
+* eWallet App
+* Online Store App
 
 ## Full Stack Ideas
 *Payment Gateway Integration
@@ -57,7 +79,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### Generic Stack
 
 * Amazon Clone
-* Fashion E-Commerce Website
+* Fashion eCommerce Website
 * Food Delivery App
 
 ### LAMP Stack
@@ -69,10 +91,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * User Management System
 * Virtual Queue Management System
 
+
 ### Blockchain
 
 * Simple Voting Dapp
 * Digital Land Registry System
+* Personal Identity System
+* Supply Chain Management System
+* Cryptocurrency 
+* Medical use case - Storing sensitive medical data 
 
 ### Python-Django
 
@@ -80,6 +107,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Palindrome Checker
+* Sorting Visualizer
 * Reminder System
 * Automatic Birthdays Mailer
 
@@ -96,8 +125,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Facial recognition using Python OpenCV library
 * Magic 8 Ball
 * Ping Pong Game
+* 3D AR Draw with Python (OpenCV and NumPy)
 
 ## Mobile Applications
+* Weather App
+* Restaurant App using API
+* Expense Tracker App
 
 ### Android Studio
 
@@ -106,6 +139,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Service App (Hospital, Business, etc.)
+* COVID-19 Tracker
 * Daily Expenses App (+Backend)
 * Shop App
 * Resume Builder App
