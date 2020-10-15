@@ -40,6 +40,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Hangman Game
 * Memory (Card Game)
 * Transaction Limiter (Splitwise App Clone)
+* Patatap Game
+* RGB color Gussing Game
 
 ### React JS
 
@@ -54,6 +56,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Listener
 * Instagram Clone
 * Netflix Clone
+* My Diary 
 
 ## Back End Ideas
 
@@ -150,6 +153,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Chatbot for Healthcare Management
 * Spam Email Detection System
+
+##DataStructure and Algorithm
+
+* Sorting Algorithm Vizualizer
+* Visualization of Shortest Path Finding Algorithm 
  
 ## Contribution
 
