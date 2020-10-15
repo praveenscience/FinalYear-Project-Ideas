@@ -44,6 +44,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### React JS
 
 * ToDo App
+* Dictionary App (Using Oxford Dictionary Api)
 * Weather App
 * Recipe search App
 * E-commerce app
