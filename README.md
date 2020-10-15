@@ -117,11 +117,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Magic 8 Ball
 * Ping Pong Game
 * 3D AR Draw with Python (OpenCV and NumPy)
+* Bike Sharing System.
 
 ## Mobile Applications
 * Weather App
 * Restaurant App using API
 * Expense Tracker App
+* Smart Education App
 
 ### Android Studio
 
@@ -150,6 +152,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Chatbot for Healthcare Management
 * Spam Email Detection System
+* Public Sentiment Analyser for Election. 
  
 ## Contribution
 
