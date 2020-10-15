@@ -147,6 +147,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Awesome Cook App
   > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them.  
 
+## React Native
+
+* Book Rating/Review App (similar to IMDB but for books)
+  > We can search about a book (google books/goodreads API) get info about it, with addition of backend we can make a 'TO-READ'/favourites list.
+
 ## AI/ML
 
 * Chatbot for Healthcare Management
