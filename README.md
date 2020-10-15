@@ -54,6 +54,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Listener
 * Instagram Clone
 * Netflix Clone
+* Messaging App
 
 ## Back End Ideas
 
@@ -81,6 +82,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * User Management System
 * Virtual Queue Management System
+* e-Commerce Website
 
 
 ### Blockchain
@@ -137,6 +139,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Resume Builder App
 * News Reader App 
 * Voice Notes App
+* Voice Changer App
 
 ### Flutter
 
