@@ -90,11 +90,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Electron JS
 
-* MS-Excel Clone
+* Microsoft Excel Clone
 * VS Code Clone
 * Zoom Clone
-
-
 
 ## Contribution
 
