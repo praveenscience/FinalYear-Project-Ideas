@@ -163,6 +163,14 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Chatbot for Healthcare Management
 * Spam Email Detection System
 
+## Desktop Applications
+
+### Electron JS
+
+* Microsoft Excel Clone
+* VS Code Clone
+* Zoom Clone
+
 ## Contribution
 
 1. Star this Repo and Fork this Repo.
