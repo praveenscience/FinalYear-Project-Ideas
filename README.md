@@ -54,6 +54,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* Music Streaming Application
+* Crypto Currency Price Info
+* Skribbl.io Clone (using Socket.io)
 * WhatsApp Web Clone
 * Instagram Clone
 * Github Finder
@@ -104,6 +107,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Web Scraper
 * Palindrome Checker
 * Sorting Visualizer
 * Reminder System
@@ -136,6 +140,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Digital Signing Platform
+* Image Annotation App
 * Service App (Hospital, Business, etc.)
 * COVID-19 Tracker
 * Daily Expenses App (+Backend)
@@ -156,7 +162,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Chatbot for Healthcare Management
 * Spam Email Detection System
- 
+
 ## Contribution
 
 1. Star this Repo and Fork this Repo.
