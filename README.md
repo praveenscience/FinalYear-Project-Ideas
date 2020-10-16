@@ -57,6 +57,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* GitHub User Finding by Name
 * Music Streaming Application
 * Crypto Currency Price Info
 * Skribbl.io Clone (using Socket.io)
@@ -94,6 +95,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * User Management System
 * Virtual Queue Management System
+* Contact Keeping
 
 ### Blockchain
 
@@ -129,6 +131,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Facial recognition using Python OpenCV library
 * Magic 8 Ball
+* Sudoku Solver
 * Ping Pong Game
 * 3D AR Draw with Python (OpenCV and NumPy)
 
@@ -144,6 +147,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Reading Book App
 * Digital Signing Platform
 * Image Annotation App
 * Service App (Hospital, Business, etc.)
@@ -151,7 +155,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Daily Expenses App (+Backend)
 * Shop App
 * Resume Builder App
-* News Reader App 
+* News Reader App
 * Voice Notes App
 
 ### Flutter
