@@ -18,6 +18,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Restaurant Landing Page
 
 ### JavaScript
 
@@ -32,6 +33,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Music App
 * Tip Calculator
 * Color Palette App
 * Virtual Drums App
@@ -49,6 +51,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* WhatsApp Web Clone
 * Instagram Clone
 * Github Finder
 * Movie Listener
