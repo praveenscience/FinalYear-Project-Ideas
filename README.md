@@ -18,6 +18,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Restaurant Landing Page
 
 ### JavaScript
 
@@ -32,12 +33,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
-
-
 * Banking System
 * Space Invaders Game
 * Memory (Card game)
-
+* Music App
 * Tip Calculator
 * Color Palette App
 * Virtual Drums App
@@ -47,8 +46,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Memory (Card Game)
 * Transaction Limiter (Splitwise App Clone)
 
-
-
 ### React JS
 
 * ToDo App
@@ -57,6 +54,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* WhatsApp Web Clone
 * Instagram Clone
 * Github Finder
 * Movie Listener
@@ -74,10 +72,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Online Store App
 
 ## Full Stack Ideas
-*Payment Gateway Integration
 
 ### Generic Stack
 
+* Payment Gateway Integration
 * Amazon Clone
 * Fashion eCommerce Website
 * Food Delivery App
@@ -90,7 +88,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * User Management System
 * Virtual Queue Management System
-
 
 ### Blockchain
 
