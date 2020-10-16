@@ -33,6 +33,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Banking System
+* Space Invaders Game
+* Memory (Card game)
 * Music App
 * Tip Calculator
 * Color Palette App
@@ -72,6 +75,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Generic Stack
 
+* Payment Gateway Integration
 * Amazon Clone
 * Fashion eCommerce Website
 * Food Delivery App
@@ -84,7 +88,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * User Management System
 * Virtual Queue Management System
-
 
 ### Blockchain
 
