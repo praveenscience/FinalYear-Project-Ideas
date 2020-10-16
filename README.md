@@ -18,6 +18,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Event or Conference Page
+* Online Store Page
 * Restaurant Landing Page
 
 ### JavaScript
@@ -33,6 +35,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Online Quiz
 * Banking System
 * Space Invaders Game
 * Memory (Card game)
@@ -107,6 +110,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Email Sender
 * Web Scraper
 * Palindrome Checker
 * Sorting Visualizer
