@@ -18,6 +18,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Tribute Page
+* Parallax Site
 * Fashion eCommerce Website
 * Restaurant Management Website
 * Event Management Website
@@ -39,6 +41,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Sudoku Solver
+* Nano ID
+* Prettier
 * Random Quotes Project
 * Online Quiz
 * Banking System
@@ -62,14 +67,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* GitHub Issues Page
 * An Entertainment App
 * GitHub User Finding by Name
-* Music Streaming Application
+* Music Streaming Application (FrontEnd)
 * Crypto Currency Price Info
 * Skribbl.io Clone (using Socket.io)
 * WhatsApp Web Clone
 * Instagram Clone
-* Github Finder
+* GitHub Finder
 * Movie Listener
 * Instagram Clone
 * Netflix Clone
