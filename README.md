@@ -117,11 +117,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Magic 8 Ball
 * Ping Pong Game
 * 3D AR Draw with Python (OpenCV and NumPy)
+* Attend zoom meetings automatically.
+* Code review platform (using the tkinter)
 
 ## Mobile Applications
 * Weather App
 * Restaurant App using API
 * Expense Tracker App
+* First aid app 
+
 
 ### Android Studio
 
@@ -138,6 +142,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * News Reader App 
 * Voice Notes App
 
+
 ### Flutter
 
 * Menstrual Cycle Tracker (similar to CLUE App)
@@ -150,6 +155,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Chatbot for Healthcare Management
 * Spam Email Detection System
+* Parking ticket app 
  
 ## Contribution
 
