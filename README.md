@@ -104,7 +104,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Personal Identity System
 * Supply Chain Management System
 * Cryptocurrency 
-* Medical use case - Storing sensitive medical data 
+* Medical UseCase (Storing sensitive medical data)
 
 ### Python-Django
 
@@ -134,10 +134,19 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Sudoku Solver
 * Ping Pong Game
 * 3D AR Draw with Python (OpenCV and NumPy)
+* Virtual Assistant
+* Automatic Quote Generator (using Quotes API)
+* Guessing Game
+
+### Java
+
+* Hotel Management System
+* Attendance System
 
 ## Mobile Applications
+
 * Weather App
-* Restaurant App using API
+* Restaurant App (with API)
 * Expense Tracker App
 
 ### Android Studio
@@ -147,6 +156,21 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Document Scanner
+* WhatsApp Clone
+
+## Unity Applications
+
+### Game Development
+
+* Endless Runner
+* Car Racing Game
+
+### Augmented Reality
+
+* AR Chemistry (Markerbased)
+* AR Book (Markerbased)
+* AR Bottle Shooter (Markerless)
 * Reading Book App
 * Digital Signing Platform
 * Image Annotation App
