@@ -164,6 +164,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* WhatsApp Clone (+Backend)
+* Twitter Clone (+Backend)
+* Instagram Clone (+Backend)
+* Weather App
+* Quiz App
+* Stock Market Analyzer
 * Document Scanner
 * WhatsApp Clone
 
