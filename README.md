@@ -18,6 +18,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Fashion eCommerce Website
+* Restaurant Management Website
+* Event Management Website
 * Weather Suggestions (Landing Page)
 * Event or Conference Page
 * Online Store Page
@@ -116,6 +119,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Movie Ticket Booking System
 * Email Sender
 * Web Scraper
 * Palindrome Checker
