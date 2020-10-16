@@ -18,9 +18,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Weather Suggestions (Landing Page)
 * Event or Conference Page
 * Online Store Page
-* Restaurant Landing Page
+* Restaurant (Landing Page)
 
 ### JavaScript
 
@@ -35,6 +36,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Random Quotes Project
 * Online Quiz
 * Banking System
 * Space Invaders Game
@@ -57,6 +59,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
+* An Entertainment App
 * GitHub User Finding by Name
 * Music Streaming Application
 * Crypto Currency Price Info
@@ -95,6 +98,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * User Management System
 * Virtual Queue Management System
+* Farming Management System
 * Contact Keeping
 
 ### Blockchain
