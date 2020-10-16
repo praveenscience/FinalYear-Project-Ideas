@@ -18,12 +18,16 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Event or Conference Page
+* Online Store Page
+* Restaurant Landing Page
 
 ### JavaScript
 
 * ToDo App
 * Tic Tac Toe Game
 * JS Quiz App
+* Expense Manager
 * Covid CheckUp Test
 * Calculator
 * Animation in Web Design
@@ -31,6 +35,19 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Online Quiz
+* Banking System
+* Space Invaders Game
+* Memory (Card game)
+* Music App
+* Tip Calculator
+* Color Palette App
+* Virtual Drums App
+* Dice Roll
+* Weather App 
+* Hangman Game
+* Memory (Card Game)
+* Transaction Limiter (Splitwise App Clone)
 
 ### React JS
 
@@ -40,13 +57,35 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-commerce app
 * Tinder Clone
 * AirBnB Clone
-* GitHub User Finding by name
+* GitHub User Finding by Name
+* Music Streaming Application
+* Crypto Currency Price Info
+* Skribbl.io Clone (using Socket.io)
+* WhatsApp Web Clone
+* Instagram Clone
+* Github Finder
+* Movie Listener
+* Instagram Clone
+* Netflix Clone
+
+## Back End Ideas
+
+### Spring Stack
+
+* Library Managemnet App
+* Authorization Server
+* Chatting App
+* eWallet App
+* Online Store App
 
 ## Full Stack Ideas
 
 ### Generic Stack
 
+* Payment Gateway Integration
 * Amazon Clone
+* Fashion eCommerce Website
+* Food Delivery App
 
 ### LAMP Stack
 
@@ -62,6 +101,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Simple Voting Dapp
 * Digital Land Registry System
+* Personal Identity System
+* Supply Chain Management System
+* Cryptocurrency 
+* Medical use case - Storing sensitive medical data 
 
 ### Python-Django
 
@@ -69,6 +112,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Email Sender
+* Web Scraper
+* Palindrome Checker
+* Sorting Visualizer
+* Reminder System
+* Automatic Birthdays Mailer
 
 ## Programming Ideas
 
@@ -76,10 +125,20 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Tic-Tac-Toe Game
 * Chess Game
+* Library Management System
+
+### Python
+
+* Facial recognition using Python OpenCV library
 * Magic 8 Ball
-* Sudoku
+* Sudoku Solver
+* Ping Pong Game
+* 3D AR Draw with Python (OpenCV and NumPy)
 
 ## Mobile Applications
+* Weather App
+* Restaurant App using API
+* Expense Tracker App
 
 ### Android Studio
 
@@ -88,7 +147,37 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
-* Reading book application
+* Reading Book App
+* Digital Signing Platform
+* Image Annotation App
+* Service App (Hospital, Business, etc.)
+* COVID-19 Tracker
+* Daily Expenses App (+Backend)
+* Shop App
+* Resume Builder App
+* News Reader App
+* Voice Notes App
+
+### Flutter
+
+* Menstrual Cycle Tracker (similar to CLUE App)
+  > The app which accurately predicts your period,helps women to understand their symptoms, giving enough knowledge about cancer related problems.
+* Creating your own music App like Spotify.
+* Awesome Cook App
+  > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them.  
+
+## AI/ML
+
+* Chatbot for Healthcare Management
+* Spam Email Detection System
+
+## Desktop Applications
+
+### Electron JS
+
+* Microsoft Excel Clone
+* VS Code Clone
+* Zoom Clone
 
 ## Contribution
 
