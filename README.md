@@ -214,6 +214,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Chatbot for Healthcare Management
 * Spam Email Detection System
+* Interactive American Sign Language Translator
 
 ## Desktop Applications
 
