@@ -27,6 +27,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Event or Conference Page
 * Online Store Page
 * Restaurant (Landing Page)
+* Podcast Website
 
 ### JavaScript
 
