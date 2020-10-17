@@ -113,7 +113,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Farming Management System
 * Contact Keeping
 
-
 ### Blockchain
 
 * Simple Voting Dapp
@@ -137,7 +136,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Sorting Visualizer
 * Reminder System
 * Automatic Birthdays Mailer
-
 
 ## Programming Ideas
 
