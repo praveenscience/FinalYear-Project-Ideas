@@ -27,6 +27,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Event or Conference Page
 * Online Store Page
 * Restaurant (Landing Page)
+* Quiz Game
 
 ### JavaScript
 
@@ -140,6 +141,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Chess Game
 * Library Management System
+* Restaurant Ordering System
 
 ### Python
 
@@ -162,6 +164,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Weather App
 * Restaurant App (with API)
 * Expense Tracker App
+* Fitness Tracker
 
 ### Android Studio
 
