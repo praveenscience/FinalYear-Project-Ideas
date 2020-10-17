@@ -80,6 +80,14 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Instagram Clone
 * Netflix Clone
 
+### PHP Development 
+
+* ToDo App
+* Weather App
+* Recipe search App
+* E-commerce app
+
+
 ## Back End Ideas
 
 ### Spring Stack
