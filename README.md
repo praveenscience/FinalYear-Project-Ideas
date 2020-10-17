@@ -64,7 +64,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * ToDo App
 * Weather App
 * Recipe search App
-* E-commerce app
+* eCommerce app
 * Tinder Clone
 * AirBnB Clone
 * GitHub Issues Page
@@ -96,7 +96,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Payment Gateway Integration
 * Amazon Clone
-* Fashion E-Commerce Website
+* Fashion eCommerce Website
 * Content Management System for a blog
 * Fashion eCommerce Website
 * Food Delivery App
