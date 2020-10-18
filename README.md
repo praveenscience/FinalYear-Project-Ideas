@@ -18,6 +18,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Tribute Page
+* Parallax Site
+* Fashion eCommerce Website
+* Restaurant Management Website
+* Event Management Website
+* Weather Suggestions (Landing Page)
+* Event or Conference Page
+* Online Store Page
+* Restaurant (Landing Page)
 
 ### JavaScript
 
@@ -32,6 +41,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Sudoku Solver
+* Nano ID
+* Prettier
+* Random Quotes Project
+* Online Quiz
+* Banking System
+* Space Invaders Game
+* Memory (Card game)
+* Music App
 * Tip Calculator
 * Color Palette App
 * Virtual Drums App
@@ -46,11 +64,18 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * ToDo App
 * Weather App
 * Recipe search App
-* E-commerce app
+* eCommerce app
 * Tinder Clone
 * AirBnB Clone
+* GitHub Issues Page
+* An Entertainment App
+* GitHub User Finding by Name
+* Music Streaming Application (FrontEnd)
+* Crypto Currency Price Info
+* Skribbl.io Clone (using Socket.io)
+* WhatsApp Web Clone
 * Instagram Clone
-* Github Finder
+* GitHub Finder
 * Movie Listener
 * Instagram Clone
 * Netflix Clone
@@ -69,7 +94,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Generic Stack
 
+* Payment Gateway Integration
 * Amazon Clone
+* Fashion eCommerce Website
+* Content Management System for a blog
 * Fashion eCommerce Website
 * Food Delivery App
 
@@ -81,7 +109,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * User Management System
 * Virtual Queue Management System
-
+* Online Distance Education System
+* Farming Management System
+* Contact Keeping
 
 ### Blockchain
 
@@ -90,7 +120,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Personal Identity System
 * Supply Chain Management System
 * Cryptocurrency 
-* Medical use case - Storing sensitive medical data 
+* Medical UseCase (Storing sensitive medical data)
 
 ### Python-Django
 
@@ -98,6 +128,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
+* Billing System 
+* Movie Ticket Booking System
+* Email Sender
+* Web Scraper
 * Palindrome Checker
 * Sorting Visualizer
 * Reminder System
@@ -115,13 +149,23 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Facial recognition using Python OpenCV library
 * Magic 8 Ball
+* Sudoku Solver
 * Ping Pong Game
 * 3D AR Draw with Python (OpenCV and NumPy)
 * Message Encrypter
+* Virtual Assistant
+* Automatic Quote Generator (using Quotes API)
+* Guessing Game
+
+### Java
+
+* Hotel Management System
+* Attendance System
 
 ## Mobile Applications
+
 * Weather App
-* Restaurant App using API
+* Restaurant App (with API)
 * Expense Tracker App
 
 ### Android Studio
@@ -131,12 +175,36 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* WhatsApp Clone (+Backend)
+* Twitter Clone (+Backend)
+* Instagram Clone (+Backend)
+* Weather App
+* Quiz App
+* Stock Market Analyzer
+* Document Scanner
+* WhatsApp Clone
+
+## Unity Applications
+
+### Game Development
+
+* Endless Runner
+* Car Racing Game
+
+### Augmented Reality
+
+* AR Chemistry (Markerbased)
+* AR Book (Markerbased)
+* AR Bottle Shooter (Markerless)
+* Reading Book App
+* Digital Signing Platform
+* Image Annotation App
 * Service App (Hospital, Business, etc.)
 * COVID-19 Tracker
 * Daily Expenses App (+Backend)
 * Shop App
 * Resume Builder App
-* News Reader App 
+* News Reader App
 * Voice Notes App
 
 ### Flutter
@@ -155,7 +223,14 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Digit Recognizer
 * Predicting Music Genres
 
- 
+## Desktop Applications
+
+### Electron JS
+
+* Microsoft Excel Clone
+* VS Code Clone
+* Zoom Clone
+
 ## Contribution
 
 1. Star this Repo and Fork this Repo.
