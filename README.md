@@ -152,6 +152,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Sudoku Solver
 * Ping Pong Game
 * 3D AR Draw with Python (OpenCV and NumPy)
+* Message Encrypter
 * Virtual Assistant
 * Automatic Quote Generator (using Quotes API)
 * Guessing Game
@@ -213,11 +214,14 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Creating your own music App like Spotify.
 * Awesome Cook App
   > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them.  
-
 ## AI/ML
 
 * Chatbot for Healthcare Management
 * Spam Email Detection System
+* Sentiment Analysis
+* Predicting Student Performance
+* Digit Recognizer
+* Predicting Music Genres
 
 ## Desktop Applications
 
