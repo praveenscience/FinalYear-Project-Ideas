@@ -12,6 +12,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### HTML & CSS
 
+* E-Certificate generating Site
 * Responsive Portfolio
 * Photography Site
 * Technical Documentation Page
@@ -29,6 +30,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Restaurant (Landing Page)
 
 ### JavaScript
+
 
 * ToDo App
 * Tic Tac Toe Game
@@ -164,6 +166,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## Mobile Applications
 
+* Pattern variation App 
+* Calories counting App
 * Weather App
 * Restaurant App (with API)
 * Expense Tracker App
@@ -188,6 +192,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Game Development
 
+* Shooting target Game
 * Endless Runner
 * Car Racing Game
 
@@ -216,6 +221,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them.  
 ## AI/ML
 
+* Hair cutting app
+* Handwriting recogniser
 * Chatbot for Healthcare Management
 * Spam Email Detection System
 * Sentiment Analysis
@@ -237,5 +244,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 2. Update your Readme in your Repo.
 3. Send a Pull Request.
 4. Optional Request: [Subscribe to my **YouTube Channel**](https://www.youtube.com/praveenscience?sub_confirmation=1).
+5. Just go for it and you will find you way.
 
 For a detailed guidance with pictures, see [Contributing to Open Source](https://github.com/CatsInTech/Rezume/blob/master/CONTRIBUTING.md).
