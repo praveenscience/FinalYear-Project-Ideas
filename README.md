@@ -137,7 +137,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Reminder System
 * Automatic Birthdays Mailer
 
-## Programming Ideas
+### PHP
+
+* To-Do app
+* Student-management-system
+* Admin Dashboard
+
 
 ### C++
 
