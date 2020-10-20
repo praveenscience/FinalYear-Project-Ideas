@@ -165,8 +165,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## Mobile Applications
 
-* Pattern variation App 
-* Calories counting App
+* Pattern Variation App 
+* Calories Counting App
 * Weather App
 * Restaurant App (with API)
 * Expense Tracker App
@@ -191,7 +191,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Game Development
 
-* Shooting target Game
+* Shooting Target Game
 * Endless Runner
 * Car Racing Game
 
@@ -221,8 +221,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## AI/ML
 
-* Hair cutting app
-* Handwriting recogniser
+* Hair Cutting app
+* Handwriting Recogniser
 * Chatbot for Healthcare Management
 * Spam Email Detection System
 * Sentiment Analysis
