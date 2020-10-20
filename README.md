@@ -61,6 +61,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Hangman Game
 * Memory (Card Game)
 * Transaction Limiter (Splitwise App Clone)
+* URL Shortener
 
 ### React JS
 
