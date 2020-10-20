@@ -75,7 +75,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * URL Shortener
 
 ### React JS
- 
+
 * ToDo App
 * Weather App
 * Recipe search App
