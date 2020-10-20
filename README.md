@@ -88,6 +88,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * GitHub Finder
 * Movie Listener
 * Instagram Clone
+* Random Quote Generator
 * Netflix Clone
 * Messaging App
 * My Diary
