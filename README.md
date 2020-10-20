@@ -12,6 +12,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### HTML & CSS
 
+* E-Certificate generating Site
 * Responsive Portfolio
 * Photography Site
 * Technical Documentation Page
@@ -84,7 +85,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snap Shot (A photo gallery with search)
 * BMI Calculator (A React Hooks app for calculating BMI)
 * Image Compressor (An offline image compressor built with React and browser-image-compression)
-
+* Uber Clone (Map Application Based Frontend)
 
 ## Back End Ideas
 
@@ -110,6 +111,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### LAMP Stack
 
 * GuestBook App
+* ToDo App
+* Student Management System
+* Admin Dashboard
 
 ### MERN Stack
 
@@ -150,6 +154,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Chess Game
 * Library Management System
+* Alumni Management System
 
 ### Python
 
@@ -170,6 +175,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## Mobile Applications
 
+* Pattern Variation App 
+* Calories Counting App
 * Weather App
 * Restaurant App (with API)
 * Expense Tracker App
@@ -189,11 +196,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Stock Market Analyzer
 * Document Scanner
 * WhatsApp Clone
+* Reddit Clone
 
 ## Unity Applications
 
 ### Game Development
 
+* Shooting Target Game
 * Endless Runner
 * Car Racing Game
 
@@ -212,6 +221,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Resume Builder App
 * News Reader App
 * Voice Notes App
+* AR furniture app (ikea type)
 
 ### Flutter
 
@@ -219,14 +229,16 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > The app which accurately predicts your period,helps women to understand their symptoms, giving enough knowledge about cancer related problems.
 * Creating your own music App like Spotify.
 * Awesome Cook App
-  > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them. 
+  > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them.
 * Blood donation App
   > An app making a platform between blood donors and recipients making the process easierand fast.
-* Ecommerce app with delivery system
-* App for schools helping for online education
-  
+* eCommerce App with Delivery System
+* Online Education School App
+
 ## AI/ML
 
+* Hair Cutting App
+* Handwriting Recogniser
 * Chatbot for Healthcare Management
 * Spam Email Detection System
 * Sentiment Analysis
@@ -248,5 +260,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 2. Update your Readme in your Repo.
 3. Send a Pull Request.
 4. Optional Request: [Subscribe to my **YouTube Channel**](https://www.youtube.com/praveenscience?sub_confirmation=1).
+5. Just go for it and you will find you way.
 
 For a detailed guidance with pictures, see [Contributing to Open Source](https://github.com/CatsInTech/Rezume/blob/master/CONTRIBUTING.md).
