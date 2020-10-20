@@ -104,6 +104,17 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eWallet App
 * Online Store App
 
+## Back End Ideas
+
+### Spring Stack
+
+* Library Management App
+* Authorization Server
+* Chatting App
+* eWallet App
+* Online Store App
+* Employee Manager App
+
 ## Full Stack Ideas
 
 ### Generic Stack
@@ -111,7 +122,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Payment Gateway Integration
 * Amazon Clone
 * Fashion eCommerce Website
-* Content Management System for a blog
+* Blog Content Management System
 * Fashion eCommerce Website
 * Food Delivery App
 
