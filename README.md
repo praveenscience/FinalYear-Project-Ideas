@@ -242,9 +242,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Handwriting Recogniser
 * Chatbot for Healthcare Management
 * Spam Email Detection System
+* Interactive American Sign Language Translator
 * Sentiment Analysis
 * Predicting Student Performance
-* Digit Recognizer
+* Digit Recogniser
 * Predicting Music Genres
 
 ## Desktop Applications
