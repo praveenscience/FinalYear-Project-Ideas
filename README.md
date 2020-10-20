@@ -228,6 +228,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Alarm App
+* Stopwatch App
+* Calendar App
 * WhatsApp Clone (+Backend)
 * Twitter Clone (+Backend)
 * Instagram Clone (+Backend)
