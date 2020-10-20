@@ -209,6 +209,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Guessing Game
 * Hangman Game
 * Tic-Tac-Toe Game
+* Stock Scanner
 
 ### Java
 
