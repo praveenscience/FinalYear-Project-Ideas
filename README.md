@@ -53,6 +53,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Banking System
 * Space Invaders Game
 * Memory (Card game)
+* Drum Kit 
+* The RGB Color Game
+* Dice Game
 * Music App
 * Tip Calculator
 * Color Palette App
@@ -255,6 +258,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Resume Builder App
 * News Reader App
 * Voice Notes App
+* Meme Sharing App
 * Voice Changer App
 * AR furniture app (Ikea Style)
 
