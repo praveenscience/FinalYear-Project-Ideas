@@ -172,6 +172,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Sudoku Solver
 * Ping Pong Game
 * 3D AR Draw with Python (OpenCV and NumPy)
+* Bike Sharing System
 * Attend Zoom Meetings Automatically
 * Code Review Platform (using the tkinter)
 * Message Encrypter
@@ -193,6 +194,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Weather App
 * Restaurant App (with API)
 * Expense Tracker App
+* Smart Education App
 * First Aid App
 * Fitness Tracker
 
@@ -257,6 +259,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Handwriting Recogniser
 * Chatbot for Healthcare Management
 * Spam Email Detection System
+* Public Sentiment Analyser for Election 
 * Parking Ticket App 
 * Interactive American Sign Language Translator
 * Sentiment Analysis
