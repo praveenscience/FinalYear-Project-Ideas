@@ -66,7 +66,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * RGB color Guessing Game
 * URL Shortener
 
-
 ### React JS
 
 * ToDo App
@@ -128,7 +127,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fashion eCommerce Website
 * Food Delivery App
 * Poll App
-* Social media clone
+* Social Media Clone
 
 ### LAMP Stack
 
