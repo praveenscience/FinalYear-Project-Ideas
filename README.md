@@ -170,7 +170,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Virtual Assistant
 * Automatic Quote Generator (using Quotes API)
 * Guessing Game
-* HangMan Game
+* Hangman Game
 * Tic-Tac-Toe Game
 
 ### Java
