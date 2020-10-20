@@ -45,6 +45,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Random Quotes Generator
+* Light Switch Effect
 * Sudoku Solver
 * Nano ID
 * Prettier
