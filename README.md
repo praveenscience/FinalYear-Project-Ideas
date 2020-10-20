@@ -189,6 +189,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Magic 8 Ball
 * Sudoku Solver
 * Ping Pong Game
+* Invisibility Cloak  
+  > _Similar to Harry Potter to make you invisible when you put a red cloth in front of you, with Python OpenCV Library._
 * 3D AR Draw with Python (OpenCV and NumPy)
 * Bike Sharing System
 * Attend Zoom Meetings Automatically
@@ -258,6 +260,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Resume Builder App
 * News Reader App
 * Voice Notes App
+* Chatbot App for Mental Health (+ Backend with AI/ML)
 * Meme Sharing App
 * Voice Changer App
 * AR furniture app (Ikea Style)
