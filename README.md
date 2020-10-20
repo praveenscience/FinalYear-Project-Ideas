@@ -15,14 +15,18 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-Certificate generating Site
 * Responsive Portfolio
 * Photography Site
-* Technical Documentation Page
+* Technical Documentation Wiki
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Fashion E-Commerce Website
+* Restaurant Management System
+* Event Management Website
+* Product Landing Page
+* Travel Agency Landing Page
 * Tribute Page
 * Parallax Site
 * Fashion eCommerce Website
-* Restaurant Management Website
 * Event Management Website
 * Weather Suggestions (Landing Page)
 * Event or Conference Page
@@ -44,6 +48,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Random Quotes Generator
+* Light Switch Effect
 * Sudoku Solver
 * Nano ID
 * Prettier
@@ -52,6 +58,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Banking System
 * Space Invaders Game
 * Memory (Card game)
+* Drum Kit 
+* The RGB Color Game
+* Dice Game
 * Music App
 * Tip Calculator
 * Color Palette App
@@ -61,6 +70,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Hangman Game
 * Memory (Card Game)
 * Transaction Limiter (Splitwise App Clone)
+* Patatap Game
+* RGB color Guessing Game
 * URL Shortener
 
 ### React JS
@@ -71,6 +82,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eCommerce app
 * Tinder Clone
 * AirBnB Clone
+* Instagram Clone
+* Whatsapp Clone
 * GitHub Issues Page
 * An Entertainment App
 * GitHub User Finding by Name
@@ -82,12 +95,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * GitHub Finder
 * Movie Listener
 * Instagram Clone
+* Random Quote Generator
 * Netflix Clone
+* Messaging App
+* My Diary
 * Calculator (Implementation of the iOS calculator built in React)
-* Emoji Search (React app for searching emoji)
-* Snap Shot (A photo gallery with search)
-* BMI Calculator (A React Hooks app for calculating BMI)
-* Image Compressor (An offline image compressor built with React and browser-image-compression)
+* Emoji Search
+* Snap Shot (Photo Gallery with Search)
+* BMI Calculator (React Hooks App for Calculating BMI)
+* Image Compressor (An offline image compressor built with React and `browser-image-compression`)
 * Uber Clone (Map Application Based Frontend)
 
 ## Back End Ideas
@@ -100,6 +116,17 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eWallet App
 * Online Store App
 
+## Back End Ideas
+
+### Spring Stack
+
+* Library Management App
+* Authorization Server
+* Chatting App
+* eWallet App
+* Online Store App
+* Employee Manager App
+
 ## Full Stack Ideas
 
 ### Generic Stack
@@ -107,9 +134,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Payment Gateway Integration
 * Amazon Clone
 * Fashion eCommerce Website
-* Content Management System for a blog
+* Blog Content Management System
 * Fashion eCommerce Website
 * Food Delivery App
+* Poll App
+* Social Media Clone
 
 ### LAMP Stack
 
@@ -122,6 +151,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * User Management System
 * Virtual Queue Management System
+* eCommerce Website
 * Online Distance Education System
 * Farming Management System
 * Contact Keeping
@@ -157,6 +187,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Chess Game
 * Library Management System
+* File Management System
 * Restaurant Ordering System
 * Alumni Management System
 
@@ -166,7 +197,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Magic 8 Ball
 * Sudoku Solver
 * Ping Pong Game
+* Invisibility Cloak  
+  > _Similar to Harry Potter to make you invisible when you put a red cloth in front of you, with Python OpenCV Library._
 * 3D AR Draw with Python (OpenCV and NumPy)
+* Bike Sharing System
 * Attend Zoom Meetings Automatically
 * Code Review Platform (using the tkinter)
 * Message Encrypter
@@ -175,6 +209,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Guessing Game
 * Hangman Game
 * Tic-Tac-Toe Game
+* Stock Scanner
 
 ### Java
 
@@ -188,16 +223,23 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Weather App
 * Restaurant App (with API)
 * Expense Tracker App
+* Smart Education App
 * First Aid App
 * Fitness Tracker
+* Class Notes Sharing App
 
 ### Android Studio
 
+* Book Library App
+* Novel Library App
 * Women Safety App (+Backend)
 * Notes App
 * Snake Game
 * Shopping App (+Backend)
 * Flappy Bird
+* Alarm App
+* Stopwatch App
+* Calendar App
 * WhatsApp Clone (+Backend)
 * Twitter Clone (+Backend)
 * Instagram Clone (+Backend)
@@ -232,7 +274,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Resume Builder App
 * News Reader App
 * Voice Notes App
-* AR furniture app (ikea type)
+* Chatbot App for Mental Health (+ Backend with AI/ML)
+* Meme Sharing App
+* Voice Changer App
+* AR furniture app (Ikea Style)
 
 ### Flutter
 
@@ -252,12 +297,18 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Handwriting Recogniser
 * Chatbot for Healthcare Management
 * Spam Email Detection System
+* Public Sentiment Analyser for Election 
 * Parking Ticket App 
 * Interactive American Sign Language Translator
 * Sentiment Analysis
 * Predicting Student Performance
 * Digit Recogniser
 * Predicting Music Genres
+
+## Data Structures and Algorithms
+
+* Sorting Algorithm Vizualizer
+* Visualization of Shortest Path Finding Algorithm
 
 ## Desktop Applications
 
