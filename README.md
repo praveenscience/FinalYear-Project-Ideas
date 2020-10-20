@@ -61,6 +61,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Hangman Game
 * Memory (Card Game)
 * Transaction Limiter (Splitwise App Clone)
+* Patatap Game
+* RGB color Guessing Game
 * URL Shortener
 
 ### React JS
@@ -83,11 +85,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Listener
 * Instagram Clone
 * Netflix Clone
+* My Diary
 * Calculator (Implementation of the iOS calculator built in React)
-* Emoji Search (React app for searching emoji)
-* Snap Shot (A photo gallery with search)
-* BMI Calculator (A React Hooks app for calculating BMI)
-* Image Compressor (An offline image compressor built with React and browser-image-compression)
+* Emoji Search
+* Snap Shot (Photo Gallery with Search)
+* BMI Calculator (React Hooks App for Calculating BMI)
+* Image Compressor (An offline image compressor built with React and `browser-image-compression`)
 * Uber Clone (Map Application Based Frontend)
 
 ## Back End Ideas
@@ -257,6 +260,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Predicting Student Performance
 * Digit Recogniser
 * Predicting Music Genres
+
+## Data Structures and Algorithms
+
+* Sorting Algorithm Vizualizer
+* Visualization of Shortest Path Finding Algorithm
 
 ## Desktop Applications
 
