@@ -15,15 +15,18 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * E-Certificate generating Site
 * Responsive Portfolio
 * Photography Site
-* Technical Documentation Page
+* Technical Documentation Wiki
 * Survey Forms
 * Comic Reading Site
+* Product Landing Page
+* Fashion E-Commerce Website
+* Restaurant Management System
+* Event Management Website
 * Product Landing Page
 * Travel Agency Landing Page
 * Tribute Page
 * Parallax Site
 * Fashion eCommerce Website
-* Restaurant Management Website
 * Event Management Website
 * Weather Suggestions (Landing Page)
 * Event or Conference Page
