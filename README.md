@@ -228,6 +228,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fitness Tracker
 * Class Notes Sharing App
 
+
 ### Android Studio
 
 * Book Library App
@@ -304,6 +305,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Predicting Student Performance
 * Digit Recogniser
 * Predicting Music Genres
+* Baseball handsign recognition app.
 
 ## Data Structures and Algorithms
 
