@@ -77,6 +77,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eCommerce app
 * Tinder Clone
 * AirBnB Clone
+* Instagram Clone
+* Whatsapp Clone
 * GitHub Issues Page
 * An Entertainment App
 * GitHub User Finding by Name
