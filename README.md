@@ -144,6 +144,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Chess Game
 * Library Management System
+* Alumni Management System
 
 ### Python
 
@@ -183,6 +184,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Stock Market Analyzer
 * Document Scanner
 * WhatsApp Clone
+* Reddit Clone
 
 ## Unity Applications
 
@@ -206,6 +208,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Resume Builder App
 * News Reader App
 * Voice Notes App
+* AR furniture app (ikea type)
 
 ### Flutter
 
