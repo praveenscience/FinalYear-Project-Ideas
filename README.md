@@ -19,6 +19,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Travel Agency Landing Page
 * Tribute Page
 * Parallax Site
 * Fashion eCommerce Website
@@ -125,6 +126,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Blog Content Management System
 * Fashion eCommerce Website
 * Food Delivery App
+* Poll App
+* Social Media Clone
 
 ### LAMP Stack
 
