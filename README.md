@@ -85,6 +85,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Listener
 * Instagram Clone
 * Netflix Clone
+* Messaging App
 * My Diary
 * Calculator (Implementation of the iOS calculator built in React)
 * Emoji Search
@@ -125,6 +126,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * User Management System
 * Virtual Queue Management System
+* eCommerce Website
 * Online Distance Education System
 * Farming Management System
 * Contact Keeping
@@ -234,7 +236,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Resume Builder App
 * News Reader App
 * Voice Notes App
-* AR furniture app (ikea type)
+* Voice Changer App
+* AR furniture app (Ikea Style)
 
 ### Flutter
 
