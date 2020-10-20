@@ -304,6 +304,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Predicting Student Performance
 * Digit Recogniser
 * Predicting Music Genres
+* Song Recognition
 
 ## Data Structures and Algorithms
 
