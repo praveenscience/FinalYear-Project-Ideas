@@ -211,7 +211,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Stock Scanner
 
-
 ### Java
 
 * Hotel Management System
