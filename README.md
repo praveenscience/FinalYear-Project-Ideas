@@ -104,6 +104,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### LAMP Stack
 
 * GuestBook App
+* ToDo App
+* Student Management System
+* Admin Dashboard
 
 ### MERN Stack
 
@@ -137,12 +140,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Reminder System
 * Automatic Birthdays Mailer
 
-### PHP
-
-* To-Do app
-* Student-management-system
-* Admin Dashboard
-
+## Programming Ideas
 
 ### C++
 
