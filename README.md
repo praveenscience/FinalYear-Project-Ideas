@@ -190,7 +190,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Sudoku Solver
 * Ping Pong Game
 * Invisibility Cloak  
-  > Similar to Harry Potter to make you invisible when you put a red cloth infront of you with Python OpenCV Library.
+  > _Similar to Harry Potter to make you invisible when you put a red cloth in front of you, with Python OpenCV Library._
 * 3D AR Draw with Python (OpenCV and NumPy)
 * Bike Sharing System
 * Attend Zoom Meetings Automatically
