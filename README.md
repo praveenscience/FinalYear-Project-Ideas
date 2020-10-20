@@ -106,6 +106,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### LAMP Stack
 
 * GuestBook App
+* ToDo App
+* Student Management System
+* Admin Dashboard
 
 ### MERN Stack
 
