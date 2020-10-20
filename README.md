@@ -261,7 +261,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Digit Recogniser
 * Predicting Music Genres
 
-## DataStructure and Algorithm
+## Data Structures and Algorithms
 
 * Sorting Algorithm Vizualizer
 * Visualization of Shortest Path Finding Algorithm
