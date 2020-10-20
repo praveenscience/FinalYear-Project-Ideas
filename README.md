@@ -226,6 +226,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Smart Education App
 * First Aid App
 * Fitness Tracker
+* Class Notes Sharing App
 
 ### Android Studio
 
