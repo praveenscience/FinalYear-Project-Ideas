@@ -31,7 +31,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### JavaScript
 
-
 * ToDo App
 * Tic Tac Toe Game
 * JS Quiz App
@@ -219,6 +218,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Creating your own music App like Spotify.
 * Awesome Cook App
   > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them.  
+
 ## AI/ML
 
 * Hair cutting app
