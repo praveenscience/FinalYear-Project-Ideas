@@ -79,7 +79,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Listener
 * Instagram Clone
 * Netflix Clone
-* Uber Clone(Map Application Based Frontend)
+* Uber Clone (Map Application Based Frontend)
 
 ## Back End Ideas
 
