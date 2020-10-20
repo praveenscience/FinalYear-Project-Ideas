@@ -249,6 +249,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Document Scanner
 * WhatsApp Clone
 * Reddit Clone
+* Medication Reminder
 
 ## Unity Applications
 
