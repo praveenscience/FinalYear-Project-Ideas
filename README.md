@@ -155,7 +155,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Online Distance Education System
 * Farming Management System
 * Contact Keeping
-* Geospatial applications
+* Geospatial Applications
 
 ### Blockchain
 
@@ -279,7 +279,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Chatbot App for Mental Health (+ Backend with AI/ML)
 * Meme Sharing App
 * Voice Changer App
-* 3D Geospatial applications(Cesium.js)
+* 3D Geospatial Applications (Cesium.js)
 * AR Furniture App (Ikea Style)
 
 ### Flutter
