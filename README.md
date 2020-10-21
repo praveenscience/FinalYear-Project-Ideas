@@ -227,6 +227,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * First Aid App
 * Fitness Tracker
 * Class Notes Sharing App
+* Insta - Buy App.
 
 ### Android Studio
 
@@ -277,7 +278,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Chatbot App for Mental Health (+ Backend with AI/ML)
 * Meme Sharing App
 * Voice Changer App
-* AR furniture app (Ikea Style)
+* AR Furniture App (Ikea Style)
 
 ### Flutter
 
@@ -304,6 +305,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Predicting Student Performance
 * Digit Recogniser
 * Predicting Music Genres
+* Baseball Sign Predictor
+* Music Analysis
 
 ## Data Structures and Algorithms
 
