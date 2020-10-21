@@ -278,7 +278,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Chatbot App for Mental Health (+ Backend with AI/ML)
 * Meme Sharing App
 * Voice Changer App
-* AR furniture app (Ikea Style)
+* AR Furniture App (Ikea Style)
 
 ### Flutter
 
@@ -306,7 +306,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Digit Recogniser
 * Predicting Music Genres
 * Baseball Sign Predictor
-* Music analysis
+* Music Analysis
 
 ## Data Structures and Algorithms
 
