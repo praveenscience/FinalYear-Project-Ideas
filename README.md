@@ -227,7 +227,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * First Aid App
 * Fitness Tracker
 * Class Notes Sharing App
-* Insta - buy app.
+* Insta - Buy App.
 
 ### Android Studio
 
