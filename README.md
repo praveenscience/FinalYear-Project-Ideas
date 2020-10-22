@@ -191,6 +191,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * File Management System
 * Restaurant Ordering System
 * Alumni Management System
+* gym management system
 
 ### Python
 
