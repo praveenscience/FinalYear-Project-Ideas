@@ -12,14 +12,14 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### HTML & CSS
 
-* E-Certificate generating Site
+* eCertificate Generating Site
 * Responsive Portfolio
 * Photography Site
 * Technical Documentation Wiki
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
-* Fashion E-Commerce Website
+* Fashion eCommerce Website
 * Restaurant Management System
 * Event Management Website
 * Product Landing Page
