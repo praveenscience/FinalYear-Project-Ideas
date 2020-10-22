@@ -75,7 +75,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * RGB color Guessing Game
 * URL Shortener
 * Courses Website
-* Landing page
+* Landing Page
 
 ### React JS
 
@@ -194,7 +194,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * File Management System
 * Restaurant Ordering System
 * Alumni Management System
-* Gym management system
+* Gym Management System
 
 ### Python
 
@@ -264,7 +264,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Shooting Target Game
 * Endless Runner
 * Car Racing Game
-* warfare game
+* Warfare Game
 
 ### Augmented Reality
 
