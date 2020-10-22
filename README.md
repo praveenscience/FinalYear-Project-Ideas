@@ -34,6 +34,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Restaurant (Landing Page)
 * Quiz Game
 * Podcast Website
+* Courses Website
 
 ### JavaScript
 
