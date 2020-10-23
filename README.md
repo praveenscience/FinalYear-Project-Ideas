@@ -260,6 +260,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Medication Reminder
 
 ## Unity Applications
+
 * Game like STACK (By KetchApp Games)
 * Open World Game (Small Version)
 * Car Racing Game
@@ -305,8 +306,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eCommerce App with Delivery System
 * Online Education School App
 * Health Advisor App
-  > The App which guides the user on how to take care of themselves and also shows precautions to be taken and medicines advice
-  > Also can include Blog section within the app to get the Health-related updates through API's
+  > The App which guides the user on how to take care of themselves and also shows precautions to be taken and medicines advice.
+  > Also can include Blog section within the app to get the Health-related updates through APIs.
 
 ## AI/ML
 
