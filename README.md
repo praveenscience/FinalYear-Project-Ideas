@@ -76,6 +76,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * URL Shortener
 * Courses Website
 * Landing Page
+* ID Card Generator
 
 ### React JS
 
@@ -108,6 +109,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * BMI Calculator (React Hooks App for Calculating BMI)
 * Image Compressor (An offline image compressor built with React and `browser-image-compression`)
 * Uber Clone (Map Application Based Frontend)
+* Spotify Clone
 
 ## Back End Ideas
 
@@ -150,6 +152,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Farming Management System
 * Contact Keeping
 * Geospatial Applications
+* eLearning Portal
 
 ### Blockchain
 
