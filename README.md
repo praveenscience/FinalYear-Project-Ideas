@@ -77,6 +77,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Courses Website
 * Landing Page
 * ID Card Generator
+* Movie Seat Booking App
+* Exchange Rate Calculator
 
 ### React JS
 
