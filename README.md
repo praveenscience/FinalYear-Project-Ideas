@@ -259,19 +259,19 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Reddit Clone
 * Medication Reminder
 
-## Unity Applications
-
-* Game like STACK (By KetchApp Games)
-* Open World Game (Small Version)
-* Car Racing Game
-* Shooting Games
-
-### Game Development
+## Game Development
 
 * Shooting Target Game
 * Endless Runner
 * Car Racing Game
 * Warfare Game
+
+### Unity Applications
+
+* Game like STACK (By KetchApp Games)
+* Open World Game (Small Version)
+* Car Racing Game
+* Shooting Games
 
 ### Augmented Reality
 
