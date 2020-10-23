@@ -76,7 +76,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * URL Shortener
 * Courses Website
 * Landing Page
-* ID Card Generating Website
+* ID Card Generator
 
 ### React JS
 
@@ -152,7 +152,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Farming Management System
 * Contact Keeping
 * Geospatial Applications
-* E-Learning Website
+* eLearning Portal
 
 ### Blockchain
 
