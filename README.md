@@ -220,6 +220,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Hotel Management System
 * Attendance System
+* Calculator using Swing
+* Library Management System
 
 ## Mobile Applications
 
@@ -258,6 +260,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Medication Reminder
 
 ## Unity Applications
+* Game like STACK (By KetchApp Games)
+* Open World Game (Small Version)
+* Car Racing Game
+* Shooting Games
 
 ### Game Development
 
@@ -298,6 +304,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > An app making a platform between blood donors and recipients making the process easierand fast.
 * eCommerce App with Delivery System
 * Online Education School App
+* Health Advisor App
+  > The App which guides the user on how to take care of themselves and also shows precautions to be taken and medicines advice
+  > Also can include Blog section within the app to get the Health-related updates through API's
 
 ## AI/ML
 
