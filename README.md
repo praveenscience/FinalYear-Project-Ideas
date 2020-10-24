@@ -35,6 +35,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Quiz Game
 * Podcast Website
 * Courses Website
+* Food delivery tracking website
 
 ### JavaScript
 
@@ -112,6 +113,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Image Compressor (An offline image compressor built with React and `browser-image-compression`)
 * Uber Clone (Map Application Based Frontend)
 * Spotify Clone
+* Hostel Management System
 
 ## Back End Ideas
 
