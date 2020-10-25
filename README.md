@@ -35,7 +35,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Quiz Game
 * Podcast Website
 * Courses Website
-* Food delivery tracking website
+* Food Delivery Tracking Website
+* Music Store Page
 
 ### JavaScript
 
@@ -213,6 +214,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Hangman Game
 * Tic-Tac-Toe Game
 * Stock Scanner
+* Random Password Generator
 
 ### Java
 
