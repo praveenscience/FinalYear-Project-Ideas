@@ -265,6 +265,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Endless Runner
 * Car Racing Game
 * Warfare Game
+* Free Fall Game
+* Doodle Jump Clone
+* Simon Says 
+* Tic Tac Toe
+* Pong
 
 ### Unity Applications
 
