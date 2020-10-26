@@ -127,6 +127,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Online Store App
 * Employee Manager App
 * Payroll Management using Spring Boot
+* Flight Management System
 
 ## Full Stack Ideas
 
