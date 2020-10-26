@@ -271,6 +271,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Simon Says 
 * Tic Tac Toe
 * Pong
+* Procedural Mesh Generation
 
 ### Unity Applications
 
@@ -278,6 +279,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Open World Game (Small Version)
 * Car Racing Game
 * Shooting Games
+* Zelda-like RPG Game
+* Pokemon clone RPG Game
+* Candy Crush (Match-three-like) Game
+* Tetris clone
 
 ### Augmented Reality
 
