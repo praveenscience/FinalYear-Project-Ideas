@@ -81,6 +81,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * ID Card Generator
 * Movie Seat Booking App
 * Exchange Rate Calculator
+* Whack-A-Mole Game
+* Word Scramble 
+* Rock-Paper-Scissors Game
+* BMI Calculator
+* Random Joke AJAX Project
+* Countdown Timer Project
 
 ### React JS
 
