@@ -355,64 +355,63 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * VS Code Clone
 * Zoom Clone
 
+## Internet of Things
 
-
-## Internet of Things 
-* IOT Contactless Covid Testing Booth Automation 
-* IOT Social Distancing & Monitoring Robot For Queue 
-* IOT Covid Patient Health Monitor in Quarantine 
-* IOT based Manhole Detection and Monitoring System 
-* IOT based Smart Energy Meter Monitoring with Theft Detection DIY 2G Android Phone with Gesture Interface 
-* IOT based Three Phase Power Failure Monitoring with SMS Alerts 
-* IOT based Intelligent Gas Leakage Detector Using Arduino 
-* IOT based Smart Agriculture Monitoring System Project
-* IOT based Automatic Vehicle Accident Detection 
-* IOT based System Gas Leakage Detection with Buzzer System using Atmega Greenhouse Monitoring 
-* IOT based Coal Mine Safety Monitoring and Alerting System 
-* IOT based Heart Monitoring System Using ECG 
-* IOT based Anti-theft Flooring System using Raspberry Pi Raspberry Pi based Weather Reporting Over IOT 
-* IOT Based Monitoring System for Comatose Patients 
-* IOT Early Flood Detection & Avoidance 
-* IOT Garbage Monitoring Using Raspberry Pi 
-* IOT Circuit Breaker Project Women Safety Night Patrolling 
-* IOT Robot 
-* IOT Mining Tracking & Worker Safety Helmet 
-* IOT Flood Monitoring & Alerting System 
-* IOT Prison Break Monitoring & Alerting System Raspberry Pi Air and Noise Pollution Monitoring System Over IOT 
-* IOT Energy Meter with Current, Voltage and Cost Monitoring System 
-* IOT Industry Protection System Arduino 
-* IOT Color Based Product Sorting Machine Project 
-* IOT Smart Energy Grid 
-* IOT Paralysis Patient Health Care Project 
-* IOT Car Parking System Smart Dustbin With IOT Notifications 
-* IOT Smart Mirror With News & Temperature 
-* IOT Garbage Monitoring With Weight Sensing 
-* IOT Asset tracking System 
-* IOT Based ICU Patient Monitoring System Biometric Attendance System Over IOT 
-* IOT Gas Pipe Leakage Detector Insect Robot 
-* IOT Irrigation Monitoring & Controller System 
-* IOT Electronic Door Opener 
-* IOT Home Automation Using Raspberry Pi 
-* IOT Alcohol & Health Monitoring System 
-* IOT Liquid Level Monitoring System 
-* IOT Garbage Monitoring System 
-* IOT Based Home Automation 
-* IOT Based Office Automation 
-* IOT Based Industry Automation 
-* IOT Weather Reporting System 
-* IOT Based Antenna Positioning System 
-* IOT Based Fire Department Alerting System 
-* IOT Solar Power Monitoring System 
-* IOT Streetlight Controller System 
-* IOT Traffic Signal Monitoring & Controller System 
-* IOT Industry Automation Using Raspberry Pi 
-* IOT Underground Cable Fault Detector Project 
-* IOT Air & Sound Pollution Monitoring System Energy Meter Monitoring Over IOT 
-* IOT Based Person/Wheelchair Fall Detection 
-* IOT Patient Health Monitoring Project 
-* IOT Heart Attack Detection & Heart Rate Monitor 
-* IOT Based Toll Booth Manager System 
-* IOT Theft Detection Using Raspberry Pi
+* IoT Contactless Covid Testing Booth Automation 
+* IoT Social Distancing & Monitoring Robot For Queue 
+* IoT Covid Patient Health Monitor in Quarantine 
+* IoT based Manhole Detection and Monitoring System 
+* IoT based Smart Energy Meter Monitoring with Theft Detection DIY 2G Android Phone with Gesture Interface 
+* IoT based Three Phase Power Failure Monitoring with SMS Alerts 
+* IoT based Intelligent Gas Leakage Detector Using Arduino 
+* IoT based Smart Agriculture Monitoring System Project
+* IoT based Automatic Vehicle Accident Detection 
+* IoT based System Gas Leakage Detection with Buzzer System using Atmega Greenhouse Monitoring 
+* IoT based Coal Mine Safety Monitoring and Alerting System 
+* IoT based Heart Monitoring System Using ECG 
+* IoT based Anti-theft Flooring System using Raspberry Pi Raspberry Pi based Weather Reporting Over IOT 
+* IoT Based Monitoring System for Comatose Patients 
+* IoT Early Flood Detection & Avoidance 
+* IoT Garbage Monitoring Using Raspberry Pi 
+* IoT Circuit Breaker Project Women Safety Night Patrolling 
+* IoT Robot 
+* IoT Mining Tracking & Worker Safety Helmet 
+* IoT Flood Monitoring & Alerting System 
+* IoT Prison Break Monitoring & Alerting System Raspberry Pi Air and Noise Pollution Monitoring System Over IOT 
+* IoT Energy Meter with Current, Voltage and Cost Monitoring System 
+* IoT Industry Protection System Arduino 
+* IoT Color Based Product Sorting Machine Project 
+* IoT Smart Energy Grid 
+* IoT Paralysis Patient Health Care Project 
+* IoT Car Parking System Smart Dustbin With IOT Notifications 
+* IoT Smart Mirror With News & Temperature 
+* IoT Garbage Monitoring With Weight Sensing 
+* IoT Asset tracking System 
+* IoT Based ICU Patient Monitoring System Biometric Attendance System Over IOT 
+* IoT Gas Pipe Leakage Detector Insect Robot 
+* IoT Irrigation Monitoring & Controller System 
+* IoT Electronic Door Opener 
+* IoT Home Automation Using Raspberry Pi 
+* IoT Alcohol & Health Monitoring System 
+* IoT Liquid Level Monitoring System 
+* IoT Garbage Monitoring System 
+* IoT Based Home Automation 
+* IoT Based Office Automation 
+* IoT Based Industry Automation 
+* IoT Weather Reporting System 
+* IoT Based Antenna Positioning System 
+* IoT Based Fire Department Alerting System 
+* IoT Solar Power Monitoring System 
+* IoT Streetlight Controller System 
+* IoT Traffic Signal Monitoring & Controller System 
+* IoT Industry Automation Using Raspberry Pi 
+* IoT Underground Cable Fault Detector Project 
+* IoT Air & Sound Pollution Monitoring System Energy Meter Monitoring Over IOT 
+* IoT Based Person/Wheelchair Fall Detection 
+* IoT Patient Health Monitoring Project 
+* IoT Heart Attack Detection & Heart Rate Monitor 
+* IoT Based Toll Booth Manager System 
+* IoT Theft Detection Using Raspberry Pi
 
 ## Contribution
 
