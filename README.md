@@ -416,6 +416,37 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Based Toll Booth Manager System 
 * IoT Theft Detection Using Raspberry Pi
 
+## Data Science
+
+* Chatbot
+* Climate Change Impact Analyser (on Global Food Supply)
+* Weather Prediction
+* Google Ads Keyword Generation
+* Traffic Signs Recognition
+* Wine Quality Analysis
+* Stock Market Prediction
+* Fake News Detection
+* Video Classification
+* Human Action Recognition
+* Medical Report Generation using CT Scans
+* Email Classification
+* Uber Data Analysis
+* Sound Classification
+* Credit Card Fraud Detection
+* Sign Language Recognition
+* Flower Class Prediction
+* Color Detection
+* Loan Prediction
+* Road Traffic Prediction
+* Income Classification
+* Speech Emotion Recognition
+* Celebrity Voice Prediction
+* Store Sales Prediction
+* Detecting Parkinson's Disease
+* Air Pollution Prediction
+* Age & Gender Detection
+* Optimizing Product Price
+
 ## Contribution
 
 1. Star this Repo and Fork this Repo.
