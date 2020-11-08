@@ -189,9 +189,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Sorting Visualizer
 * Reminder System
 * Automatic Birthdays Mailer
-* Snake water gun game
-*A mobile assistant 
-*Calculator
+* Snake Water Gun Game
+* Mobile Assistant 
+* Calculator
 
 ## Programming Ideas
 
