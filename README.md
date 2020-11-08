@@ -414,10 +414,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Theft Detection Using Raspberry Pi
 
 ## Data Science
+
 * Chatbot
-* Analyzing the impact of climate change on global food supply
+* Climate Change Impact Analyser (on Global Food Supply)
 * Weather Prediction
-* Keyword generation for google ads
+* Google Ads Keyword Generation
 * Traffic Signs Recognition
 * Wine Quality Analysis
 * Stock Market Prediction
@@ -430,7 +431,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Sound Classification
 * Credit Card Fraud Detection
 * Sign Language Recognition
-* Class of Flower Prediction
+* Flower Class Prediction
 * Color Detection
 * Loan Prediction
 * Road Traffic Prediction
@@ -440,9 +441,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Store Sales Prediction
 * Detecting Parkinson's Disease
 * Air Pollution Prediction
-* Age and Gender Detection
-* Optimizing Product Price 
-
+* Age & Gender Detection
+* Optimizing Product Price
 
 ## Contribution
 
