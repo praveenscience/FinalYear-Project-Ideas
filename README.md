@@ -227,7 +227,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Random Password Generator
 * Flim Data Collector
 * Stack-Visualizer
-* Track Phone number location
+* Track Phone Number Location
 * Story-Generator
 
 ### Java
