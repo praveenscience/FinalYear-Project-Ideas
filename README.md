@@ -225,6 +225,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Stock Scanner
 * Random Password Generator
+* Flim Data Collector
+* Stack-Visualizer
+* Track Phone number location
+* Story-Generator
 
 ### Java
 
