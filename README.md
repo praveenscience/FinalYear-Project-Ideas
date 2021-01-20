@@ -229,6 +229,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Stack-Visualizer
 * Track Phone Number Location
 * Story-Generator
+* Binary-Search-Tree-Visualizer
+* Ludo Game
+* Searching Algo Visualizer
+* Graph Traversing Visualizer(BFS,DFS)
+* Circular Queue Visualizer
+* Link-List Visualizer
+* Music Player
 
 ### Java
 
