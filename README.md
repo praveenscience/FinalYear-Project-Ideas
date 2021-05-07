@@ -348,6 +348,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Predicting Music Genres
 * Baseball Sign Predictor
 * Music Analysis
+* Movie Recommendation System
+* Market Prediction App
 
 ## Data Structures and Algorithms
 
@@ -419,6 +421,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Heart Attack Detection & Heart Rate Monitor 
 * IoT Based Toll Booth Manager System 
 * IoT Theft Detection Using Raspberry Pi
+* Iot Weather Monitoring System using Bluetooth
 
 ## Data Science
 
@@ -450,6 +453,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Air Pollution Prediction
 * Age & Gender Detection
 * Optimizing Product Price
+* Costumer Churn Prediction
 
 ## Contribution
 
