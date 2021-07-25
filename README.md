@@ -174,6 +174,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Supply Chain Management System
 * Cryptocurrency 
 * Medical UseCase (Storing sensitive medical data)
+* Charity Applications (A platform where people can help the needy without the fear of any scam or fraud and ensures transparency)
+* Document Storage System (The government or any system which requires submission of documents can access them from the Blockchain with the required permissions from the user)
+* Fake Product Identification 
+* Electronic Voting System 
+* Insurance Management System
+* Financial Record Management System
+
 
 ### Python-Django
 
@@ -249,6 +256,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fitness Tracker
 * Class Notes Sharing App
 * Insta - Buy App.
+* Barcode Reader App
+* Face Identification App
 
 ### Android Studio
 
@@ -285,6 +294,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic Tac Toe
 * Pong
 * Procedural Mesh Generation
+* Temple Run
+* Snake Game
 
 ### Unity Applications
 
