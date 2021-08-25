@@ -225,17 +225,19 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Stock Scanner
 * Random Password Generator
-* Flim Data Collector
+* Film Data Collector
 * Stack-Visualizer
 * Track Phone Number Location
 * Story-Generator
 * Binary-Search-Tree-Visualizer
 * Ludo Game
 * Searching Algo Visualizer
-* Graph Traversing Visualizer(BFS,DFS)
+* Graph Traversing Visualizer (BFS, DFS)
 * Circular Queue Visualizer
 * Link-List Visualizer
 * Music Player
+* Currency Converter
+* QR Code Generator
 
 ### Java
 
@@ -426,6 +428,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Heart Attack Detection & Heart Rate Monitor 
 * IoT Based Toll Booth Manager System 
 * IoT Theft Detection Using Raspberry Pi
+* IoT Based Smart Door Locking System
 
 ## Data Science
 
@@ -457,6 +460,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Air Pollution Prediction
 * Age & Gender Detection
 * Optimizing Product Price
+* Breast Cancer Prediction
+* Movie Based Recommendation
 
 ## Contribution
 
