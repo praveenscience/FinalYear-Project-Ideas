@@ -113,12 +113,17 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Netflix Clone
 * Messaging App
 * My Diary
-* Calculator (Implementation of the iOS calculator built in React)
+* Calculator  
+  > _Implementation of the iOS calculator built in React_
 * Emoji Search
-* Snap Shot (Photo Gallery with Search)
-* BMI Calculator (React Hooks App for Calculating BMI)
-* Image Compressor (An offline image compressor built with React and `browser-image-compression`)
-* Uber Clone (Map Application Based Frontend)
+* Snap Shot  
+  > _Photo Gallery with Search_
+* BMI Calculator  
+  > _React Hooks App for Calculating BMI_
+* Image Compressor  
+  > _An offline image compressor built with React and `browser-image-compression`_
+* Uber Clone  
+  > _Map Application Based Frontend_
 * Spotify Clone
 * Hostel Management System
 
@@ -173,14 +178,16 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Personal Identity System
 * Supply Chain Management System
 * Cryptocurrency 
-* Medical UseCase (Storing sensitive medical data)
-* Charity Applications (A platform where people can help the needy without the fear of any scam or fraud and ensures transparency)
-* Document Storage System (The government or any system which requires submission of documents can access them from the Blockchain with the required permissions from the user)
+* Medical UseCase  
+  > _Storing sensitive medical data_
+* Charity Applications  
+  > _A platform where people can help the needy without the fear of any scam or fraud and ensures transparency_
+* Document Storage System  
+  > _The government or any system which requires submission of documents can access them from the Blockchain with the required permissions from the user_
 * Fake Product Identification 
 * Electronic Voting System 
 * Insurance Management System
 * Financial Record Management System
-
 
 ### Python-Django
 
@@ -332,17 +339,17 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### Flutter
 
 * Menstrual Cycle Tracker (similar to CLUE App)
-  > The app which accurately predicts your period,helps women to understand their symptoms, giving enough knowledge about cancer related problems.
+  > _The app which accurately predicts your period,helps women to understand their symptoms, giving enough knowledge about cancer related problems._
 * Creating your own music App like Spotify.
 * Awesome Cook App
-  > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them.
+  > _The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them._
 * Blood donation App
-  > An app making a platform between blood donors and recipients making the process easierand fast.
+  > _An app making a platform between blood donors and recipients making the process easierand fast._
 * eCommerce App with Delivery System
 * Online Education School App
 * Health Advisor App
-  > The App which guides the user on how to take care of themselves and also shows precautions to be taken and medicines advice.
-  > Also can include Blog section within the app to get the Health-related updates through APIs.
+  > _The App which guides the user on how to take care of themselves and also shows precautions to be taken and medicines advice._
+  > _Also can include Blog section within the app to get the Health-related updates through APIs._
 
 ## AI/ML
 
