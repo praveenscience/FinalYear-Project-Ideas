@@ -87,6 +87,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * BMI Calculator
 * Random Joke AJAX Project
 * Countdown Timer Project
+* Chinese Checkers Game
 
 ### React JS
 
@@ -126,6 +127,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _Map Application Based Frontend_
 * Spotify Clone
 * Hostel Management System
+* Chinese Checkers Game 
 
 ## Back End Ideas
 
