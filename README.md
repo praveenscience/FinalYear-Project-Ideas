@@ -38,7 +38,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Food Delivery Tracking Website
 * Music Store Page
 * Simple School Admission Form
-* Image Gallery
+* CSS Image Gallery
 
 ### JavaScript
 
@@ -125,8 +125,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Uber Clone (Map Application Based Frontend)
 * Spotify Clone
 * Hostel Management System
-* Frontend Pagination Page
-* Movie seat booking App
+* Frontend Pagination 
+* Movie Seat Booking App
 
 ## Back End Ideas
 
