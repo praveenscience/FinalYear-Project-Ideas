@@ -44,7 +44,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic Tac Toe Game
 * JS Quiz App
 * Expense Manager
-* Covid CheckUp Test
+* COVID CheckUp Test
 * Calculator
 * Animation in Web Design
 * Flappy Bird Game
@@ -172,6 +172,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Contact Keeping
 * Geospatial Applications
 * eLearning Portal
+* COVID Data Visualisation Dashboard
+* Live Airplane Arrival Departure Dashboard
 
 ### Blockchain
 
@@ -299,6 +301,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * WhatsApp Clone
 * Reddit Clone
 * Medication Reminder
+* Calculator App
+* Hangman Game
 
 ## Game Development
 
@@ -361,6 +365,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Health Advisor App
   > _The App which guides the user on how to take care of themselves and also shows precautions to be taken and medicines advice._
   > _Also can include Blog section within the app to get the Health-related updates through APIs._
+* Introduction card App
+  > _This app will contain your profile which ultimately leads
+  to respective link of portfolio, with flutter it can be made
+  beautifully._
 
 ## AI/ML
 
