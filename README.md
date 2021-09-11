@@ -88,6 +88,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Random Joke AJAX Project
 * Countdown Timer Project
 * Chinese Checkers Game
+* HoverBoard
+* Rock-Paper-Scissors Game
 
 ### React JS
 
