@@ -44,7 +44,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic Tac Toe Game
 * JS Quiz App
 * Expense Manager
-* Covid CheckUp Test
+* COVID CheckUp Test
 * Calculator
 * Animation in Web Design
 * Flappy Bird Game
@@ -170,7 +170,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Contact Keeping
 * Geospatial Applications
 * eLearning Portal
-* Covid Data Visualisation Dashboard
+* COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
 
 ### Blockchain
