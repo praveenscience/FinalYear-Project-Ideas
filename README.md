@@ -500,3 +500,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 5. Just go for it and you will find you way.
 
 For a detailed guidance with pictures, see [Contributing to Open Source](https://github.com/CatsInTech/Rezume/blob/master/CONTRIBUTING.md).
+
+### Contributors List
+
+If you're not there, I am not there. Thank you for making this repository great! ❤️
+
+[![Contributors List](https://contrib.rocks/image?repo=praveenscience/Hacktoberfest-Project-Ideas)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/graphs/contributors)
