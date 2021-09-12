@@ -37,6 +37,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Courses Website
 * Food Delivery Tracking Website
 * Music Store Page
+* E learning platform (full of information)
+
 
 ### JavaScript
 
@@ -222,6 +224,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Restaurant Ordering System
 * Alumni Management System
 * Gym Management System
+* paint software 
 
 ### Python
 
