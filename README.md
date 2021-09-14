@@ -37,6 +37,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Courses Website
 * Food Delivery Tracking Website
 * Music Store Page
+* Simple Admission form
+* CSS Image Gallery
 
 ### JavaScript
 
@@ -87,6 +89,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * BMI Calculator
 * Random Joke AJAX Project
 * Countdown Timer Project
+* Fruit Cutter Game
+* Seat Booking App
 
 ### React JS
 
@@ -121,6 +125,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Uber Clone (Map Application Based Frontend)
 * Spotify Clone
 * Hostel Management System
+* Frontend Pagination
+* Digital Clock
 
 ## Back End Ideas
 
@@ -229,6 +235,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Stack-Visualizer
 * Track Phone Number Location
 * Story-Generator
+* Library Management System
 
 ### Java
 
