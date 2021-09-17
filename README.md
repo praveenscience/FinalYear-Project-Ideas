@@ -37,6 +37,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Courses Website
 * Food Delivery Tracking Website
 * Music Store Page
+* Simple Admission form
+* CSS Image Gallery
 
 ### JavaScript
 
@@ -87,6 +89,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * BMI Calculator
 * Random Joke AJAX Project
 * Countdown Timer Project
+* Fruit Cutter Game
+* Seat Booking App
 * Chinese Checkers Game
 
 ### React JS
@@ -127,6 +131,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _Map Application Based Frontend_
 * Spotify Clone
 * Hostel Management System
+* Frontend Pagination
+* Digital Clock
 * Chinese Checkers Game 
 
 ## Back End Ideas
@@ -247,6 +253,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Stack-Visualizer
 * Track Phone Number Location
 * Story-Generator
+* Library Management System
 * Binary-Search-Tree-Visualizer
 * Ludo Game
 * Searching Algo Visualizer
