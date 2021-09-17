@@ -493,7 +493,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Optimizing Product Price
 * Breast Cancer Prediction
 * Movie Based Recommendation
-* DSA question predicter for top product based companies <!---Not with 100% accuracy,so that it doesn't become illegal😛--->
+* DSA Question Predicter
+  > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
 
 ## Contribution
 
