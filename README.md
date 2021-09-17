@@ -151,6 +151,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Flight Management System
 
 ## Full Stack Ideas
+* Fully Functional Exam Portal
+* Movie Recommendation Website(ML model based Full Stack Web App)
 
 ### Generic Stack
 
@@ -218,6 +220,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Water Gun Game
 * Mobile Assistant 
 * Calculator
+* CRUD REST API in Flask and MongoDB(for beginners)
 
 ## Programming Ideas
 
@@ -499,6 +502,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Optimizing Product Price
 * Breast Cancer Prediction
 * Movie Based Recommendation
+* DSA Question Predicter
+  > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
 
 ## Contribution
 
