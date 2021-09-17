@@ -46,7 +46,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic Tac Toe Game
 * JS Quiz App
 * Expense Manager
-* Covid CheckUp Test
+* COVID CheckUp Test
 * Calculator
 * Animation in Web Design
 * Flappy Bird Game
@@ -91,6 +91,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Countdown Timer Project
 * Fruit Cutter Game
 * Seat Booking App
+* Chinese Checkers Game
+* HoverBoard
+* Rock-Paper-Scissors Game
 
 ### React JS
 
@@ -117,16 +120,22 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Netflix Clone
 * Messaging App
 * My Diary
-* Calculator (Implementation of the iOS calculator built in React)
+* Calculator  
+  > _Implementation of the iOS calculator built in React_
 * Emoji Search
-* Snap Shot (Photo Gallery with Search)
-* BMI Calculator (React Hooks App for Calculating BMI)
-* Image Compressor (An offline image compressor built with React and `browser-image-compression`)
-* Uber Clone (Map Application Based Frontend)
+* Snap Shot  
+  > _Photo Gallery with Search_
+* BMI Calculator  
+  > _React Hooks App for Calculating BMI_
+* Image Compressor  
+  > _An offline image compressor built with React and `browser-image-compression`_
+* Uber Clone  
+  > _Map Application Based Frontend_
 * Spotify Clone
 * Hostel Management System
 * Frontend Pagination
 * Digital Clock
+* Chinese Checkers Game 
 
 ## Back End Ideas
 
@@ -142,6 +151,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Flight Management System
 
 ## Full Stack Ideas
+* Fully Functional Exam Portal
+* Movie Recommendation Website(ML model based Full Stack Web App)
 
 ### Generic Stack
 
@@ -171,6 +182,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Contact Keeping
 * Geospatial Applications
 * eLearning Portal
+* COVID Data Visualisation Dashboard
+* Live Airplane Arrival Departure Dashboard
 
 ### Blockchain
 
@@ -179,7 +192,16 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Personal Identity System
 * Supply Chain Management System
 * Cryptocurrency 
-* Medical UseCase (Storing sensitive medical data)
+* Medical UseCase  
+  > _Storing sensitive medical data_
+* Charity Applications  
+  > _A platform where people can help the needy without the fear of any scam or fraud and ensures transparency_
+* Document Storage System  
+  > _The government or any system which requires submission of documents can access them from the Blockchain with the required permissions from the user_
+* Fake Product Identification 
+* Electronic Voting System 
+* Insurance Management System
+* Financial Record Management System
 
 ### Python-Django
 
@@ -198,6 +220,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Water Gun Game
 * Mobile Assistant 
 * Calculator
+* CRUD REST API in Flask and MongoDB(for beginners)
 
 ## Programming Ideas
 
@@ -231,11 +254,20 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Stock Scanner
 * Random Password Generator
-* Flim Data Collector
+* Film Data Collector
 * Stack-Visualizer
 * Track Phone Number Location
 * Story-Generator
 * Library Management System
+* Binary-Search-Tree-Visualizer
+* Ludo Game
+* Searching Algo Visualizer
+* Graph Traversing Visualizer (BFS, DFS)
+* Circular Queue Visualizer
+* Link-List Visualizer
+* Music Player
+* Currency Converter
+* QR Code Generator
 
 ### Java
 
@@ -256,6 +288,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fitness Tracker
 * Class Notes Sharing App
 * Insta - Buy App.
+* Barcode Reader App
+* Face Identification App
 
 ### Android Studio
 
@@ -279,6 +313,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * WhatsApp Clone
 * Reddit Clone
 * Medication Reminder
+* Calculator App
+* Hangman Game
 
 ## Game Development
 
@@ -292,6 +328,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic Tac Toe
 * Pong
 * Procedural Mesh Generation
+* Temple Run
+* Snake Game
 
 ### Unity Applications
 
@@ -328,17 +366,21 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### Flutter
 
 * Menstrual Cycle Tracker (similar to CLUE App)
-  > The app which accurately predicts your period,helps women to understand their symptoms, giving enough knowledge about cancer related problems.
+  > _The app which accurately predicts your period,helps women to understand their symptoms, giving enough knowledge about cancer related problems._
 * Creating your own music App like Spotify.
 * Awesome Cook App
-  > The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them.
+  > _The app where you can put already avaliable ingredients at your home and it will provide you with variety of meals you can cook with them._
 * Blood donation App
-  > An app making a platform between blood donors and recipients making the process easierand fast.
+  > _An app making a platform between blood donors and recipients making the process easierand fast._
 * eCommerce App with Delivery System
 * Online Education School App
 * Health Advisor App
-  > The App which guides the user on how to take care of themselves and also shows precautions to be taken and medicines advice.
-  > Also can include Blog section within the app to get the Health-related updates through APIs.
+  > _The App which guides the user on how to take care of themselves and also shows precautions to be taken and medicines advice._
+  > _Also can include Blog section within the app to get the Health-related updates through APIs._
+* Introduction card App
+  > _This app will contain your profile which ultimately leads
+  to respective link of portfolio, with flutter it can be made
+  beautifully._
 
 ## AI/ML
 
@@ -426,6 +468,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Heart Attack Detection & Heart Rate Monitor 
 * IoT Based Toll Booth Manager System 
 * IoT Theft Detection Using Raspberry Pi
+* IoT Based Smart Door Locking System
 
 ## Data Science
 
@@ -457,6 +500,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Air Pollution Prediction
 * Age & Gender Detection
 * Optimizing Product Price
+* Breast Cancer Prediction
+* Movie Based Recommendation
+* DSA Question Predicter
+  > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
 
 ## Contribution
 
@@ -467,3 +514,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 5. Just go for it and you will find you way.
 
 For a detailed guidance with pictures, see [Contributing to Open Source](https://github.com/CatsInTech/Rezume/blob/master/CONTRIBUTING.md).
+
+### Contributors List
+
+If you're not there, I am not there. Thank you for making this repository great! ❤️
+
+[![Contributors List](https://contrib.rocks/image?repo=praveenscience/Hacktoberfest-Project-Ideas)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/graphs/contributors)
