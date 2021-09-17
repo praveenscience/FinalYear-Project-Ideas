@@ -233,6 +233,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Restaurant Ordering System
 * Alumni Management System
 * Gym Management System
+* File Compression
 
 ### Python
 
