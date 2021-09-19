@@ -269,6 +269,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Player
 * Currency Converter
 * QR Code Generator
+* cone and obstacle detection  using yolov5/open cv
 
 ### Java
 
