@@ -269,6 +269,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Player
 * Currency Converter
 * QR Code Generator
+* Cone and Obstacle Detection
+  > _using yolov5/open cv_
 
 ### Java
 
