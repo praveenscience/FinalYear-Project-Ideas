@@ -153,6 +153,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ## Full Stack Ideas
 * Fully Functional Exam Portal
 * Movie Recommendation Website(ML model based Full Stack Web App)
+* Security Logger 
 
 ### Generic Stack
 
@@ -221,6 +222,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Mobile Assistant 
 * Calculator
 * CRUD REST API in Flask and MongoDB(for beginners)
+* Student Companion app
+* Social Media backend
+* Content Management system
 
 ## Programming Ideas
 
