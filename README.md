@@ -151,8 +151,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Flight Management System
 
 ## Full Stack Ideas
+
+* Study Abroad Networking App
+  > Networking app for students who want to study abroad.
 * Fully Functional Exam Portal
-* Movie Recommendation Website(ML model based Full Stack Web App)
+* Movie Recommendation Website (ML model based Full Stack Web App)
 
 ### Generic Stack
 
