@@ -227,6 +227,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Mobile Assistant 
 * Calculator
 * CRUD REST API in Flask and MongoDB(for beginners)
+* Calorie Counter
 
 ## Programming Ideas
 
