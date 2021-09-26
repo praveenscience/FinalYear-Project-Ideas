@@ -205,9 +205,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Electronic Voting System 
 * Insurance Management System
 * Financial Record Management System
-* Android Document/Notes Sharing System using Blockchain
-* State Government Fund Allocation & Tracking System over Blockchain
-* Protect Fine Art Produced By Talented Artists
 
 ### Python-Django
 
@@ -276,6 +273,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Currency Converter
 * QR Code Generator
 * Cone and Obstacle Detection
+* All in one Social Media Files Downloader(GUI)
   > _using yolov5/open cv_
 
 ### Java
@@ -406,8 +404,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Predicting Music Genres
 * Baseball Sign Predictor
 * Music Analysis
-* Generate Human Faces with DCGAN
-* Text Summariser
 
 ## Data Structures and Algorithms
 
@@ -512,16 +508,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Age & Gender Detection
 * Optimizing Product Price
 * Breast Cancer Prediction
-* Analyze COVID Vaccination Progress Using Python
-* Financial Status Analysis For Credit Score Rating
 * Movie Based Recommendation
 * DSA Question Predicter
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
-
-## Bio Technology 
-
-* Determine If Your Food is Genetically Modified
-* Building Your Own Tool for Identifying DNA 
 
 ## Contribution
 
