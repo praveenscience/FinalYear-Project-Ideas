@@ -404,7 +404,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Baseball Sign Predictor
 * Music Analysis
 * Generate Human Faces with DCGAN
-* Text Summarizer
+* Text Summariser
 
 ## Data Structures and Algorithms
 
@@ -509,19 +509,16 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Age & Gender Detection
 * Optimizing Product Price
 * Breast Cancer Prediction
-* Analyze Covid Vaccination Progress Using Python
+* Analyze COVID Vaccination Progress Using Python
 * Financial Status Analysis For Credit Score Rating
 * Movie Based Recommendation
 * DSA Question Predicter
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
 
-
-## Biotechnology 
+## Bio Technology 
 
 * Determine If Your Food is Genetically Modified
 * Building Your Own Tool for Identifying DNA 
-
-
 
 ## Contribution
 
