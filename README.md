@@ -4,7 +4,7 @@
 
 We'll organise into different streams here. One kind request for motivation: Please [Subscribe to my **YouTube Channel**](https://www.youtube.com/praveenscience?sub_confirmation=1) and also tell your friends too.
 
-![Hacktoberfest Logo](./hacktoberfest.webp)
+![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/twitter-card.png)
 
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
