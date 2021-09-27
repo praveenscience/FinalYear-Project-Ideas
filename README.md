@@ -136,6 +136,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Frontend Pagination
 * Digital Clock
 * Chinese Checkers Game 
+* Text To Speech Converter App
 
 ## Back End Ideas
 
