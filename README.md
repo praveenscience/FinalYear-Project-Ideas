@@ -156,6 +156,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Study Abroad Networking App
   > Networking app for students who want to study abroad.
 * Fully Functional Exam Portal
+* Security Logger 
 * Movie Recommendation Website (ML model based Full Stack Web App)
 
 ### Generic Stack
@@ -228,6 +229,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Mobile Assistant 
 * Calculator
 * CRUD REST API in Flask and MongoDB(for beginners)
+* Student Companion app
+* Social Media backend
+* Content Management system
 
 ## Programming Ideas
 
