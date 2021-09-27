@@ -94,6 +94,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Chinese Checkers Game
 * HoverBoard
 * Rock-Paper-Scissors Game
+* Testimonial Slider
 
 ### React JS
 
