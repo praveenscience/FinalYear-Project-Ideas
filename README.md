@@ -8,6 +8,38 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
+
+##Index
+- [Front End Ideas:](#Front%20End%20Ideas)
+  - [HTML&CSS](#HTML%20&%20CSS)
+  - [JavaScript](#JavaScript)
+  - [React JS](#React%20JS)
+- [Back End Ideas:](#Back%20End%20Ideas)
+  - [Spring Stack](#Spring%20Stack)
+  - [Full Stack](#Full%20Stack%20Ideas)
+  - [Generic Stack](#Generic%20Stack)
+  - [LAMP Stack](#LAMP%20Stack)
+  - [MERN Stack](#MERN%20Stack)
+  - [Blockchain](#Blockchain)
+  - [Python](#Python-Django)
+- [Programming Ideas:](#Programming%20Ideas)
+  - [C++](#C++)
+  - [Python](#Python)
+  - [Java](#Java)
+- [Mobile Applications](#Mobile%20Applications)
+- [Android Studio](#Android%20Studio)
+- [Game Development](#Game%20Development)
+- [Unity Applications](#Unity%20Applications)
+- [Augmented Reality](#Augmented%20Reality)
+- [Flutter](#Flutter)
+- [AI and ML](#AI/ML)
+- [Data Structures and Algorithms](#Data%20Structures%20and%Algorithms)
+- [Desktop Applications](#Desktop%20Applications)
+- [Internet of Things](#Internet%20Of%20Things)
+- [Data Science](#Data%20Science)
+- [Bio Technology](#Bio%20Technology)
+
+
 ## Front End Ideas
 
 ### HTML & CSS
