@@ -154,8 +154,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fully Functional Exam Portal
 * Movie Recommendation Website(ML model based Full Stack Web App)
 
-
-
 ### Generic Stack
 
 * Payment Gateway Integration
@@ -188,7 +186,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
 * NGO Connecting Website
-
 
 ### Blockchain
 
@@ -276,7 +273,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * QR Code Generator
 * Cone and Obstacle Detection
   > _using yolov5/open cv_
-  * URL shortener
+* URL shortener
 
 ### Java
 
