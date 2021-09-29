@@ -294,6 +294,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Attendance System
 * Calculator using Swing
 * Library Management System
+* Payroll Management System
 
 ## Mobile Applications
 
@@ -309,6 +310,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Insta - Buy App.
 * Barcode Reader App
 * Face Identification App
+* Blog App
+* Chatting App (similar to WhatsApp)
 
 ### Android Studio
 
