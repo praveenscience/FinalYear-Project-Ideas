@@ -95,6 +95,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * HoverBoard
 * Rock-Paper-Scissors Game
 * Testimonial Slider
+* Virtual Keyboard
+* Weather app
+* Instagram Clone
 
 ### React JS
 
@@ -250,6 +253,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Implementation of Minesweeper Game
 * Program to remotely Power On a PC over the internet using the Wake-on-LAN protocol
 * Finding cabs nearby using Great Circle Distance formula
+* ATM Transaction System
 
 ### Python
 
@@ -287,6 +291,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * QR Code Generator
 * Cone and Obstacle Detection
   > _using yolov5/open cv_
+* Income Tax Calculator
+* Detection of Plant Disease
+* Keylogger using Python
 
 ### Java
 
@@ -309,6 +316,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Insta - Buy App.
 * Barcode Reader App
 * Face Identification App
+* Music Player which converts songs into 3D Audio
 
 ### Android Studio
 
@@ -349,6 +357,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Procedural Mesh Generation
 * Temple Run
 * Snake Game
+* Space Invaders game using pygame
 
 ### Unity Applications
 
@@ -360,6 +369,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Pokemon clone RPG Game
 * Candy Crush (Match-three-like) Game
 * Tetris clone
+* Basketball Game in Unity
 
 ### Augmented Reality
 
@@ -527,6 +537,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Based Recommendation
 * DSA Question Predicter
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
+* Hotel Cancellation Prediction
+* Leaf Disease Detection
+* Driver Drowsiness system using OpenCV
+* Traffic signs recognition
+* Road Lane Line Detection System
 
 ## Bio Technology 
 
