@@ -400,6 +400,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _This app will contain your profile which ultimately leads
   to respective link of portfolio, with flutter it can be made
   beautifully._
+* Instagram Clone
+  > _Building a working Instagram clone using Flutter and Firebase
 
 ## AI/ML
 
