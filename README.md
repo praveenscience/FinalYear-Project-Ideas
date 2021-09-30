@@ -401,7 +401,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
   to respective link of portfolio, with flutter it can be made
   beautifully._
 * Instagram Clone
-  > _Building a working Instagram clone using Flutter and Firebase
+  > _Building a working Instagram clone using Flutter and Firebase._
 
 ## AI/ML
 
