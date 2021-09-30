@@ -22,6 +22,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fashion eCommerce Website
 * Restaurant Management System
 * Event Management Website
+* Link Shortener website
 * Product Landing Page
 * Travel Agency Landing Page
 * Tribute Page
@@ -245,6 +246,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * File Management System
 * Restaurant Ordering System
 * Alumni Management System
+* Security System
+* Traffic Management System
 * Gym Management System
 * File Compression
 * Implementation of Minesweeper Game
@@ -265,6 +268,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Code Review Platform (using the tkinter)
 * Message Encrypter
 * Virtual Assistant
+* Send custom emails with Python
 * Automatic Quote Generator (using Quotes API)
 * Guessing Game
 * Hangman Game
@@ -502,6 +506,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Stock Market Prediction
 * Fake News Detection
 * Video Classification
+* Web traffic forecasting using time series
+* Earth Surface Temperature Visualization
 * Human Action Recognition
 * Medical Report Generation using CT Scans
 * Email Classification
