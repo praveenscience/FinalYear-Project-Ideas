@@ -171,6 +171,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Food Delivery App
 * Poll App
 * Social Media Clone
+* Hospital Bed tracker and Vaccine allocator
 
 ### LAMP Stack
 
