@@ -297,6 +297,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Email Administration using Core Java
 * Symmetric Encryption Cyptography
 * Snake Game
+* Tic-Tac-Toe Game using Swing
 
 ## Mobile Applications
 
