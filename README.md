@@ -160,6 +160,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fully Functional Exam Portal
 * Security Logger 
 * Movie Recommendation Website (ML model based Full Stack Web App)
+* Beach water quality analysis portal
 
 ### Generic Stack
 
@@ -191,6 +192,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eLearning Portal
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
+* 
 
 ### Blockchain
 
@@ -295,6 +297,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Calculator using Swing
 * Library Management System
 
+
 ## Mobile Applications
 
 * Pattern Variation App 
@@ -349,6 +352,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Procedural Mesh Generation
 * Temple Run
 * Snake Game
+* quiz based games
 
 ### Unity Applications
 
