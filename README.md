@@ -277,6 +277,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Story-Generator
 * Library Management System
 * Binary-Search-Tree-Visualizer
+* Face Detector
 * Ludo Game
 * Searching Algo Visualizer
 * Graph Traversing Visualizer (BFS, DFS)
