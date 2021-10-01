@@ -428,6 +428,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Sorting Algorithm Vizualizer
 * Visualization of Shortest Path Finding Algorithm
+* Sudoku using Backtracking Algorithm
 
 ## Desktop Applications
 
