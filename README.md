@@ -40,6 +40,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* Technical Documentation
 
 ### JavaScript
 
@@ -96,6 +97,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * HoverBoard
 * Rock-Paper-Scissors Game
 * Testimonial Slider
+* 2048 Game
 
 ### React JS
 
