@@ -39,6 +39,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* Mental-Health Support Site
 
 ### JavaScript
 
@@ -63,7 +64,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Banking System
 * Space Invaders Game
 * Memory (Card game)
-* Drum Kit 
+* Drum Kit
 * The RGB Color Game
 * Dice Game
 * Music App
@@ -71,7 +72,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Color Palette App
 * Virtual Drums App
 * Dice Roll
-* Weather App 
+* Weather App
 * Hangman Game
 * Memory (Card Game)
 * Transaction Limiter (Splitwise App Clone)
@@ -84,7 +85,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Seat Booking App
 * Exchange Rate Calculator
 * Whack-A-Mole Game
-* Word Scramble 
+* Word Scramble
 * Rock-Paper-Scissors Game
 * BMI Calculator
 * Random Joke AJAX Project
@@ -95,6 +96,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * HoverBoard
 * Rock-Paper-Scissors Game
 * Testimonial Slider
+* GPA/CGPA calculator
+* Restaurant Review Aggregator
 
 ### React JS
 
@@ -136,9 +139,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Hostel Management System
 * Frontend Pagination
 * Digital Clock
-* Chinese Checkers Game 
+* Chinese Checkers Game
 * Videos into Notes
-  > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links. 
+  > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links.
 
 ## Back End Ideas
 
@@ -158,7 +161,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Study Abroad Networking App
   > Networking app for students who want to study abroad.
 * Fully Functional Exam Portal
-* Security Logger 
+* Security Logger
 * Movie Recommendation Website (ML model based Full Stack Web App)
 
 ### Generic Stack
@@ -198,15 +201,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Digital Land Registry System
 * Personal Identity System
 * Supply Chain Management System
-* Cryptocurrency 
+* Cryptocurrency
 * Medical UseCase  
   > _Storing sensitive medical data_
 * Charity Applications  
   > _A platform where people can help the needy without the fear of any scam or fraud and ensures transparency_
 * Document Storage System  
   > _The government or any system which requires submission of documents can access them from the Blockchain with the required permissions from the user_
-* Fake Product Identification 
-* Electronic Voting System 
+* Fake Product Identification
+* Electronic Voting System
 * Insurance Management System
 * Financial Record Management System
 * Android Document/Notes Sharing System using Blockchain
@@ -219,7 +222,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Password Generator
 * Personal Portfolio
 * Stone Paper Scissor
-* Billing System 
+* Billing System
 * Movie Ticket Booking System
 * Email Sender
 * Web Scraper
@@ -228,7 +231,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Reminder System
 * Automatic Birthdays Mailer
 * Snake Water Gun Game
-* Mobile Assistant 
+* Mobile Assistant
 * Calculator
 * CRUD REST API in Flask and MongoDB(for beginners)
 * Student Companion app
@@ -301,7 +304,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## Mobile Applications
 
-* Pattern Variation App 
+* Pattern Variation App
 * Calories Counting App
 * Weather App
 * Restaurant App (with API)
@@ -348,7 +351,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Warfare Game
 * Free Fall Game
 * Doodle Jump Clone
-* Simon Says 
+* Simon Says
 * Tic Tac Toe
 * Pong
 * Procedural Mesh Generation
@@ -412,8 +415,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Handwriting Recogniser
 * Chatbot for Healthcare Management
 * Spam Email Detection System
-* Public Sentiment Analyser for Election 
-* Parking Ticket App 
+* Public Sentiment Analyser for Election
+* Parking Ticket App
 * Interactive American Sign Language Translator
 * Sentiment Analysis
 * Predicting Student Performance
@@ -439,60 +442,60 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## Internet of Things
 
-* IoT Contactless Covid Testing Booth Automation 
-* IoT Social Distancing & Monitoring Robot For Queue 
-* IoT Covid Patient Health Monitor in Quarantine 
-* IoT based Manhole Detection and Monitoring System 
-* IoT based Smart Energy Meter Monitoring with Theft Detection DIY 2G Android Phone with Gesture Interface 
-* IoT based Three Phase Power Failure Monitoring with SMS Alerts 
-* IoT based Intelligent Gas Leakage Detector Using Arduino 
+* IoT Contactless Covid Testing Booth Automation
+* IoT Social Distancing & Monitoring Robot For Queue
+* IoT Covid Patient Health Monitor in Quarantine
+* IoT based Manhole Detection and Monitoring System
+* IoT based Smart Energy Meter Monitoring with Theft Detection DIY 2G Android Phone with Gesture Interface
+* IoT based Three Phase Power Failure Monitoring with SMS Alerts
+* IoT based Intelligent Gas Leakage Detector Using Arduino
 * IoT based Smart Agriculture Monitoring System Project
-* IoT based Automatic Vehicle Accident Detection 
-* IoT based System Gas Leakage Detection with Buzzer System using Atmega Greenhouse Monitoring 
-* IoT based Coal Mine Safety Monitoring and Alerting System 
-* IoT based Heart Monitoring System Using ECG 
-* IoT based Anti-theft Flooring System using Raspberry Pi Raspberry Pi based Weather Reporting Over IOT 
-* IoT Based Monitoring System for Comatose Patients 
-* IoT Early Flood Detection & Avoidance 
-* IoT Garbage Monitoring Using Raspberry Pi 
-* IoT Circuit Breaker Project Women Safety Night Patrolling 
-* IoT Robot 
-* IoT Mining Tracking & Worker Safety Helmet 
-* IoT Flood Monitoring & Alerting System 
-* IoT Prison Break Monitoring & Alerting System Raspberry Pi Air and Noise Pollution Monitoring System Over IOT 
-* IoT Energy Meter with Current, Voltage and Cost Monitoring System 
-* IoT Industry Protection System Arduino 
-* IoT Color Based Product Sorting Machine Project 
-* IoT Smart Energy Grid 
-* IoT Paralysis Patient Health Care Project 
-* IoT Car Parking System Smart Dustbin With IOT Notifications 
-* IoT Smart Mirror With News & Temperature 
-* IoT Garbage Monitoring With Weight Sensing 
-* IoT Asset tracking System 
-* IoT Based ICU Patient Monitoring System Biometric Attendance System Over IOT 
-* IoT Gas Pipe Leakage Detector Insect Robot 
-* IoT Irrigation Monitoring & Controller System 
-* IoT Electronic Door Opener 
-* IoT Home Automation Using Raspberry Pi 
-* IoT Alcohol & Health Monitoring System 
-* IoT Liquid Level Monitoring System 
-* IoT Garbage Monitoring System 
-* IoT Based Home Automation 
-* IoT Based Office Automation 
-* IoT Based Industry Automation 
-* IoT Weather Reporting System 
-* IoT Based Antenna Positioning System 
-* IoT Based Fire Department Alerting System 
-* IoT Solar Power Monitoring System 
-* IoT Streetlight Controller System 
-* IoT Traffic Signal Monitoring & Controller System 
-* IoT Industry Automation Using Raspberry Pi 
-* IoT Underground Cable Fault Detector Project 
-* IoT Air & Sound Pollution Monitoring System Energy Meter Monitoring Over IOT 
-* IoT Based Person/Wheelchair Fall Detection 
-* IoT Patient Health Monitoring Project 
-* IoT Heart Attack Detection & Heart Rate Monitor 
-* IoT Based Toll Booth Manager System 
+* IoT based Automatic Vehicle Accident Detection
+* IoT based System Gas Leakage Detection with Buzzer System using Atmega Greenhouse Monitoring
+* IoT based Coal Mine Safety Monitoring and Alerting System
+* IoT based Heart Monitoring System Using ECG
+* IoT based Anti-theft Flooring System using Raspberry Pi Raspberry Pi based Weather Reporting Over IOT
+* IoT Based Monitoring System for Comatose Patients
+* IoT Early Flood Detection & Avoidance
+* IoT Garbage Monitoring Using Raspberry Pi
+* IoT Circuit Breaker Project Women Safety Night Patrolling
+* IoT Robot
+* IoT Mining Tracking & Worker Safety Helmet
+* IoT Flood Monitoring & Alerting System
+* IoT Prison Break Monitoring & Alerting System Raspberry Pi Air and Noise Pollution Monitoring System Over IOT
+* IoT Energy Meter with Current, Voltage and Cost Monitoring System
+* IoT Industry Protection System Arduino
+* IoT Color Based Product Sorting Machine Project
+* IoT Smart Energy Grid
+* IoT Paralysis Patient Health Care Project
+* IoT Car Parking System Smart Dustbin With IOT Notifications
+* IoT Smart Mirror With News & Temperature
+* IoT Garbage Monitoring With Weight Sensing
+* IoT Asset tracking System
+* IoT Based ICU Patient Monitoring System Biometric Attendance System Over IOT
+* IoT Gas Pipe Leakage Detector Insect Robot
+* IoT Irrigation Monitoring & Controller System
+* IoT Electronic Door Opener
+* IoT Home Automation Using Raspberry Pi
+* IoT Alcohol & Health Monitoring System
+* IoT Liquid Level Monitoring System
+* IoT Garbage Monitoring System
+* IoT Based Home Automation
+* IoT Based Office Automation
+* IoT Based Industry Automation
+* IoT Weather Reporting System
+* IoT Based Antenna Positioning System
+* IoT Based Fire Department Alerting System
+* IoT Solar Power Monitoring System
+* IoT Streetlight Controller System
+* IoT Traffic Signal Monitoring & Controller System
+* IoT Industry Automation Using Raspberry Pi
+* IoT Underground Cable Fault Detector Project
+* IoT Air & Sound Pollution Monitoring System Energy Meter Monitoring Over IOT
+* IoT Based Person/Wheelchair Fall Detection
+* IoT Patient Health Monitoring Project
+* IoT Heart Attack Detection & Heart Rate Monitor
+* IoT Based Toll Booth Manager System
 * IoT Theft Detection Using Raspberry Pi
 * IoT Based Smart Door Locking System
 
@@ -533,10 +536,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * DSA Question Predicter
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
 
-## Bio Technology 
+## Bio Technology
 
 * Determine If Your Food is Genetically Modified
-* Building Your Own Tool for Identifying DNA 
+* Building Your Own Tool for Identifying DNA
 
 ## Contribution
 
