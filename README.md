@@ -212,6 +212,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Android Document/Notes Sharing System using Blockchain
 * State Government Fund Allocation & Tracking System over Blockchain
 * Protect Fine Art Produced By Talented Artists
+* Decentralized Medical Diagnosis reports storage and tracking
 
 ### Python-Django
 
