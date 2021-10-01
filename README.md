@@ -4,7 +4,8 @@
 
 We'll organise into different streams here. One kind request for motivation: Please [Subscribe to my **YouTube Channel**](https://www.youtube.com/praveenscience?sub_confirmation=1) and also tell your friends too.
 
-![Hacktoberfest Logo](./hacktoberfest.webp)
+![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/59393136/135506030-70cc4bd7-982d-4c98-be8f-4e7aba9e50aa.png)
+
 
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
@@ -291,6 +292,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Java
 
+
 - Hotel Management System
 - Attendance System
 - Calculator using Swing
@@ -299,6 +301,17 @@ We'll organise into different streams here. One kind request for motivation: Ple
 - Symmetric Encryption Cyptography
 - Snake Game
 - Tic-Tac-Toe Game using Swing
+
+* Hotel Management System
+* Attendance System
+* Calculator using Swing
+* Library Management System
+* PetClinic by Springboot
+* Email Administration using Core Java
+* Symmetric Encryption Cyptography
+* Snake Game
+* Tic-Tac-Toe Game using Swing
+
 
 ### R
 
