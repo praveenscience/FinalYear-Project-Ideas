@@ -39,6 +39,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* Mental-Health Support/Helpline
 
 ### JavaScript
 
@@ -95,6 +96,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * HoverBoard
 * Rock-Paper-Scissors Game
 * Testimonial Slider
+* GPA/CGPA Calculator
+* Restuarant Review/Rating Aggregator
+* Inventory Management Tool
+* Online Note tool
 
 ### React JS
 
