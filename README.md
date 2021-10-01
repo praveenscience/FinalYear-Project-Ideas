@@ -134,6 +134,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _An offline image compressor built with React and `browser-image-compression`_
 - Uber Clone
   > _Map Application Based Frontend_
+
 - Spotify Clone
 - Hostel Management System
 - Frontend Pagination
@@ -141,6 +142,16 @@ We'll organise into different streams here. One kind request for motivation: Ple
 - Chinese Checkers Game
 - Videos into Notes
   > \_web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links.
+
+* Spotify Clone
+* Hostel Management System
+* Frontend Pagination
+* Digital Clock
+* Chinese Checkers Game 
+* fitness app 
+> _workout log and calorie counter
+* Videos into Notes
+  > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links. 
 
 ## Back End Ideas
 
@@ -159,6 +170,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 - Study Abroad Networking App
   > Networking app for students who want to study abroad.
+
 - Fully Functional Exam Portal
 - Security Logger
 - Movie Recommendation Website (ML model based Full Stack Web App)
@@ -174,6 +186,24 @@ We'll organise into different streams here. One kind request for motivation: Ple
 - Poll App
 - Social Media Clone
 
+* Fully Functional Exam Portal
+* Security Logger 
+* Movie Recommendation Website (ML model based Full Stack Web App)
+* Student QnA forum 
+
+### Generic Stack
+
+* Payment Gateway Integration
+* Amazon Clone
+* Fashion eCommerce Website
+* Blog Content Management System
+* Fashion eCommerce Website
+* Food Delivery App
+* Poll App
+* Social Media Clone
+* Travel Guide of a city
+
+
 ### LAMP Stack
 
 - GuestBook App
@@ -182,6 +212,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 - Admin Dashboard
 
 ### MERN Stack
+
 
 - User Management System
 - Virtual Queue Management System
@@ -193,6 +224,19 @@ We'll organise into different streams here. One kind request for motivation: Ple
 - eLearning Portal
 - COVID Data Visualisation Dashboard
 - Live Airplane Arrival Departure Dashboard
+
+* User Management System
+* Virtual Queue Management System
+* eCommerce Website
+* Online Distance Education System
+* Farming Management System
+* Contact Keeping
+* Geospatial Applications
+* eLearning Portal
+* COVID Data Visualisation Dashboard
+* Live Airplane Arrival Departure Dashboard
+* NGO Connecting Website
+
 
 ### Blockchain
 
@@ -289,6 +333,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 - QR Code Generator
 - Cone and Obstacle Detection
   > _using yolov5/open cv_
+* Random quote generator
+* Snake Water Gun game
+* URL shortener
 
 ### Java
 
@@ -306,6 +353,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Attendance System
 * Calculator using Swing
 * Library Management System
+* Payroll Management System
 * PetClinic by Springboot
 * Email Administration using Core Java
 * Symmetric Encryption Cyptography
@@ -327,6 +375,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## Mobile Applications
 
+
 - Pattern Variation App
 - Calories Counting App
 - Weather App
@@ -339,6 +388,21 @@ We'll organise into different streams here. One kind request for motivation: Ple
 - Insta - Buy App.
 - Barcode Reader App
 - Face Identification App
+
+* Pattern Variation App 
+* Calories Counting App
+* Weather App
+* Restaurant App (with API)
+* Expense Tracker App
+* Smart Education App
+* First Aid App
+* Fitness Tracker
+* Class Notes Sharing App
+* Insta - Buy App.
+* Barcode Reader App
+* Face Identification App
+* Blog App
+* Chatting App (similar to WhatsApp)
 
 ### Android Studio
 
