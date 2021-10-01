@@ -495,6 +495,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Based Toll Booth Manager System 
 * IoT Theft Detection Using Raspberry Pi
 * IoT Based Smart Door Locking System
+* IoT Covid-19 early symptom detection system 
 
 ## Data Science
 
