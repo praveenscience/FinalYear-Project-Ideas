@@ -423,6 +423,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
+* Sudoku solver using Backtraking and Computer Vision (OpenCV)
 
 ## Data Structures and Algorithms
 
