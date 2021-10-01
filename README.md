@@ -532,6 +532,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Based Recommendation
 * DSA Question Predicter
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
+* Customer Segmentation System
 
 ## Bio Technology 
 
