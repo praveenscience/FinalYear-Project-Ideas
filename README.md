@@ -39,6 +39,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* CSS Smooth Scroll
+* Blurr Loading using CSS
 
 ### JavaScript
 
@@ -95,6 +97,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * HoverBoard
 * Rock-Paper-Scissors Game
 * Testimonial Slider
+* CLI App
 
 ### React JS
 
@@ -134,6 +137,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _Map Application Based Frontend_
 * Spotify Clone
 * Hostel Management System
+* Hotel Reccomendation App
 * Frontend Pagination
 * Digital Clock
 * Chinese Checkers Game 
@@ -160,6 +164,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fully Functional Exam Portal
 * Security Logger 
 * Movie Recommendation Website (ML model based Full Stack Web App)
+* Fully Functional Website for ed-tech startup
 
 ### Generic Stack
 
