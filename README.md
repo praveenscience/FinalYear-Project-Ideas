@@ -4,7 +4,8 @@
 
 We'll organise into different streams here. One kind request for motivation: Please [Subscribe to my **YouTube Channel**](https://www.youtube.com/praveenscience?sub_confirmation=1) and also tell your friends too.
 
-![Hacktoberfest Logo](./hacktoberfest.webp)
+![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/59393136/135506030-70cc4bd7-982d-4c98-be8f-4e7aba9e50aa.png)
+
 
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
@@ -171,6 +172,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Food Delivery App
 * Poll App
 * Social Media Clone
+* Travel Guide of a city
 
 ### LAMP Stack
 
@@ -191,6 +193,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eLearning Portal
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
+* NGO Connecting Website
 
 ### Blockchain
 
@@ -287,6 +290,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * QR Code Generator
 * Cone and Obstacle Detection
   > _using yolov5/open cv_
+* URL shortener
 
 ### Java
 
@@ -295,6 +299,23 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Calculator using Swing
 * Library Management System
 * Payroll Management System
+* PetClinic by Springboot
+* Email Administration using Core Java
+* Symmetric Encryption Cyptography
+* Snake Game
+* Tic-Tac-Toe Game using Swing
+
+### R
+
+* Sentiment Analysis
+* Uber Data Analysis
+* Movie Recommendation System
+* Customer Segmentation
+* Credit Card Fraud Detection
+* Road Loan Line Detection
+* Leaf Disease Detection
+* Speech Emotion Recognition
+* Uber Data Analysis in R
 
 ## Mobile Applications
 
@@ -337,6 +358,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Medication Reminder
 * Calculator App
 * Hangman Game
+* Audiobook
 
 ## Game Development
 
