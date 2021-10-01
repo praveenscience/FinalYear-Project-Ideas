@@ -423,6 +423,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
+* Super Resoltion Using SRGan
+* Prediction Of Customer Segmentation
 
 ## Data Structures and Algorithms
 
