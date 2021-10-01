@@ -172,6 +172,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Food Delivery App
 * Poll App
 * Social Media Clone
+* Travel Guide of a city
 
 ### LAMP Stack
 
@@ -192,6 +193,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eLearning Portal
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
+* NGO Connecting Website
 
 ### Blockchain
 
@@ -288,6 +290,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * QR Code Generator
 * Cone and Obstacle Detection
   > _using yolov5/open cv_
+* URL shortener
 
 ### Java
 
