@@ -448,6 +448,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
+* AI based Personality Test App
+* Video Summarization System
+* Generative Chatbot for Customer Service
 
 ## Data Structures and Algorithms
 
