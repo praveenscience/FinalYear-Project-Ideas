@@ -288,6 +288,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Cone and Obstacle Detection
   > _using yolov5/open cv_
 * Random quote generator
+* Snake Water Gun game
 
 ### Java
 
