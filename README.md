@@ -295,6 +295,22 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Calculator using Swing
 * Library Management System
 * PetClinic by Springboot
+* Email Administration using Core Java
+* Symmetric Encryption Cyptography
+* Snake Game
+* Tic-Tac-Toe Game using Swing
+
+### R
+
+* Sentiment Analysis
+* Uber Data Analysis
+* Movie Recommendation System
+* Customer Segmentation
+* Credit Card Fraud Detection
+* Road Loan Line Detection
+* Leaf Disease Detection
+* Speech Emotion Recognition
+* Uber Data Analysis in R
 
 ## Mobile Applications
 
@@ -335,6 +351,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Medication Reminder
 * Calculator App
 * Hangman Game
+* Audiobook
 
 ## Game Development
 
