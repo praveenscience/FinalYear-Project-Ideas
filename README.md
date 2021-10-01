@@ -436,6 +436,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Microsoft Excel Clone
 * VS Code Clone
 * Zoom Clone
+* Markdown Editor
 
 ## Internet of Things
 
