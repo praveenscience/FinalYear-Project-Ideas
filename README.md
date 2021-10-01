@@ -160,6 +160,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fully Functional Exam Portal
 * Security Logger 
 * Movie Recommendation Website (ML model based Full Stack Web App)
+* Crypto wallet
 
 ### Generic Stack
 
