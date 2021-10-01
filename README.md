@@ -294,6 +294,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Attendance System
 * Calculator using Swing
 * Library Management System
+* Tic-Tac-Toe Game using Swing
 
 ## Mobile Applications
 
