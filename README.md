@@ -39,6 +39,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* Animated Portfolio
+
 
 ### JavaScript
 
@@ -191,6 +193,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eLearning Portal
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
+* Creating a Live-Cricket-Score display app using Litzscore Cricket API
 
 ### Blockchain
 
@@ -250,6 +253,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Implementation of Minesweeper Game
 * Program to remotely Power On a PC over the internet using the Wake-on-LAN protocol
 * Finding cabs nearby using Great Circle Distance formula
+* Snake game 
+* Quiz game 
+
 
 ### Python
 
