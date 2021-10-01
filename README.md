@@ -339,6 +339,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Calculator App
 * Hangman Game
 * Audiobook
+* Pokedex App (using PokéAPI)
 
 ## Game Development
 
@@ -354,6 +355,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Procedural Mesh Generation
 * Temple Run
 * Snake Game
+* Flappy Bird Clone
 
 ### Unity Applications
 
