@@ -287,6 +287,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * QR Code Generator
 * Cone and Obstacle Detection
   > _using yolov5/open cv_
+* control media player using OpenCv module
+  > _controlling functions like pause,play,volumeup,volume down using hand gestures_
 
 ### Java
 
