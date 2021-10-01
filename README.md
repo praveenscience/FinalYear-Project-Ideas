@@ -256,6 +256,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Implementation of Minesweeper Game
 * Program to remotely Power On a PC over the internet using the Wake-on-LAN protocol
 * Finding cabs nearby using Great Circle Distance formula
+* ATM Simulator 
 
 ### Python
 
@@ -528,6 +529,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Weather Prediction
 * Google Ads Keyword Generation
 * Traffic Signs Recognition
+* COVID-19 Death and Recovery Analysis of Countries
 * Wine Quality Analysis
 * Stock Market Prediction
 * Fake News Detection
