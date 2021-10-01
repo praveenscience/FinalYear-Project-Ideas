@@ -191,6 +191,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eLearning Portal
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
+* Meal Plan & Grocery List Generator
 
 ### Blockchain
 
