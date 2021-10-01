@@ -18,6 +18,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Sliding Photo viewer app
 
 ### JavaScript
 
@@ -33,6 +34,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Maze Game
 * JavaScript Map
 * Memory (Card game)
+* Rock paper Scissors game
 
 ### React JS
 
@@ -84,12 +86,16 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Chess Game
 * Library Management System
+* Stone paper scissors game
 
 ### Python
 
 * Facial recognition using Python OpenCV library
 * Magic 8 Ball
 * Ping Pong Game
+* Stone paper scissors game
+* Virtual assistant like Cortana
+* Flappy bird game
 
 ## Mobile Applications
 
