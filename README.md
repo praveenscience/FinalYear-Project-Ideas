@@ -95,6 +95,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * HoverBoard
 * Rock-Paper-Scissors Game
 * Testimonial Slider
+* File Zipper
 
 ### React JS
 
