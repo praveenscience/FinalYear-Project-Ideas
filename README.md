@@ -428,6 +428,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Sorting Algorithm Vizualizer
 * Visualization of Shortest Path Finding Algorithm
+* Memory visualization for Recursive Algorithms
 
 ## Desktop Applications
 
@@ -456,7 +457,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Early Flood Detection & Avoidance 
 * IoT Garbage Monitoring Using Raspberry Pi 
 * IoT Circuit Breaker Project Women Safety Night Patrolling 
-* IoT Robot 
+* IoT Robot, vehicles
 * IoT Mining Tracking & Worker Safety Helmet 
 * IoT Flood Monitoring & Alerting System 
 * IoT Prison Break Monitoring & Alerting System Raspberry Pi Air and Noise Pollution Monitoring System Over IOT 
