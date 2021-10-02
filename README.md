@@ -142,6 +142,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 > _workout log and calorie counter
 * Videos into Notes
   > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links. 
+* Secure password storage App
+  > Encrypting passwords and then storing it on device
 
 ## Back End Ideas
 
