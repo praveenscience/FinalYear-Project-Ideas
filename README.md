@@ -6,7 +6,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/59393136/135506030-70cc4bd7-982d-4c98-be8f-4e7aba9e50aa.png)
 
-
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
 ## Front End Ideas
@@ -140,11 +139,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Digital Clock
 * Chinese Checkers Game 
 * Text Utility App
-  > _Upper case , lower case , remove spaces , bold | italic styles , Mutilple fonts
+  > _Upper case, lower case, remove spaces, bold | italic styles, multiple fonts_
 * fitness app 
-> _workout log and calorie counter
+> Workout log and Calorie Counter
 * Videos into Notes
-  > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links. 
+  > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links._
 
 ## Back End Ideas
 
