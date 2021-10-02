@@ -96,6 +96,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * HoverBoard
 * Rock-Paper-Scissors Game
 * Testimonial Slider
+* Contact Form For Portfolio with Firebase as Realtime DB
 
 ### React JS
 
@@ -138,6 +139,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Frontend Pagination
 * Digital Clock
 * Chinese Checkers Game 
+* Text Utility App
+  > _Upper case , lower case , remove spaces , bold | italic styles , Mutilple fonts
 * fitness app 
 > _workout log and calorie counter
 * Videos into Notes
@@ -197,6 +200,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
 * NGO Connecting Website
+* Notes App With Login system
 
 ### Blockchain
 
