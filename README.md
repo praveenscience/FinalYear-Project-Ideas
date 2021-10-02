@@ -39,6 +39,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* Custom Scroll Bar
 * Score Landing Page
 
 ### JavaScript
@@ -95,6 +96,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Chinese Checkers Game
 * HoverBoard
 * Rock-Paper-Scissors Game
+* Joke Generator App using API
 * Testimonial Slider
 * Contact Form For Portfolio with Firebase as Realtime DB
 
