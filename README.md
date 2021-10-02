@@ -122,6 +122,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Listener
 * Instagram Clone
 * Random Quote Generator
+* Generate Devoloper Portfolio Website using Github and LinkedIn API
 * Netflix Clone
 * Messaging App
 * My Diary
