@@ -39,6 +39,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* Score Landing Page
 
 ### JavaScript
 
