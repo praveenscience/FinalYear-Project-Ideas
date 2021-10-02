@@ -142,6 +142,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 > _workout log and calorie counter
 * Videos into Notes
   > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links. 
+* Text to Handwriting
+* Reddit Clone
+* SnapChat Clone
+* Health Tracker App
 
 ## Back End Ideas
 
@@ -296,6 +300,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Random quote generator
 * Snake Water Gun game
 * URL shortener
+* Log Analyser
+* CSV Parser
+* PDF To DOCX Converter
 
 ### Java
 
