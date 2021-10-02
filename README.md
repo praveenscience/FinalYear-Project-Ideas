@@ -6,7 +6,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/59393136/135506030-70cc4bd7-982d-4c98-be8f-4e7aba9e50aa.png)
 
-
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
 ## Front End Ideas
@@ -296,6 +295,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Random quote generator
 * Snake Water Gun game
 * URL shortener
+* Youtube Video Downloader 
+  > _Using PyTube
 
 ### Java
 
@@ -430,6 +431,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _This app will contain your profile which ultimately leads
   to respective link of portfolio, with flutter it can be made
   beautifully._
+* 2D Snake Game 
 
 ## AI/ML
 
