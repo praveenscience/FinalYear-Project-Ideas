@@ -379,6 +379,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Procedural Mesh Generation
 * Temple Run
 * Snake Game
+* 3D Battle Royale Style Game
 
 ### Unity Applications
 
@@ -448,6 +449,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
+* Optical Character Recognition
 
 ## Data Structures and Algorithms
 
@@ -461,6 +463,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Microsoft Excel Clone
 * VS Code Clone
 * Zoom Clone
+* Rufus Clone
 
 ## Internet of Things
 
