@@ -197,6 +197,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
 * NGO Connecting Website
+* Expense Tracker
 
 ### Blockchain
 
