@@ -39,6 +39,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* Custom Scroll Bar
 * Score Landing Page
 
 ### JavaScript
@@ -95,6 +96,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Chinese Checkers Game
 * HoverBoard
 * Rock-Paper-Scissors Game
+* Time Table Maker
+  > Schedule different classes for students based on teacher's availability.
+* Joke Generator App using API
 * Testimonial Slider
 * Contact Form For Portfolio with Firebase as Realtime DB
 
@@ -120,6 +124,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Listener
 * Instagram Clone
 * Random Quote Generator
+* Generate Devoloper Portfolio Website using Github and LinkedIn API
 * Netflix Clone
 * Messaging App
 * My Diary
@@ -241,6 +246,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Mobile Assistant 
 * Calculator
 * CRUD REST API in Flask and MongoDB(for beginners)
+* Calorie Counter
 * Student Companion app
 * Social Media backend
 * Content Management system
