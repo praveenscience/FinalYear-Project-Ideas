@@ -240,6 +240,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Student Companion app
 * Social Media backend
 * Content Management system
+* School Management System
 
 ## Programming Ideas
 
@@ -296,6 +297,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Random quote generator
 * Snake Water Gun game
 * URL shortener
+* Ciphering Deciphering App
 
 ### Java
 
