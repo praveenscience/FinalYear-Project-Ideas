@@ -39,7 +39,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Food Delivery Tracking Website
 * Music Store Page
 * Simple Admission form
-* CSS Image Gallery
+* CSS Image Gallery 
+* Email Newsletter
 
 ### JavaScript
 
@@ -96,6 +97,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * HoverBoard
 * Rock-Paper-Scissors Game
 * Testimonial Slider
+* Customizable themed timer
 
 ### React JS
 
@@ -142,6 +144,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 > _workout log and calorie counter
 * Videos into Notes
   > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links. 
+* Hulu Clone
 
 ## Back End Ideas
 
@@ -164,6 +167,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Security Logger 
 * Movie Recommendation Website (ML model based Full Stack Web App)
 * Student QnA forum 
+* Ecommerce website for small time businesses
 
 ### Generic Stack
 
@@ -197,6 +201,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
 * NGO Connecting Website
+* Large Scale Web conferencing platform
 
 ### Blockchain
 
@@ -218,6 +223,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Android Document/Notes Sharing System using Blockchain
 * State Government Fund Allocation & Tracking System over Blockchain
 * Protect Fine Art Produced By Talented Artists
+* Medicine Counterfeiting Tracker
 
 ### Python-Django
 
@@ -256,6 +262,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Implementation of Minesweeper Game
 * Program to remotely Power On a PC over the internet using the Wake-on-LAN protocol
 * Finding cabs nearby using Great Circle Distance formula
+* Snake game
 
 ### Python
 
@@ -296,6 +303,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Random quote generator
 * Snake Water Gun game
 * URL shortener
+* Customized ticket generator
 
 ### Java
 
@@ -309,6 +317,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Symmetric Encryption Cyptography
 * Snake Game
 * Tic-Tac-Toe Game using Swing
+* Snake game
 
 ### R
 
@@ -321,6 +330,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Leaf Disease Detection
 * Speech Emotion Recognition
 * Uber Data Analysis in R
+* Diabets analysis
 
 ## Mobile Applications
 
@@ -338,6 +348,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Face Identification App
 * Blog App
 * Chatting App (similar to WhatsApp)
+* Customer Satisfaction Review app
 
 ### Android Studio
 
@@ -364,6 +375,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Calculator App
 * Hangman Game
 * Audiobook
+* Book Rental App
 
 ## Game Development
 
@@ -379,6 +391,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Procedural Mesh Generation
 * Temple Run
 * Snake Game
+* 2 player game 
 
 ### Unity Applications
 
@@ -390,6 +403,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Pokemon clone RPG Game
 * Candy Crush (Match-three-like) Game
 * Tetris clone
+* Flappy Bird clone
 
 ### Augmented Reality
 
@@ -411,6 +425,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Voice Changer App
 * 3D Geospatial Applications (Cesium.js)
 * AR Furniture App (Ikea Style)
+* AR Fitness Based game
 
 ### Flutter
 
@@ -448,11 +463,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
+* Data Cleaning Webapp
 
 ## Data Structures and Algorithms
 
 * Sorting Algorithm Vizualizer
 * Visualization of Shortest Path Finding Algorithm
+* Concept resource provider
 
 ## Desktop Applications
 
@@ -520,6 +537,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Based Toll Booth Manager System 
 * IoT Theft Detection Using Raspberry Pi
 * IoT Based Smart Door Locking System
+* IoT Online presence Tracker 
+  > This will basically track the number of hours a person has been in front of his/her screen and remind him to move around when it crosses a fixed limit of time
 
 ## Data Science
 
@@ -557,11 +576,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Based Recommendation
 * DSA Question Predicter
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
+* Covid Variants Prediction
 
 ## Bio Technology 
 
 * Determine If Your Food is Genetically Modified
 * Building Your Own Tool for Identifying DNA 
+* Classification of organisms based on existing genomes.
 
 ## Contribution
 
