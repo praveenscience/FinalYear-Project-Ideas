@@ -296,6 +296,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Random quote generator
 * Snake Water Gun game
 * URL shortener
+* Pomodoro App
+* Turtle Cross Game
+* US States Game
+* Converter(celsius to fahrenhits, miles to km)
 
 ### Java
 
