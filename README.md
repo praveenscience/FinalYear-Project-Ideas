@@ -380,7 +380,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic Tac Toe
 * Pong
 * Procedural Mesh Generation
-* Temple 
+* Temple Run 
 * Snake Game
 
 ### Unity Applications
