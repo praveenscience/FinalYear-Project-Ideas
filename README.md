@@ -96,6 +96,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Chinese Checkers Game
 * HoverBoard
 * Rock-Paper-Scissors Game
+* Time Table Maker
+  > Schedule different classes for students based on teacher's availability.
 * Joke Generator App using API
 * Testimonial Slider
 * Contact Form For Portfolio with Firebase as Realtime DB
