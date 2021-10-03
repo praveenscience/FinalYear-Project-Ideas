@@ -322,6 +322,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Symmetric Encryption Cyptography
 * Snake Game
 * Tic-Tac-Toe Game using Swing
+* Digital Clock
+* Media Player Application
+* Java Applet Games
 
 ### R
 
@@ -475,6 +478,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Microsoft Excel Clone
 * VS Code Clone
 * Zoom Clone
+* Screen Recorder
 
 ## Internet of Things
 
