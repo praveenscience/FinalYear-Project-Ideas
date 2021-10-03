@@ -60,6 +60,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Sudoku Solver
 * Nano ID
 * Prettier
+* The Pig Game
 * Random Quotes Project
 * Online Quiz
 * Banking System
