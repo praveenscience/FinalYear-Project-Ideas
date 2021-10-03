@@ -6,7 +6,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/59393136/135506030-70cc4bd7-982d-4c98-be8f-4e7aba9e50aa.png)
 
-
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
 ## Front End Ideas
@@ -41,6 +40,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Simple Admission form
 * CSS Image Gallery
 * Wiki game clone
+=======
+* Custom Scroll Bar
+* Score Landing Page
 
 ### JavaScript
 
@@ -96,7 +98,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Chinese Checkers Game
 * HoverBoard
 * Rock-Paper-Scissors Game
+* Time Table Maker
+  > Schedule different classes for students based on teacher's availability.
+* Joke Generator App using API
 * Testimonial Slider
+* Contact Form For Portfolio with Firebase as Realtime DB
 
 ### React JS
 
@@ -120,6 +126,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Listener
 * Instagram Clone
 * Random Quote Generator
+* Generate Devoloper Portfolio Website using Github and LinkedIn API
 * Netflix Clone
 * Messaging App
 * My Diary
@@ -139,10 +146,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Frontend Pagination
 * Digital Clock
 * Chinese Checkers Game 
+* Text To Speech Converter App
+* Text Utility App
+  > _Upper case, lower case, remove spaces, bold | italic styles, multiple fonts_
 * fitness app 
-> _workout log and calorie counter
+> Workout log and Calorie Counter
 * Videos into Notes
-  > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links. 
+  > _Web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote / downvote the summaries under video links._
 
 ## Back End Ideas
 
@@ -198,6 +208,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
 * NGO Connecting Website
+* Notes App With Login system
 
 ### Blockchain
 
@@ -238,6 +249,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Mobile Assistant 
 * Calculator
 * CRUD REST API in Flask and MongoDB(for beginners)
+* Calorie Counter
 * Student Companion app
 * Social Media backend
 * Content Management system
@@ -301,6 +313,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Random quote generator
 * Snake Water Gun game
 * URL shortener
+* Youtube Video Downloader 
+  > _Using PyTube
 
 
 ### Java
@@ -436,6 +450,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _This app will contain your profile which ultimately leads
   to respective link of portfolio, with flutter it can be made
   beautifully._
+* 2D Snake Game 
 
 ## AI/ML
 
