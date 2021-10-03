@@ -152,6 +152,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Videos into Notes
   > _Web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote / downvote the summaries under video links._
 
+
 ## Back End Ideas
 
 ### Spring Stack
@@ -207,6 +208,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Live Airplane Arrival Departure Dashboard
 * NGO Connecting Website
 * Notes App With Login system
+* Food Ordering app (zomato)
 
 ### Blockchain
 
