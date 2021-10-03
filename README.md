@@ -4,7 +4,7 @@
 
 We'll organise into different streams here. One kind request for motivation: Please [Subscribe to my **YouTube Channel**](https://www.youtube.com/praveenscience?sub_confirmation=1) and also tell your friends too.
 
-![Hacktoberfest Logo](./hacktoberfest.webp)
+![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/59393136/135506030-70cc4bd7-982d-4c98-be8f-4e7aba9e50aa.png)
 
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
@@ -39,6 +39,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* Custom Scroll Bar
+* Score Landing Page
 
 ### JavaScript
 
@@ -94,7 +96,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Chinese Checkers Game
 * HoverBoard
 * Rock-Paper-Scissors Game
+* Time Table Maker
+  > Schedule different classes for students based on teacher's availability.
+* Joke Generator App using API
 * Testimonial Slider
+* Contact Form For Portfolio with Firebase as Realtime DB
 
 ### React JS
 
@@ -118,6 +124,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Listener
 * Instagram Clone
 * Random Quote Generator
+* Generate Devoloper Portfolio Website using Github and LinkedIn API
 * Netflix Clone
 * Messaging App
 * My Diary
@@ -137,8 +144,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Frontend Pagination
 * Digital Clock
 * Chinese Checkers Game 
+* Text To Speech Converter App
+* Text Utility App
+  > _Upper case, lower case, remove spaces, bold | italic styles, multiple fonts_
+* fitness app 
+> Workout log and Calorie Counter
 * Videos into Notes
-  > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links. 
+  > _Web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote / downvote the summaries under video links._
 
 ## Back End Ideas
 
@@ -160,6 +172,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fully Functional Exam Portal
 * Security Logger 
 * Movie Recommendation Website (ML model based Full Stack Web App)
+* Student QnA forum 
 
 ### Generic Stack
 
@@ -171,6 +184,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Food Delivery App
 * Poll App
 * Social Media Clone
+* Travel Guide of a city
 
 ### LAMP Stack
 
@@ -191,6 +205,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eLearning Portal
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
+* NGO Connecting Website
+* Notes App With Login system
 
 ### Blockchain
 
@@ -231,6 +247,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Mobile Assistant 
 * Calculator
 * CRUD REST API in Flask and MongoDB(for beginners)
+* Calorie Counter
 * Student Companion app
 * Social Media backend
 * Content Management system
@@ -288,6 +305,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Cone and Obstacle Detection
   > _using yolov5/open cv_
 * Typing Speed checker (in WPM)
+* Random quote generator
+* Snake Water Gun game
+* URL shortener
+* Youtube Video Downloader 
+  > _Using PyTube
 
 ### Java
 
@@ -295,10 +317,24 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Attendance System
 * Calculator using Swing
 * Library Management System
+* Payroll Management System
+* PetClinic by Springboot
 * Email Administration using Core Java
 * Symmetric Encryption Cyptography
 * Snake Game
 * Tic-Tac-Toe Game using Swing
+
+### R
+
+* Sentiment Analysis
+* Uber Data Analysis
+* Movie Recommendation System
+* Customer Segmentation
+* Credit Card Fraud Detection
+* Road Loan Line Detection
+* Leaf Disease Detection
+* Speech Emotion Recognition
+* Uber Data Analysis in R
 
 ## Mobile Applications
 
@@ -314,6 +350,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Insta - Buy App.
 * Barcode Reader App
 * Face Identification App
+* Blog App
+* Chatting App (similar to WhatsApp)
 
 ### Android Studio
 
@@ -406,6 +444,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _This app will contain your profile which ultimately leads
   to respective link of portfolio, with flutter it can be made
   beautifully._
+* 2D Snake Game 
 
 ## AI/ML
 
