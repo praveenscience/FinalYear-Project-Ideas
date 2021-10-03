@@ -6,12 +6,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/59393136/135506030-70cc4bd7-982d-4c98-be8f-4e7aba9e50aa.png)
 
-
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
 ## Front End Ideas
 
 ### HTML & CSS
+
 
 - eCertificate Generating Site
 - Responsive Portfolio
@@ -124,6 +124,125 @@ We'll organise into different streams here. One kind request for motivation: Ple
 - My Diary
 - Calculator
 - E-Commerce Website, along with Stripe.js for payment
+=======
+* eCertificate Generating Site
+* Responsive Portfolio
+* Photography Site
+* Technical Documentation Wiki
+* Survey Forms
+* Comic Reading Site
+* Product Landing Page
+* Fashion eCommerce Website
+* Restaurant Management System
+* Event Management Website
+* Product Landing Page
+* Travel Agency Landing Page
+* Tribute Page
+* Parallax Site
+* Fashion eCommerce Website
+* Event Management Website
+* Weather Suggestions (Landing Page)
+* Event or Conference Page
+* Online Store Page
+* Restaurant (Landing Page)
+* Quiz Game
+* Podcast Website
+* Courses Website
+* Food Delivery Tracking Website
+* Music Store Page
+* Simple Admission form
+* CSS Image Gallery
+* Custom Scroll Bar
+* Score Landing Page
+
+### JavaScript
+
+* ToDo App
+* Tic Tac Toe Game
+* JS Quiz App
+* Expense Manager
+* COVID CheckUp Test
+* Calculator
+* Animation in Web Design
+* Flappy Bird Game
+* Snake Game
+* Maze Game
+* JavaScript Map
+* Random Quotes Generator
+* Light Switch Effect
+* Sudoku Solver
+* Nano ID
+* Prettier
+* Random Quotes Project
+* Online Quiz
+* Banking System
+* Space Invaders Game
+* Memory (Card game)
+* Drum Kit 
+* The RGB Color Game
+* Dice Game
+* Music App
+* Tip Calculator
+* Color Palette App
+* Virtual Drums App
+* Dice Roll
+* Weather App 
+* Hangman Game
+* Memory (Card Game)
+* Transaction Limiter (Splitwise App Clone)
+* Patatap Game
+* RGB color Guessing Game
+* URL Shortener
+* Courses Website
+* Landing Page
+* ID Card Generator
+* Movie Seat Booking App
+* Exchange Rate Calculator
+* Whack-A-Mole Game
+* Word Scramble 
+* Rock-Paper-Scissors Game
+* BMI Calculator
+* Random Joke AJAX Project
+* Countdown Timer Project
+* Fruit Cutter Game
+* Seat Booking App
+* Chinese Checkers Game
+* HoverBoard
+* Rock-Paper-Scissors Game
+* Time Table Maker
+  > Schedule different classes for students based on teacher's availability.
+* Joke Generator App using API
+* Testimonial Slider
+* Contact Form For Portfolio with Firebase as Realtime DB
+
+### React JS
+
+* ToDo App
+* Weather App
+* Recipe search App
+* eCommerce app
+* Tinder Clone
+* AirBnB Clone
+* Instagram Clone
+* Whatsapp Clone
+* GitHub Issues Page
+* An Entertainment App
+* GitHub User Finding by Name
+* Music Streaming Application (FrontEnd)
+* Crypto Currency Price Info
+* Skribbl.io Clone (using Socket.io)
+* WhatsApp Web Clone
+* Instagram Clone
+* GitHub Finder
+* Movie Listener
+* Instagram Clone
+* Random Quote Generator
+* Generate Devoloper Portfolio Website using Github and LinkedIn API
+* Netflix Clone
+* Messaging App
+* My Diary
+* Calculator  
+
   > _Implementation of the iOS calculator built in React_
 - Emoji Search
 - Snap Shot
@@ -148,10 +267,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Frontend Pagination
 * Digital Clock
 * Chinese Checkers Game 
+* Text To Speech Converter App
+* Text Utility App
+  > _Upper case, lower case, remove spaces, bold | italic styles, multiple fonts_
 * fitness app 
-> _workout log and calorie counter
+> Workout log and Calorie Counter
 * Videos into Notes
-  > _web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote/downvote the summaries under video links. 
+  > _Web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote / downvote the summaries under video links._
 
 ## Back End Ideas
 
@@ -236,6 +358,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
 * NGO Connecting Website
+* Notes App With Login system
 
 
 ### Blockchain
@@ -261,6 +384,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Python-Django
 
+
 - Todo App
 - Password Generator
 - Personal Portfolio
@@ -280,6 +404,28 @@ We'll organise into different streams here. One kind request for motivation: Ple
 - Student Companion app
 - Social Media backend
 - Content Management system
+
+* Todo App
+* Password Generator
+* Personal Portfolio
+* Stone Paper Scissor
+* Billing System 
+* Movie Ticket Booking System
+* Email Sender
+* Web Scraper
+* Palindrome Checker
+* Sorting Visualizer
+* Reminder System
+* Automatic Birthdays Mailer
+* Snake Water Gun Game
+* Mobile Assistant 
+* Calculator
+* CRUD REST API in Flask and MongoDB(for beginners)
+* Calorie Counter
+* Student Companion app
+* Social Media backend
+* Content Management system
+
 
 ## Programming Ideas
 
@@ -336,6 +482,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Random quote generator
 * Snake Water Gun game
 * URL shortener
+* Youtube Video Downloader 
+  > _Using PyTube
 
 ### Java
 
@@ -493,8 +641,14 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _The App which guides the user on how to take care of themselves and also shows precautions to be taken and medicines advice._ > _Also can include Blog section within the app to get the Health-related updates through APIs._
 - Introduction card App
   > _This app will contain your profile which ultimately leads
+
   > to respective link of portfolio, with flutter it can be made
   > beautifully._
+  
+  to respective link of portfolio, with flutter it can be made
+  beautifully._
+* 2D Snake Game 
+
 
 ## AI/ML
 
