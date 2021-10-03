@@ -101,6 +101,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Joke Generator App using API
 * Testimonial Slider
 * Contact Form For Portfolio with Firebase as Realtime DB
+* Covid19 Live Tracker
+ >Provide Live Report of covid
 
 ### React JS
 
