@@ -167,6 +167,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## Full Stack Ideas
 
+* Travel Advisory App
+  > Platform for travel guides where they can consicely put up their detailed travel plan, along with all associated costs.
 * Study Abroad Networking App
   > Networking app for students who want to study abroad.
 * Fully Functional Exam Portal
