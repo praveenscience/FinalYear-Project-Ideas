@@ -392,6 +392,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Procedural Mesh Generation
 * Temple Run
 * Snake Game
+* Flappy Bird
+* Sudoku
 
 ### Unity Applications
 
@@ -444,6 +446,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
   to respective link of portfolio, with flutter it can be made
   beautifully._
 * 2D Snake Game 
+* News App using News API
 
 ## AI/ML
 
@@ -462,11 +465,14 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
+* Text analyzer using NLP (Natural Language Processing text) and spaCy
+* Sudoku solver using Backtracking and OpenCV
 
 ## Data Structures and Algorithms
 
 * Sorting Algorithm Vizualizer
 * Visualization of Shortest Path Finding Algorithm
+* Maze Solver using BFS
 
 ## Desktop Applications
 
@@ -516,7 +522,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Alcohol & Health Monitoring System 
 * IoT Liquid Level Monitoring System 
 * IoT Garbage Monitoring System 
-* IoT Based Home Automation 
+* IoT Based Home Automation
 * IoT Based Office Automation 
 * IoT Based Industry Automation 
 * IoT Weather Reporting System 
@@ -533,7 +539,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Heart Attack Detection & Heart Rate Monitor 
 * IoT Based Toll Booth Manager System 
 * IoT Theft Detection Using Raspberry Pi
+* IoT based Flood & Drought predictor
 * IoT Based Smart Door Locking System
+* IoT based temprature controlled fan
 
 ## Data Science
 
@@ -569,6 +577,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Analyze COVID Vaccination Progress Using Python
 * Financial Status Analysis For Credit Score Rating
 * Movie Based Recommendation
+* Real-time Traffic Prediction
 * DSA Question Predicter
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
 
