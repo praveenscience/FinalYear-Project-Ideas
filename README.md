@@ -578,6 +578,13 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Determine If Your Food is Genetically Modified
 * Building Your Own Tool for Identifying DNA 
 
+## Networks
+
+* Graph clustering algorithm to find categories in social networks
+* Hotspot detection in graph networks
+* Improve upon or make a network protocol
+* Detailed network layout for university
+
 ## Contribution
 
 1. Star this Repo and Fork this Repo.
