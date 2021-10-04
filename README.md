@@ -569,6 +569,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Analyze COVID Vaccination Progress Using Python
 * Financial Status Analysis For Credit Score Rating
 * Movie Based Recommendation
+* Image Captioning
 * DSA Question Predicter
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
 
