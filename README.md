@@ -173,6 +173,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Security Logger 
 * Movie Recommendation Website (ML model based Full Stack Web App)
 * Student QnA forum 
+* Crowdfunding Online Platform
 
 ### Generic Stack
 
