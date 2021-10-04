@@ -424,6 +424,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Voice Changer App
 * 3D Geospatial Applications (Cesium.js)
 * AR Furniture App (Ikea Style)
+* Early Identification of Pneumonia disease using Deep Learning and chest X-Ray images.
 
 ### Flutter
 
