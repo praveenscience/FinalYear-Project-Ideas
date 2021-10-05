@@ -440,6 +440,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Virtual Interior Designing App
   > _Help us Analyze the final view of the House and help us make changes anytime anywhere in the project._
+* Virtual furniture placing app
+  > _Help us to check how the furniture or product look at a certain place and check whether it fits or not._
 
 ### Flutter
 
