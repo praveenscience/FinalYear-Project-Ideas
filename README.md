@@ -144,6 +144,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Frontend Pagination
 * Digital Clock
 * Chinese Checkers Game 
+* Match Algo game
+  > _Write the algo for solving the situation_
 * Text To Speech Converter App
 * Text Utility App
   > _Upper case, lower case, remove spaces, bold | italic styles, multiple fonts_
