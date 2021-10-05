@@ -435,8 +435,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Voice Changer App
 * 3D Geospatial Applications (Cesium.js)
 * AR Furniture App (Ikea Style)
-* AR/VR/XR/MR Virtual Interior Designing App
-  > __Help us Analyze the final view of the House and help us make changes anytime anywhere in the project__
+
+### AR/VR/XR/MR
+
+* Virtual Interior Designing App
+  > _Help us Analyze the final view of the House and help us make changes anytime anywhere in the project._
 
 ### Flutter
 
