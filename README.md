@@ -481,6 +481,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Text Summariser
 * Text analyzer using NLP (Natural Language Processing text) and spaCy
 * Sudoku solver using Backtracking and OpenCV
+* Classifying human expressions and mapping them to emojis
 
 ## Data Structures and Algorithms
 
