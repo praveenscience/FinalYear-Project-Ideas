@@ -323,6 +323,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Symmetric Encryption Cyptography
 * Snake Game
 * Tic-Tac-Toe Game using Swing
+* Chess Game
 
 ### R
 
@@ -352,6 +353,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Face Identification App
 * Blog App
 * Chatting App (similar to WhatsApp)
+* Railway tracking App
+* Face Detection App
+* Voice translation App
+* UPI Payment App
 
 ### Android Studio
 
@@ -463,6 +468,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
+* Stock Price Prediction App
+* Facial Emotion Recognition and Detection App
+* Plagiarism Checker App
 
 ## Data Structures and Algorithms
 
