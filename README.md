@@ -1,4 +1,4 @@
-# Hacktoberfest-Project-Ideas
+# Final Year Project Ideas
 
 > ### *Instead of just adding your name and email, why not create a list of project ideas?*
 
