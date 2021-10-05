@@ -312,6 +312,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * URL shortener
 * Youtube Video Downloader 
   > _Using PyTube
+* Food Calorie Recognition using OpenCV
 
 ### Java
 
@@ -465,6 +466,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
+* Image Super Resolution
 
 ## Data Structures and Algorithms
 
