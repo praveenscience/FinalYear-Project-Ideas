@@ -1,4 +1,4 @@
-# Hacktoberfest-Project-Ideas
+# Final Year Project Ideas
 
 > ### *Instead of just adding your name and email, why not create a list of project ideas?*
 
@@ -144,6 +144,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Frontend Pagination
 * Digital Clock
 * Chinese Checkers Game 
+* Match Algo game
+  > _Write the algo for solving the situation_
 * Text To Speech Converter App
 * Text Utility App
   > _Upper case, lower case, remove spaces, bold | italic styles, multiple fonts_
@@ -151,7 +153,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 > Workout log and Calorie Counter
 * Videos into Notes
   > _Web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote / downvote the summaries under video links._
-
+* Text to Handwriting
+* Reddit Clone
+* SnapChat Clone
+* Health Tracker App
 ## Back End Ideas
 
 ### Spring Stack
@@ -173,6 +178,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Security Logger 
 * Movie Recommendation Website (ML model based Full Stack Web App)
 * Student QnA forum 
+* Crowdfunding Online Platform
 
 ### Generic Stack
 
@@ -309,6 +315,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * URL shortener
 * Youtube Video Downloader 
   > _Using PyTube
+* Log Analyser
+* CSV Parser
+* PDF To DOCX Converter
 
 ### Java
 
@@ -578,6 +587,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Financial Status Analysis For Credit Score Rating
 * Movie Based Recommendation
 * Real-time Traffic Prediction
+* Image Captioning
 * DSA Question Predicter
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
 
