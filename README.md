@@ -283,6 +283,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Invisibility Cloak  
   > _Similar to Harry Potter to make you invisible when you put a red cloth in front of you, with Python OpenCV Library._
 * 3D AR Draw with Python (OpenCV and NumPy)
+* Human Counting with OpenCV
+  > _Count the number of people in an image or video, very useful for social distancing._
 * Bike Sharing System
 * Attend Zoom Meetings Automatically
 * Code Review Platform (using the tkinter)
