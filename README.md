@@ -273,6 +273,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Implementation of Minesweeper Game
 * Program to remotely Power On a PC over the internet using the Wake-on-LAN protocol
 * Finding cabs nearby using Great Circle Distance formula
+* Teacher's Attendance Management System
 
 ### Python
 
