@@ -144,6 +144,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Frontend Pagination
 * Digital Clock
 * Chinese Checkers Game 
+* Match Algo game
+  > _Write the algo for solving the situation_
 * Text To Speech Converter App
 * Text Utility App
   > _Upper case, lower case, remove spaces, bold | italic styles, multiple fonts_
@@ -151,7 +153,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 > Workout log and Calorie Counter
 * Videos into Notes
   > _Web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote / downvote the summaries under video links._
-
+* Text to Handwriting
+* Reddit Clone
+* SnapChat Clone
+* Health Tracker App
 ## Back End Ideas
 
 ### Spring Stack
@@ -310,7 +315,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * URL shortener
 * Youtube Video Downloader 
   > _Using PyTube
+* Log Analyser
+* CSV Parser
+* PDF To DOCX Converter
 * Food Recognition and Calorie Estimation using OpenCv
+
 
 ### Java
 
@@ -394,6 +403,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Procedural Mesh Generation
 * Temple Run
 * Snake Game
+* Flappy Bird
+* Sudoku
 
 ### Unity Applications
 
@@ -427,6 +438,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * 3D Geospatial Applications (Cesium.js)
 * AR Furniture App (Ikea Style)
 
+### AR/VR/XR/MR
+
+* Virtual Interior Designing App
+  > _Help us Analyze the final view of the House and help us make changes anytime anywhere in the project._
+
 ### Flutter
 
 * Menstrual Cycle Tracker (similar to CLUE App)
@@ -446,6 +462,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
   to respective link of portfolio, with flutter it can be made
   beautifully._
 * 2D Snake Game 
+* News App using News API
 
 ## AI/ML
 
@@ -464,12 +481,17 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
+* Text Analyzer using NLP (Natural Language Processing text) and spaCy
+* Sudoku Solver using Backtracking and OpenCV
+* Human Expressions Classifier
+  > _Classifying human expressions and mapping them to emojis._
 * Image Super Resolution
 
 ## Data Structures and Algorithms
 
 * Sorting Algorithm Vizualizer
 * Visualization of Shortest Path Finding Algorithm
+* Maze Solver using BFS
 
 ## Desktop Applications
 
@@ -519,7 +541,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Alcohol & Health Monitoring System 
 * IoT Liquid Level Monitoring System 
 * IoT Garbage Monitoring System 
-* IoT Based Home Automation 
+* IoT Based Home Automation
 * IoT Based Office Automation 
 * IoT Based Industry Automation 
 * IoT Weather Reporting System 
@@ -536,7 +558,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Heart Attack Detection & Heart Rate Monitor 
 * IoT Based Toll Booth Manager System 
 * IoT Theft Detection Using Raspberry Pi
+* IoT based Flood & Drought predictor
 * IoT Based Smart Door Locking System
+* IoT based temprature controlled fan
 
 ## Data Science
 
@@ -572,6 +596,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Analyze COVID Vaccination Progress Using Python
 * Financial Status Analysis For Credit Score Rating
 * Movie Based Recommendation
+* Real-time Traffic Prediction
 * Image Captioning
 * DSA Question Predicter
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
