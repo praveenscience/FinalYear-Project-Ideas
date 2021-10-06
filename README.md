@@ -40,7 +40,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Simple Admission form
 * CSS Image Gallery
 * Wiki game clone
-=======
 * Custom Scroll Bar
 * Score Landing Page
 
@@ -308,8 +307,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake game 
 * Cone and Obstacle Detection
   > _using yolov5/open cv_
- 
-=======
 * Random quote generator
 * Snake Water Gun game
 * URL shortener
