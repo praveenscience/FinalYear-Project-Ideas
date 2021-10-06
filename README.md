@@ -318,6 +318,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Log Analyser
 * CSV Parser
 * PDF To DOCX Converter
+* Food Recognition and Calorie Estimation using OpenCv
+
 
 ### Java
 
@@ -484,6 +486,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Sudoku Solver using Backtracking and OpenCV
 * Human Expressions Classifier
   > _Classifying human expressions and mapping them to emojis._
+* Image Super Resolution
 
 ## Data Structures and Algorithms
 
