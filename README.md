@@ -435,6 +435,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Voice Changer App
 * 3D Geospatial Applications (Cesium.js)
 * AR Furniture App (Ikea Style)
+* Typed Text to Handwriting Converter App
 
 ### AR/VR/XR/MR
 
