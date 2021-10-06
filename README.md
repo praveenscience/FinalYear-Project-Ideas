@@ -479,9 +479,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
-* Text analyzer using NLP (Natural Language Processing text) and spaCy
-* Sudoku solver using Backtracking and OpenCV
-* Classifying human expressions and mapping them to emojis
+* Text Analyzer using NLP (Natural Language Processing text) and spaCy
+* Sudoku Solver using Backtracking and OpenCV
+* Human Expressions Classifier
+  > _Classifying human expressions and mapping them to emojis._
 
 ## Data Structures and Algorithms
 
