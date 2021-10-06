@@ -483,6 +483,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Text Analyzer using NLP (Natural Language Processing text) and spaCy
 * Sudoku Solver using Backtracking and OpenCV
 * Human Expressions Classifier
+* Geographical analysis of Images
   > _Classifying human expressions and mapping them to emojis._
 
 ## Data Structures and Algorithms
