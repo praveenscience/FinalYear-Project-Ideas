@@ -485,6 +485,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Sudoku Solver using Backtracking and OpenCV
 * Human Expressions Classifier
   > _Classifying human expressions and mapping them to emojis._
+* Geographical analysis of Images
 
 ## Data Structures and Algorithms
 
