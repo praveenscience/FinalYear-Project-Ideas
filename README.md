@@ -310,7 +310,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * URL shortener
 * Youtube Video Downloader 
   > _Using PyTube
-* Food Calorie Recognition using OpenCV
 
 ### Java
 
