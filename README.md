@@ -157,6 +157,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Reddit Clone
 * SnapChat Clone
 * Health Tracker App
+
 ## Back End Ideas
 
 ### Spring Stack
@@ -179,6 +180,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Recommendation Website (ML model based Full Stack Web App)
 * Student QnA forum 
 * Crowdfunding Online Platform
+* Point of Sale Web App
+* Bidding Site (something like Freelancer)
 
 ### Generic Stack
 
@@ -257,6 +260,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Student Companion app
 * Social Media backend
 * Content Management system
+* API for finding lowest price of a cryptocurrency among different exchanges
 
 ## Programming Ideas
 
