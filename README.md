@@ -41,6 +41,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * CSS Image Gallery
 * Custom Scroll Bar
 * Score Landing Page
+* Personal portfolio
 
 ### JavaScript
 
@@ -333,6 +334,19 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Tic-Tac-Toe Game using Swing
 
+### C 
+
+* Bank management system
+* Library management system
+* Snake Game
+* Bus reservation System
+* Cricket Score display
+* Phone book application
+* Quiz game
+* Student record system
+* Tic toe game
+* Phonebook management system
+ 
 ### R
 
 * Sentiment Analysis
