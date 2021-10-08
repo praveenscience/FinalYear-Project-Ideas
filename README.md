@@ -129,6 +129,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Messaging App
 * My Diary
 * Calculator  
+* Chess Moves Visualizer
   > _Implementation of the iOS calculator built in React_
 * Emoji Search
 * Snap Shot  
@@ -598,7 +599,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Movie Based Recommendation
 * Real-time Traffic Prediction
 * Image Captioning
-* DSA Question Predicter
+* DSA Question Predictor
+* COVID Cases Predictor
   > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
 
 ## Bio Technology 
