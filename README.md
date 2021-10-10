@@ -213,6 +213,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Live Airplane Arrival Departure Dashboard
 * NGO Connecting Website
 * Notes App With Login system
+* Realtime Chat Application
 
 ### Blockchain
 
