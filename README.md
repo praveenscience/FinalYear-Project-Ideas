@@ -319,6 +319,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Log Analyser
 * CSV Parser
 * PDF To DOCX Converter
+* Electronic voting machine
 
 ### Java
 
