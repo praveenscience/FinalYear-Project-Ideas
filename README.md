@@ -561,6 +561,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT based Flood & Drought predictor
 * IoT Based Smart Door Locking System
 * IoT based temprature controlled fan
+* IoT based Electricity Management Project using Raspberry Pi
 
 ## Data Science
 
