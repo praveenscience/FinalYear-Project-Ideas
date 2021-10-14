@@ -157,6 +157,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Reddit Clone
 * SnapChat Clone
 * Health Tracker App
+* Meme Generator
+* YouTube Clone
+
 ## Back End Ideas
 
 ### Spring Stack
