@@ -162,6 +162,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Health Tracker App
 * Meme Generator
 * YouTube Clone
+* Development Documentation
+  > _A community & documentation curated front end for all the dev languages._
 
 ## Back End Ideas
 
