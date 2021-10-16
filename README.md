@@ -177,6 +177,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Employee Manager App
 * Payroll Management using Spring Boot
 * Flight Management System
+* Loan Management Application
 
 ## Full Stack Ideas
 
