@@ -494,6 +494,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Breast Cancer Prediction
 * Movie Based Recommendation
 
+## IOT Hardware based projects 
+* Automated Watering Plant
+* Arduino Data Glasses for My Multimeter
+* Home automation
+* soil mosture detector 
+
 ## Contribution
 
 1. Star this Repo and Fork this Repo.
