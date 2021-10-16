@@ -197,6 +197,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Poll App
 * Social Media Clone
 * Travel Guide of a city
+* eCommerce Comparison
+  > _Compare on every website and show the cheapest or best price._
 
 ### LAMP Stack
 
