@@ -1,5 +1,7 @@
 # Final Year Project Ideas
 
+> ### This project is excluded for Hacktoberfest. Please use this as a testing project.
+
 > ### *Instead of just adding your name and email, why not create a list of project ideas?*
 
 We'll organise into different streams here. One kind request for motivation: Please [Subscribe to my **YouTube Channel**](https://www.youtube.com/praveenscience?sub_confirmation=1) and also tell your friends too.
@@ -14,6 +16,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * eCertificate Generating Site
 * Responsive Portfolio
+* Roadmap for Developers
 * Photography Site
 * Technical Documentation Wiki
 * Survey Forms
@@ -159,6 +162,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * SnapChat Clone
 * Health Tracker App
 * Google Keep Clone
+* Meme Generator
+* YouTube Clone
+* Development Documentation
+  > _A community & documentation curated front end for all the dev languages._
 ## Back End Ideas
 
 ### Spring Stack
@@ -193,6 +200,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Poll App
 * Social Media Clone
 * Travel Guide of a city
+* eCommerce Comparison
+  > _Compare on every website and show the cheapest or best price._
 
 ### LAMP Stack
 
