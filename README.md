@@ -44,6 +44,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * CSS Image Gallery
 * Custom Scroll Bar
 * Score Landing Page
+* Html and CSS basic learning page
+* puzzle cartoon game
 
 ### JavaScript
 
