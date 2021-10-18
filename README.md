@@ -95,6 +95,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * HoverBoard
 * Rock-Paper-Scissors Game
 * Testimonial Slider
+* Calendar
+* Bill splitter
 
 ### React JS
 
@@ -160,6 +162,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Fully Functional Exam Portal
 * Security Logger 
 * Movie Recommendation Website (ML model based Full Stack Web App)
+* Blogging Website
 
 ### Generic Stack
 
@@ -250,6 +253,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Implementation of Minesweeper Game
 * Program to remotely Power On a PC over the internet using the Wake-on-LAN protocol
 * Finding cabs nearby using Great Circle Distance formula
+* Salary Management System
 
 ### Python
 
@@ -418,6 +422,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Analysis
 * Generate Human Faces with DCGAN
 * Text Summariser
+* Age and Gender Detection
 
 ## Data Structures and Algorithms
 
