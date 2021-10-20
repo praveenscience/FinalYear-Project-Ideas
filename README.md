@@ -22,6 +22,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Survey Forms
 * Comic Reading Site
 * Product Landing Page
+* Sliding Photo viewer app
 * Fashion eCommerce Website
 * Restaurant Management System
 * Event Management Website
@@ -44,6 +45,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * CSS Image Gallery
 * Custom Scroll Bar
 * Score Landing Page
+
 
 ### JavaScript
 
@@ -68,6 +70,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Banking System
 * Space Invaders Game
 * Memory (Card game)
+* Rock paper Scissors game
 * Drum Kit 
 * The RGB Color Game
 * Dice Game
@@ -275,6 +278,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic-Tac-Toe Game
 * Chess Game
 * Library Management System
+* Stone paper scissors game
 * File Management System
 * Restaurant Ordering System
 * Alumni Management System
@@ -291,6 +295,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Magic 8 Ball
 * Sudoku Solver
 * Ping Pong Game
+* Stone paper scissors game
+* Virtual assistant like Cortana
+* Flappy bird game
 * Invisibility Cloak  
   > _Similar to Harry Potter to make you invisible when you put a red cloth in front of you, with Python OpenCV Library._
 * 3D AR Draw with Python (OpenCV and NumPy)
