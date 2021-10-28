@@ -121,11 +121,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Streaming Application (FrontEnd)
 * Crypto Currency Price Info
 * Skribbl.io Clone (using Socket.io)
-* WhatsApp Web Clone
-* Instagram Clone
 * GitHub Finder
 * Movie Listener
-* Instagram Clone
 * Random Quote Generator
 * Generate Devoloper Portfolio Website using Github and LinkedIn API
 * Netflix Clone
