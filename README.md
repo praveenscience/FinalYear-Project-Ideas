@@ -12,6 +12,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### HTML & CSS
 
+* todo app
 * eCertificate Generating Site
 * Responsive Portfolio
 * Photography Site
