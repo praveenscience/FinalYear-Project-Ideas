@@ -104,6 +104,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Joke Generator App using API
 * Testimonial Slider
 * Contact Form For Portfolio with Firebase as Realtime DB
+* Chrome Extension 
+  > _This is fetch random motivational and inspirational quotes on every click_
 
 ### React JS
 
