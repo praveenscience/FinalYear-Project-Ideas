@@ -107,6 +107,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### React JS
 
+* Point Of Sale (POS) App
 * ToDo App
 * Weather App
 * Recipe search App
@@ -247,6 +248,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Python-Django
 
+* Base Response API mapper Library
 * Todo App
 * Password Generator
 * Personal Portfolio
@@ -357,6 +359,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## Mobile Applications
 
+* Point of Sale (POS) App 
 * Pattern Variation App 
 * Calories Counting App
 * Weather App
