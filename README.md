@@ -267,6 +267,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Student Companion app
 * Social Media backend
 * Content Management system
+* Mood Music Player ( Detect image emotion of user and generate list of songs and other bunch of features such as reviews analysis,subcription )
 
 ## Programming Ideas
 
