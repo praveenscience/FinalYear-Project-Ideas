@@ -44,6 +44,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * CSS Image Gallery
 * Custom Scroll Bar
 * Score Landing Page
+* Info Page using apis
 
 ### JavaScript
 
