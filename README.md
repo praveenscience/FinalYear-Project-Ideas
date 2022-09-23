@@ -286,6 +286,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Finding cabs nearby using Great Circle Distance formula
 * Teacher's Attendance Management System
 
+### C#
+* Airport tickets sales system 
+* Student examination and quiz software 
+
 ### Python
 
 * Facial recognition using Python OpenCV library
