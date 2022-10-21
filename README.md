@@ -165,7 +165,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * YouTube Clone
 * Development Documentation
   > _A community & documentation curated front end for all the dev languages._
-
+* A chatting application
 ## Back End Ideas
 
 ### Spring Stack
