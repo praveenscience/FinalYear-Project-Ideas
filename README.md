@@ -616,6 +616,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Determine If Your Food is Genetically Modified
 * Building Your Own Tool for Identifying DNA 
+## web3.0 
+*Helium
+Helium is a decentralized blockchain-powered network for IoT devices that utilizes a global network of low-energy wireless hotspots to broadcast data through radio waves to be recorded in the blockchain. The network uses a new algorithm, known as the proof-of-coverage consensus, to validate that the hotspots are providing legitimate wireless coverage. 
+
+*Chainlink
+LINK is a blockchain abstraction layer that enables universally connected smart contracts. Not only does it present the ideal combination of a project with the right technology behind it, but it also has enough resources for further development. The best part: Chainlink possesses an excellent community. It is one of the best Web 3.0 cryptocurrencies that will take over Bitcoin in the future.
 
 ## Contribution
 
