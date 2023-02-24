@@ -112,21 +112,14 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Weather App
 * Recipe search App
 * eCommerce app
-* Tinder Clone
-* AirBnB Clone
-* Instagram Clone
-* Whatsapp Clone
 * GitHub Issues Page
 * An Entertainment App
 * GitHub User Finding by Name
 * Music Streaming Application (FrontEnd)
 * Crypto Currency Price Info
 * Skribbl.io Clone (using Socket.io)
-* WhatsApp Web Clone
-* Instagram Clone
 * GitHub Finder
 * Movie Listener
-* Instagram Clone
 * Random Quote Generator
 * Generate Devoloper Portfolio Website using Github and LinkedIn API
 * Netflix Clone
@@ -141,9 +134,24 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _React Hooks App for Calculating BMI_
 * Image Compressor  
   > _An offline image compressor built with React and `browser-image-compression`_
+* Hostel Management System
+* Chinese Checkers Game 
+* Typing Speed Tester App
+* Personal Portfolio Website
+* Ouiz App
+* Timer App (For Competitive Programmers)
 * Uber Clone  
   > _Map Application Based Frontend_
 * Spotify Clone
+* Netflix Clone
+* Tinder Clone
+* AirBnB Clone
+* Instagram Clone
+* Whatsapp Clone
+* WhatsApp Web Clone
+* Facebook Clone
+
+
 * Hostel Management System
 * Frontend Pagination
 * Digital Clock
@@ -166,6 +174,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Development Documentation
   > _A community & documentation curated front end for all the dev languages._
 * A chatting application
+
 ## Back End Ideas
 
 ### Spring Stack
