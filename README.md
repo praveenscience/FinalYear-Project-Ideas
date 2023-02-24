@@ -1,10 +1,12 @@
-# Hacktoberfest-Project-Ideas
+# Final Year Project Ideas
+
+> ### This project is excluded for Hacktoberfest. Please use this as a testing project.
 
 > ### *Instead of just adding your name and email, why not create a list of project ideas?*
 
 We'll organise into different streams here. One kind request for motivation: Please [Subscribe to my **YouTube Channel**](https://www.youtube.com/praveenscience?sub_confirmation=1) and also tell your friends too.
 
-![Hacktoberfest Logo](./hacktoberfest.webp)
+![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/59393136/135506030-70cc4bd7-982d-4c98-be8f-4e7aba9e50aa.png)
 
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
@@ -14,6 +16,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * eCertificate Generating Site
 * Responsive Portfolio
+* Roadmap for Developers
 * Photography Site
 * Technical Documentation Wiki
 * Survey Forms
@@ -37,6 +40,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Courses Website
 * Food Delivery Tracking Website
 * Music Store Page
+* Simple Admission form
+* CSS Image Gallery
+* Custom Scroll Bar
+* Score Landing Page
+* Info Page using apis
 
 ### JavaScript
 
@@ -87,8 +95,17 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * BMI Calculator
 * Random Joke AJAX Project
 * Countdown Timer Project
+* Fruit Cutter Game
+* Seat Booking App
 * Chinese Checkers Game
-
+* HoverBoard
+* Rock-Paper-Scissors Game
+* Time Table Maker
+  > Schedule different classes for students based on teacher's availability.
+* Joke Generator App using API
+* Testimonial Slider
+* Contact Form For Portfolio with Firebase as Realtime DB
+* Crossword Solver 
 ### React JS
 
 * ToDo App
@@ -104,6 +121,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * GitHub Finder
 * Movie Listener
 * Random Quote Generator
+* Generate Devoloper Portfolio Website using Github and LinkedIn API
+* Netflix Clone
 * Messaging App
 * My Diary
 * Calculator  
@@ -133,6 +152,29 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Facebook Clone
 
 
+* Hostel Management System
+* Frontend Pagination
+* Digital Clock
+* Chinese Checkers Game 
+* Match Algo game
+  > _Write the algo for solving the situation_
+* Text To Speech Converter App
+* Text Utility App
+  > _Upper case, lower case, remove spaces, bold | italic styles, multiple fonts_
+* fitness app 
+> Workout log and Calorie Counter
+* Videos into Notes
+  > _Web application contains youtube video links and users can add summary of that videos with timestamps of important parts. Others can upvote / downvote the summaries under video links._
+* Text to Handwriting
+* Reddit Clone
+* SnapChat Clone
+* Health Tracker App
+* Meme Generator
+* YouTube Clone
+* Development Documentation
+  > _A community & documentation curated front end for all the dev languages._
+* A chatting application
+
 ## Back End Ideas
 
 ### Spring Stack
@@ -148,6 +190,14 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## Full Stack Ideas
 
+* Study Abroad Networking App
+  > Networking app for students who want to study abroad.
+* Fully Functional Exam Portal
+* Security Logger 
+* Movie Recommendation Website (ML model based Full Stack Web App)
+* Student QnA forum 
+* Crowdfunding Online Platform
+
 ### Generic Stack
 
 * Payment Gateway Integration
@@ -158,6 +208,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Food Delivery App
 * Poll App
 * Social Media Clone
+* Travel Guide of a city
+* eCommerce Comparison
+  > _Compare on every website and show the cheapest or best price._
 
 ### LAMP Stack
 
@@ -178,6 +231,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * eLearning Portal
 * COVID Data Visualisation Dashboard
 * Live Airplane Arrival Departure Dashboard
+* NGO Connecting Website
+* Notes App With Login system
 
 ### Blockchain
 
@@ -196,6 +251,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Electronic Voting System 
 * Insurance Management System
 * Financial Record Management System
+* Android Document/Notes Sharing System using Blockchain
+* State Government Fund Allocation & Tracking System over Blockchain
+* Protect Fine Art Produced By Talented Artists
 
 ### Python-Django
 
@@ -214,6 +272,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Water Gun Game
 * Mobile Assistant 
 * Calculator
+* CRUD REST API in Flask and MongoDB(for beginners)
+* Calorie Counter
+* Student Companion app
+* Social Media backend
+* Content Management system
 
 ## Programming Ideas
 
@@ -226,6 +289,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Restaurant Ordering System
 * Alumni Management System
 * Gym Management System
+* File Compression
+* Implementation of Minesweeper Game
+* Program to remotely Power On a PC over the internet using the Wake-on-LAN protocol
+* Finding cabs nearby using Great Circle Distance formula
+* Teacher's Attendance Management System
 
 ### Python
 
@@ -251,6 +319,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Stack-Visualizer
 * Track Phone Number Location
 * Story-Generator
+* Library Management System
 * Binary-Search-Tree-Visualizer
 * Ludo Game
 * Searching Algo Visualizer
@@ -260,6 +329,16 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Player
 * Currency Converter
 * QR Code Generator
+* Cone and Obstacle Detection
+  > _using yolov5/open cv_
+* Random quote generator
+* Snake Water Gun game
+* URL shortener
+* Youtube Video Downloader 
+  > _Using PyTube
+* Log Analyser
+* CSV Parser
+* PDF To DOCX Converter
 
 ### Java
 
@@ -267,6 +346,24 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Attendance System
 * Calculator using Swing
 * Library Management System
+* Payroll Management System
+* PetClinic by Springboot
+* Email Administration using Core Java
+* Symmetric Encryption Cyptography
+* Snake Game
+* Tic-Tac-Toe Game using Swing
+
+### R
+
+* Sentiment Analysis
+* Uber Data Analysis
+* Movie Recommendation System
+* Customer Segmentation
+* Credit Card Fraud Detection
+* Road Loan Line Detection
+* Leaf Disease Detection
+* Speech Emotion Recognition
+* Uber Data Analysis in R
 
 ## Mobile Applications
 
@@ -282,6 +379,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Insta - Buy App.
 * Barcode Reader App
 * Face Identification App
+* Blog App
+* Chatting App (similar to WhatsApp)
 
 ### Android Studio
 
@@ -307,6 +406,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Medication Reminder
 * Calculator App
 * Hangman Game
+* Audiobook
 
 ## Game Development
 
@@ -322,6 +422,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Procedural Mesh Generation
 * Temple Run
 * Snake Game
+* Flappy Bird
+* Sudoku
 
 ### Unity Applications
 
@@ -354,6 +456,12 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Voice Changer App
 * 3D Geospatial Applications (Cesium.js)
 * AR Furniture App (Ikea Style)
+* Typed Text to Handwriting Converter App
+
+### AR/VR/XR/MR
+
+* Virtual Interior Designing App
+  > _Help us Analyze the final view of the House and help us make changes anytime anywhere in the project._
 
 ### Flutter
 
@@ -373,6 +481,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _This app will contain your profile which ultimately leads
   to respective link of portfolio, with flutter it can be made
   beautifully._
+* 2D Snake Game 
+* News App using News API
 
 ## AI/ML
 
@@ -389,11 +499,19 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Predicting Music Genres
 * Baseball Sign Predictor
 * Music Analysis
+* Generate Human Faces with DCGAN
+* Text Summariser
+* Text Analyzer using NLP (Natural Language Processing text) and spaCy
+* Sudoku Solver using Backtracking and OpenCV
+* Human Expressions Classifier
+  > _Classifying human expressions and mapping them to emojis._
+* Geographical analysis of Images
 
 ## Data Structures and Algorithms
 
 * Sorting Algorithm Vizualizer
 * Visualization of Shortest Path Finding Algorithm
+* Maze Solver using BFS
 
 ## Desktop Applications
 
@@ -443,7 +561,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Alcohol & Health Monitoring System 
 * IoT Liquid Level Monitoring System 
 * IoT Garbage Monitoring System 
-* IoT Based Home Automation 
+* IoT Based Home Automation
 * IoT Based Office Automation 
 * IoT Based Industry Automation 
 * IoT Weather Reporting System 
@@ -460,7 +578,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Heart Attack Detection & Heart Rate Monitor 
 * IoT Based Toll Booth Manager System 
 * IoT Theft Detection Using Raspberry Pi
+* IoT based Flood & Drought predictor
 * IoT Based Smart Door Locking System
+* IoT based temprature controlled fan
 
 ## Data Science
 
@@ -493,7 +613,18 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Age & Gender Detection
 * Optimizing Product Price
 * Breast Cancer Prediction
+* Analyze COVID Vaccination Progress Using Python
+* Financial Status Analysis For Credit Score Rating
 * Movie Based Recommendation
+* Real-time Traffic Prediction
+* Image Captioning
+* DSA Question Predicter
+  > _for top product based companies... Not with 100% accuracy, so that it doesn't become illegal! 😛_
+
+## Bio Technology 
+
+* Determine If Your Food is Genetically Modified
+* Building Your Own Tool for Identifying DNA 
 
 ## Contribution
 
