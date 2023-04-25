@@ -581,6 +581,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT based Flood & Drought predictor
 * IoT Based Smart Door Locking System
 * IoT based temprature controlled fan
+* IoT automated nasal sample collection for PCR using robotic hand
 
 ## Data Science
 
