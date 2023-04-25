@@ -89,6 +89,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * ID Card Generator
 * Movie Seat Booking App
 * Exchange Rate Calculator
+* Online Code-Editor
 * Whack-A-Mole Game
 * Word Scramble 
 * Rock-Paper-Scissors Game
