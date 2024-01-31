@@ -233,6 +233,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Live Airplane Arrival Departure Dashboard
 * NGO Connecting Website
 * Notes App With Login system
+* Book Writing Platform
+  > _A platform where registered users can write books and read other users' books._
 
 ### Blockchain
 
