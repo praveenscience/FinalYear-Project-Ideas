@@ -506,6 +506,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Human Expressions Classifier
   > _Classifying human expressions and mapping them to emojis._
 * Geographical analysis of Images
+* Cancer/Tumor detection using Image Segmentation
 
 ## Data Structures and Algorithms
 
