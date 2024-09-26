@@ -277,6 +277,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Student Companion app
 * Social Media backend
 * Content Management system
+* Blogging and Forum website
 
 ## Programming Ideas
 
