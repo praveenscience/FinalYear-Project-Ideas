@@ -331,6 +331,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * QR Code Generator
 * Cone and Obstacle Detection
   > _using yolov5/open cv_
+* Typing Speed checker (in WPM)
 * Random quote generator
 * Snake Water Gun game
 * URL shortener
