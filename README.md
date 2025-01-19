@@ -425,6 +425,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Flappy Bird
 * Sudoku
+* Kids learing Game
 
 ### Unity Applications
 
@@ -463,6 +464,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Virtual Interior Designing App
   > _Help us Analyze the final view of the House and help us make changes anytime anywhere in the project._
+ 
 
 ### Flutter
 
@@ -627,6 +629,11 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Determine If Your Food is Genetically Modified
 * Building Your Own Tool for Identifying DNA 
+* Testing of Blood Sugar
+* Sampling and quantification of microorganisms in air, soil and water.
+* Structural analysis
+* Phylogenetic analysis
+* SNP Analysis
 
 ## Contribution
 
