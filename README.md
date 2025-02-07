@@ -296,6 +296,10 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Teacher's Attendance Management System
 * Snake Game
 
+### C#
+* Airport tickets sales system 
+* Student examination and quiz software 
+
 ### Python
 
 * Facial recognition using Python OpenCV library
