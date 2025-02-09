@@ -42,6 +42,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* Coding Practice Platform
 * Custom Scroll Bar
 * Score Landing Page
 * Info Page using apis
@@ -411,6 +412,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ## Game Development
 
+* Zombie Survival Game
+* Haunted House Game
 * Shooting Target Game
 * Endless Runner
 * Car Racing Game
@@ -421,7 +424,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Tic Tac Toe
 * Pong
 * Procedural Mesh Generation
-* Temple Run
+* Temple Run 
 * Snake Game
 * Flappy Bird
 * Sudoku
@@ -439,6 +442,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### Augmented Reality
 
+* Mummy AR Puppet Game
+* AR Drone Game
 * AR Chemistry (Markerbased)
 * AR Book (Markerbased)
 * AR Bottle Shooter (Markerless)
