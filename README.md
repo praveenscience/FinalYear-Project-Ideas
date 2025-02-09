@@ -382,6 +382,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Face Identification App
 * Blog App
 * Chatting App (similar to WhatsApp)
+* Dating Pet App 
 
 ### Android Studio
 
