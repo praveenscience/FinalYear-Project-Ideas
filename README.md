@@ -106,6 +106,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Testimonial Slider
 * Contact Form For Portfolio with Firebase as Realtime DB
 * Crossword Solver 
+
 ### React JS
 
 * ToDo App
@@ -272,11 +273,20 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Water Gun Game
 * Mobile Assistant 
 * Calculator
-* CRUD REST API in Flask and MongoDB(for beginners)
 * Calorie Counter
 * Student Companion app
 * Social Media backend
 * Content Management system
+
+### Flask & SQLite
+* Simple Chat App
+* Task Management System 
+
+### Tkinter
+* Finance Tracker
+
+### Streamlit
+* Resume Analyzer using Streamlit & Groq AI
 
 ## Programming Ideas
 
@@ -484,6 +494,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
   beautifully._
 * 2D Snake Game 
 * News App using News API
+* Finance Tracker
+* Attendance App using Flutter & Firebase
+* E-Voting App using Flutter & Firebase
 
 ## AI/ML
 
