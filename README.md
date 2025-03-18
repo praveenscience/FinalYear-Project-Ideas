@@ -151,8 +151,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Whatsapp Clone
 * WhatsApp Web Clone
 * Facebook Clone
-
-
 * Hostel Management System
 * Frontend Pagination
 * Digital Clock
@@ -273,19 +271,23 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Water Gun Game
 * Mobile Assistant 
 * Calculator
+* CRUD REST API in Flask and MongoDB
 * Calorie Counter
 * Student Companion app
 * Social Media backend
 * Content Management system
 
 ### Flask & SQLite
+
 * Simple Chat App
 * Task Management System 
 
 ### Tkinter
+
 * Finance Tracker
 
 ### Streamlit
+
 * Resume Analyzer using Streamlit & Groq AI
 
 ## Programming Ideas
