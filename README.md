@@ -503,6 +503,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ## AI/ML
 
 * Hair Cutting App
+* Number plate detection using yolov8
 * Sales Prediction
 * Handwriting Recogniser
 * Chatbot for Healthcare Management
@@ -565,7 +566,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Energy Meter with Current, Voltage and Cost Monitoring System 
 * IoT Industry Protection System Arduino 
 * IoT Color Based Product Sorting Machine Project 
-* IoT Smart Energy Grid 
+* IoT Smart Energy Grid
+* Serverless Luggage Tracking System Integrating IOT
 * IoT Paralysis Patient Health Care Project 
 * IoT Car Parking System Smart Dustbin With IOT Notifications 
 * IoT Smart Mirror With News & Temperature 
