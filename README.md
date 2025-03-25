@@ -106,6 +106,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Testimonial Slider
 * Contact Form For Portfolio with Firebase as Realtime DB
 * Crossword Solver 
+
 ### React JS
 
 * ToDo App
@@ -150,8 +151,6 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Whatsapp Clone
 * WhatsApp Web Clone
 * Facebook Clone
-
-
 * Hostel Management System
 * Frontend Pagination
 * Digital Clock
@@ -272,11 +271,24 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Water Gun Game
 * Mobile Assistant 
 * Calculator
-* CRUD REST API in Flask and MongoDB(for beginners)
+* CRUD REST API in Flask and MongoDB
 * Calorie Counter
 * Student Companion app
 * Social Media backend
 * Content Management system
+
+### Flask & SQLite
+
+* Simple Chat App
+* Task Management System 
+
+### Tkinter
+
+* Finance Tracker
+
+### Streamlit
+
+* Resume Analyzer using Streamlit & Groq AI
 
 ## Programming Ideas
 
@@ -294,6 +306,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Program to remotely Power On a PC over the internet using the Wake-on-LAN protocol
 * Finding cabs nearby using Great Circle Distance formula
 * Teacher's Attendance Management System
+* Snake Game
 
 ### Python
 
@@ -483,11 +496,15 @@ We'll organise into different streams here. One kind request for motivation: Ple
   beautifully._
 * 2D Snake Game 
 * News App using News API
+* Finance Tracker
+* Attendance App using Flutter & Firebase
+* E-Voting App using Flutter & Firebase
 
 ## AI/ML
 
 * Hair Cutting App
 * Number plate detection using yolov8
+* Sales Prediction
 * Handwriting Recogniser
 * Chatbot for Healthcare Management
 * Spam Email Detection System
@@ -507,6 +524,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Human Expressions Classifier
   > _Classifying human expressions and mapping them to emojis._
 * Geographical analysis of Images
+* Cancer/Tumor detection using Image Segmentation
 
 ## Data Structures and Algorithms
 
