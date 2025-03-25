@@ -503,6 +503,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ## AI/ML
 
 * Hair Cutting App
+* Sales Prediction
 * Handwriting Recogniser
 * Chatbot for Healthcare Management
 * Spam Email Detection System
