@@ -601,7 +601,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT based Flood & Drought predictor
 * IoT Based Smart Door Locking System
 * IoT based temprature controlled fan
-
+* IOT Luggage tracking system
 ## Data Science
 
 * Chatbot
