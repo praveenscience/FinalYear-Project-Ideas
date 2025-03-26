@@ -45,6 +45,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Custom Scroll Bar
 * Score Landing Page
 * Info Page using apis
+* Yoga Exercieses
 
 ### JavaScript
 
