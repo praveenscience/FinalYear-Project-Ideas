@@ -42,6 +42,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Store Page
 * Simple Admission form
 * CSS Image Gallery
+* Wiki game clone
 * Custom Scroll Bar
 * Score Landing Page
 * Info Page using apis
@@ -342,6 +343,8 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Music Player
 * Currency Converter
 * QR Code Generator
+* Flappy bird game
+* Snake game 
 * Cone and Obstacle Detection
   > _using yolov5/open cv_
 * Random quote generator
@@ -352,6 +355,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Log Analyser
 * CSV Parser
 * PDF To DOCX Converter
+
 
 ### Java
 
