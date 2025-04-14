@@ -174,6 +174,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
   > _A community & documentation curated front end for all the dev languages._
 * A chatting application
 
+
 ## Back End Ideas
 
 ### Spring Stack
@@ -521,6 +522,9 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Text Summariser
 * Text Analyzer using NLP (Natural Language Processing text) and spaCy
 * Sudoku Solver using Backtracking and OpenCV
+* Tumor Analysis
+* A Vision based system for diver safety assistance
+* Personalized Music Recommendation System
 * Human Expressions Classifier
   > _Classifying human expressions and mapping them to emojis._
 * Geographical analysis of Images
@@ -601,6 +605,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT based Flood & Drought predictor
 * IoT Based Smart Door Locking System
 * IoT based temprature controlled fan
+* IoT based Smart Mirror for Cloth trails
 
 ## Data Science
 
