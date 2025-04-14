@@ -365,6 +365,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Symmetric Encryption Cyptography
 * Snake Game
 * Tic-Tac-Toe Game using Swing
+* Online Bank Management System
 
 ### R
 
