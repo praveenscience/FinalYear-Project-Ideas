@@ -14,7 +14,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ### HTML & CSS
 
-* eCertificate Generating Site
+* E-Certificate Generating Site
 * Responsive Portfolio
 * Roadmap for Developers
 * Photography Site
