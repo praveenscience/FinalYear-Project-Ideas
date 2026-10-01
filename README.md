@@ -661,3 +661,4 @@ For a detailed guidance with pictures, see [Contributing to Open Source](https:/
 If you're not there, I am not there. Thank you for making this repository great! ❤️
 
 [![Contributors List](https://contrib.rocks/image?repo=praveenscience/Hacktoberfest-Project-Ideas)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/graphs/contributors)
+- [Ravi Yadav](https://github.com/ry7921864-sudo)
